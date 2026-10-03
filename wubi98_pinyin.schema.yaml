@@ -14,6 +14,9 @@ schema:
     - pinyin_simp
 
 switches:
+  - options: [ variants_hk, trad_tw, simplification ]
+    states: [ 香港繁體, 臺灣繁體, 大陆简体 ]
+    reset: [ 2 ]
   - name: emoji_suggestion
     reset: 1
     states: [ 🈚, 🈶 ]
@@ -39,6 +42,9 @@ engine:
     - reverse_lookup_translator
     - table_translator
   filters:
+    - simplifier@variants_hk
+    - simplifier@trad_tw
+    - simplifier
     - simplifier@emoji_suggestion
     - uniquifier
 
@@ -90,3 +96,15 @@ emoji_suggestion:
   opencc_config: emoji.json
   option_name: emoji_suggestion
   tips: all
+
+simplifier:
+  opencc_config: t2s.json
+  option_name: simplification
+
+variants_hk:
+  option_name: variants_hk
+  opencc_config: s2hk.json
+
+trad_tw:
+  option_name: trad_tw
+  opencc_config: s2tw.json
