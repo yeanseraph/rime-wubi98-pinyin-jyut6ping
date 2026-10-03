@@ -2,6 +2,8 @@
 
 一套自用的 Rime（小狼毫）输入法配置，含三种方案，支持 Emoji 表情符与简繁切换。
 
+本方案基于 **[Rime](https://github.com/rime/rime)（中州韵输入法引擎）** 构建，Windows 端使用 **[小狼毫 Weasel](https://github.com/rime/weasel)** 作为前端。
+
 ## 包含的方案
 
 | 方案 | schema_id | 说明 |
