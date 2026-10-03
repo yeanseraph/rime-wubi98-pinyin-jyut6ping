@@ -14,6 +14,16 @@
 
 **三个方案**默认简体，均可切换**香港繁體 / 臺灣繁體 / 大陆简体**（简入繁出，简体默认）；均带 **Emoji 表情符**（打"笑"出 😄，"吉他"出 🎸 等）。
 
+## 通过 plum（东风破）一键安装
+
+使用 Rime 官方配置管理器 [plum](https://github.com/rime/plum)（东风破），可一键安装本方案：
+
+```bash
+plum install yeanseraph/rime-wubi98-pinyin-jyut6ping
+```
+
+安装后执行「重新部署」，即可在方案菜单中选用本套方案。
+
 ## 安装方法
 
 1. 安装小狼毫 Weasel（Windows）或任意 Rime 前端
