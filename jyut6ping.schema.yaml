@@ -1,0 +1,102 @@
+# Rime schema
+# encoding: utf-8
+#
+# 精简简体粤拼方案（支持调号数字输入 + 繁体输出切换 + 表情符）
+#  - 简体默认输出，可切换香港繁体/台湾繁体
+#  - 无调号或数字调号均可输入：ngo / ngo5 → 我
+#  - 表情符：切换「有 Emoji」后可用
+
+schema:
+  schema_id: jyut6ping
+  name: 粵拼
+  version: "1.1"
+  description: 粤拼（简体默认，可繁体，支持调号与表情符）
+
+switches:
+  - options: [ variants_hk, trad_tw, simplification ]
+    states: [ 香港繁體, 臺灣繁體, 大陆简体 ]
+    reset: [ 2 ]
+  - name: emoji_suggestion
+    reset: 1
+    states: [ 🈚, 🈶 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+  filters:
+    - simplifier@variants_hk
+    - simplifier@trad_tw
+    - simplifier
+    - simplifier@emoji_suggestion
+    - uniquifier
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba123456
+  delimiter: " '"
+  algebra:
+    - derive/^([aeiou])/q$1/       # 喉塞音容错
+    - derive/^jy?([aeiou])/y$1/    # je -> ye, jyu -> yu
+    - derive/^jyu/ju/              # jyu -> ju
+    - derive/yu(?!ng|k)/y/         # yu -> y
+    - derive/(g|k)u(?!ng|k)/$1wu/  # gw/kw 圆唇
+    - derive/eoi(?=\d)/eoy/        # eoi 容错
+    - derive/eo/oe/                # eo/oe 不分
+    - derive/aa(?=\d)/a/           # aa 容错
+    - derive/\d//                  # 忽略声调（无调号直接打）
+    - abbrev/^([a-z]).+$/$1/       # 首字母简拼
+
+translator:
+  dictionary: jyut6ping3
+  enable_user_dict: true
+  spelling_hints: 0
+  preedit_format:
+    - xform/([aeiouymngptk])vv/${1}4/
+    - xform/([aeiouymngptk])xx/${1}5/
+    - xform/([aeiouymngptk])qq/${1}6/
+    - xform/([aeiouymngptk])v/${1}1/
+    - xform/([aeiouymngptk])x/${1}2/
+    - xform/([aeiouymngptk])q/${1}3/
+
+simplifier:
+  opencc_config: t2s.json
+  option_name: simplification
+
+variants_hk:
+  option_name: variants_hk
+  opencc_config: s2hk.json
+
+trad_tw:
+  option_name: trad_tw
+  opencc_config: s2tw.json
+
+emoji_suggestion:
+  opencc_config: emoji.json
+  option_name: emoji_suggestion
+  tips: all
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    punct: "^/([0-9]0?|[a-z]+)$"

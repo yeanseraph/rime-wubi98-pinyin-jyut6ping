@@ -1,0 +1,110 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: pinyin_simp
+  name: 拼音
+  version: "0.8"
+  author:
+    - 佚名
+  description: |
+    纯拼音输入法：全拼＋简拼，简体默认（可切换香港繁体/台湾繁体），支持表情符，带词频记忆与笔画反查。
+  dependencies:
+    - stroke
+
+switches:
+  - options: [ variants_hk, trad_tw, simplification ]
+    states: [ 香港繁體, 臺灣繁體, 大陆简体 ]
+    reset: [ 2 ]
+  - name: emoji_suggestion
+    reset: 1
+    states: [ 🈚, 🈶 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+    - reverse_lookup_translator
+  filters:
+    - simplifier@variants_hk
+    - simplifier@trad_tw
+    - simplifier
+    - simplifier@emoji_suggestion
+    - uniquifier
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+  algebra:
+    - abbrev/^([a-z]).+$/$1/       # 首字母简拼
+    - abbrev/^([zcs]h).+$/$1/      # 双声母简拼
+    - derive/^([nl])ue$/$1ve/      # lue/nue -> lve/nve
+    - derive/^([jqxy])u/$1v/       # ju/qu/xu/yu -> jv/qv/xv/yv
+    - derive/un$/uen/              # 韵母容错
+    - derive/ui$/uei/
+    - derive/iu$/iou/
+    - derive/([aeiou])ng$/$1gn/
+    - derive/([dtngkhrzcs])o(u|ng)$/$1o/
+    - derive/ong$/on/
+    - derive/ao$/oa/
+    - derive/([iu])a(o|ng?)$/a$1$2/
+
+translator:
+  dictionary: pinyin_simp
+  enable_user_dict: true          # 词频记忆
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
+reverse_lookup:
+  dictionary: stroke
+  enable_completion: true
+  prefix: "`"
+  suffix: "'"
+  tips: 〔笔画〕
+  preedit_format:
+    - xlit/hspnz/一丨丿丶乙/
+
+simplifier:
+  opencc_config: t2s.json
+  option_name: simplification
+
+variants_hk:
+  option_name: variants_hk
+  opencc_config: s2hk.json
+
+trad_tw:
+  option_name: trad_tw
+  opencc_config: s2tw.json
+
+emoji_suggestion:
+  opencc_config: emoji.json
+  option_name: emoji_suggestion
+  tips: all
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "`[a-z]*'?$"

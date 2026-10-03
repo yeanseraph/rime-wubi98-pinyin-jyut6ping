@@ -1,0 +1,10989 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 98 五笔(王码五笔98版)字典，参照 wubi98_ci.dict.txt 格式
+#  来源: wubi98/wubi98-tables, yanhuacuo/98wubi-unicode,
+#        98五笔资源库(单字/词组/19万词条)
+#
+---
+name: wubi98_chars
+version: "1.0"
+sort: by_weight
+columns:
+  - text
+  - code
+  - weight
+  - stem
+...
+工	a	100	aaaa
+戈	a	100	agny
+式	aa	100	aayi
+藏	aa	100	aauh
+工	aaa	100	aaaa
+工	aaaa	100	aaaa
+匿	aad	100	aadk
+匿	aadk	100	aadk
+芽	aah	100	aaht
+芽	aaht	100	aaht
+戒	aak	100	aak
+藏	aau	100	aauh
+藏	aauh	100	aauh
+式	aay	100	aayi
+式	aayi	100	aayi
+节	ab	100	abj
+萨	ab	100	abut
+茸	abf	100	abf
+蒸	abi	100	abio
+蒸	abio	100	abio
+节	abj	100	abj
+茁	abm	100	abmj
+茁	abmj	100	abmj
+萨	abu	100	abut
+萨	abut	100	abut
+芭	ac	100	acb
+茅	ac	100	acnt
+茎	aca	100	acaf
+茎	acaf	100	acaf
+芭	acb	100	acb
+苔	ack	100	ackf
+苔	ackf	100	ackf
+茅	acn	100	acnt
+茅	acnt	100	acnt
+惹	ad	100	adkn
+苦	ad	100	adf
+莽	ada	100	adaj
+莽	adaj	100	adaj
+葫	adef	100	adef
+苦	adf	100	adf
+荐	adh	100	adhb
+荐	adhb	100	adhb
+茬	adhf	100	adhf
+若	adk	100	adkf
+若	adkf	100	adkf
+惹	adkn	100	adkn
+项	adm	100	admy
+项	admy	100	admy
+茂	adu	100	adu
+功	ae	100	aet
+苏	ae	100	aewu
+荔	aee	100	aeee
+荔	aeee	100	aeee
+茄	aek	100	aekf
+茄	aekf	100	aekf
+藐	aer	100	aerq
+藐	aerq	100	aerq
+菜	aes	100	aesu
+菜	aesu	100	aesu
+功	aet	100	aet
+散	aet	100	aety
+散	aety	100	aety
+藤	aeu	100	aeui
+藤	aeui	100	aeui
+苏	aew	100	aewu
+苏	aewu	100	aewu
+革	af	100	afj
+鞋	af	100	afff
+靶	afc	100	afcn
+靶	afcn	100	afcn
+勒	afe	100	afet
+勒	afet	100	afet
+鞋	afff	100	afff
+蒜	afi	100	afii
+蒜	afii	100	afii
+革	afj	100	afj
+蕾	afl	100	aflf
+蕾	aflf	100	aflf
+贰	afm	100	afmy
+贰	afmy	100	afmy
+苇	afn	100	afnh
+苇	afnh	100	afnh
+鞍	afp	100	afpv
+荸	afpb	100	afpb
+鞍	afpv	100	afpv
+芜	afq	100	afqb
+芜	afqb	100	afqb
+鞠	afqo	100	afqo
+藕	afsy	100	afsy
+著	aft	100	aftj
+著	aftj	100	aftj
+鞭	afw	100	afwr
+鞭	afwr	100	afwr
+菱	afwt	100	afwt
+靴	afwx	100	afwx
+七	ag	100	agn
+巧	ag	100	agnn
+荆	aga	100	agaj
+荆	agaj	100	agaj
+芋	agf	100	agfj
+芋	agfj	100	agfj
+蔫	agh	100	agho
+蔫	agho	100	agho
+七	agn	100	agn
+巧	agnn	100	agnn
+戈	agny	100	agny
+葬	agq	100	agqa
+葬	agqa	100	agqa
+茉	ags	100	agsu
+茉	agsu	100	agsu
+芙	agu	100	agu
+荚	agud	100	agud
+苹	aguf	100	aguf
+莱	agus	100	agus
+牙	ah	100	ahte
+雅	ah	100	ahty
+菲	ahd	100	ahdd
+匪	ahdd	100	ahdd
+菲	ahdd	100	ahdd
+苫	ahkf	100	ahkf
+熙	ahko	100	ahko
+臣	ahn	100	ahnh
+卧	ahnh	100	ahnh
+臣	ahnh	100	ahnh
+雅	aht	100	ahty
+邪	ahtb	100	ahtb
+牙	ahte	100	ahte
+鸦	ahtg	100	ahtg
+雅	ahty	100	ahty
+东	ai	100	aii
+落	ai	100	aitk
+范	aib	100	aibb
+范	aibb	100	aibb
+菠	aibu	100	aibu
+萍	aig	100	aigf
+萍	aigf	100	aigf
+东	aii	100	aii
+藻	aik	100	aiks
+藻	aiks	100	aiks
+荡	ain	100	ainr
+荡	ainr	100	ainr
+蒲	ais	100	aisu
+薄	aisf	100	aisf
+蒲	aisu	100	aisu
+蔽	ait	100	aitu
+落	aitk	100	aitk
+蔽	aitu	100	aitu
+汞	aiu	100	aiu
+茫	aiy	100	aiyn
+茫	aiyn	100	aiyn
+划	aj	100	ajh
+草	aj	100	ajj
+莫	ajd	100	ajdu
+募	ajde	100	ajde
+墓	ajdf	100	ajdf
+幕	ajdh	100	ajdh
+暮	ajdj	100	ajdj
+慕	ajdn	100	ajdn
+摹	ajdr	100	ajdr
+莫	ajdu	100	ajdu
+萌	aje	100	ajef
+萌	ajef	100	ajef
+昔	ajf	100	ajf
+划	ajh	100	ajh
+草	ajj	100	ajj
+蔓	ajl	100	ajlc
+蔓	ajlc	100	ajlc
+葛	ajq	100	ajqn
+鹊	ajqg	100	ajqg
+葛	ajqn	100	ajqn
+蓝	ajt	100	ajtl
+蓝	ajtl	100	ajtl
+茧	aju	100	aju
+惑	ak	100	akgn
+或	ak	100	akgd
+勤	akg	100	akge
+或	akgd	100	akgd
+勤	akge	100	akge
+惑	akgn	100	akgn
+燕	aku	100	akuo
+燕	akuo	100	akuo
+苗	al	100	alf
+莲	al	100	alpu
+蔑	ala	100	alaw
+蔑	alaw	100	alaw
+茵	ald	100	aldu
+茵	aldu	100	aldu
+苗	alf	100	alf
+薯	alf	100	alfj
+薯	alfj	100	alfj
+匣	alk	100	alk
+茴	alkf	100	alkf
+莲	alp	100	alpu
+莲	alpu	100	alpu
+萝	alq	100	alqu
+萝	alqu	100	alqu
+菌	alt	100	altu
+菌	altu	100	altu
+贡	am	100	amu
+黄	am	100	amwu
+英	amd	100	amdu
+英	amdu	100	amdu
+贡	amu	100	amu
+黄	amw	100	amwu
+黄	amwu	100	amwu
+世	an	100	anv
+艺	an	100	anb
+艺	anb	100	anb
+巨	and	100	and
+蔚	anf	100	anff
+蔚	anff	100	anff
+蔬	anh	100	anhk
+蔬	anhk	100	anhk
+蕊	ann	100	annn
+蕊	annn	100	annn
+芯	anu	100	anu
+世	anv	100	anv
+蘑	ao	100	aosd
+蔗	aoa	100	aoao
+蔗	aoao	100	aoao
+蘑	aosd	100	aosd
+芝	ap	100	apu
+蒙	ap	100	apfe
+劳	ape	100	aper
+劳	aper	100	aper
+蒙	apf	100	apfe
+蒙	apfe	100	apfe
+莹	apg	100	apgy
+莹	apgy	100	apgy
+萤	apj	100	apju
+萤	apju	100	apju
+营	apk	100	apkk
+营	apkk	100	apkk
+荤	apl	100	aplj
+荤	aplj	100	aplj
+荧	apo	100	apou
+荧	apou	100	apou
+莺	apq	100	apqg
+莺	apqg	100	apqg
+荣	aps	100	apsu
+荣	apsu	100	apsu
+芝	apu	100	apu
+蓉	apw	100	apwk
+蓉	apwk	100	apwk
+匹	aq	100	aqv
+敬	aq	100	aqkt
+警	aqk	100	aqky
+苟	aqkf	100	aqkf
+擎	aqkr	100	aqkr
+敬	aqkt	100	aqkt
+警	aqky	100	aqky
+苞	aqn	100	aqnb
+苞	aqnb	100	aqnb
+菊	aqo	100	aqou
+菊	aqou	100	aqou
+葱	aqr	100	aqrn
+葱	aqrn	100	aqrn
+葡	aqs	100	aqsu
+葡	aqsu	100	aqsu
+萄	aqt	100	aqtb
+萄	aqtb	100	aqtb
+获	aqtd	100	aqtd
+匹	aqv	100	aqv
+芍	aqy	100	aqyu
+芍	aqyu	100	aqyu
+区	ar	100	ari
+艾	ar	100	aru
+区	ari	100	ari
+芹	arj	100	arj
+匠	ark	100	ark
+欧	arq	100	arqw
+鸥	arqg	100	arqg
+欧	arqw	100	arqw
+艾	aru	100	aru
+殴	arw	100	arwc
+殴	arwc	100	arwc
+蘸	asgo	100	asgo
+苛	ask	100	askf
+苛	askf	100	askf
+攻	at	100	aty
+董	at	100	atgf
+医	atd	100	atdi
+医	atdi	100	atdi
+荞	atdj	100	atdj
+蓬	atdp	100	atdp
+董	atg	100	atgf
+董	atgf	100	atgf
+翘	atgn	100	atgn
+莉	atj	100	atjj
+莉	atjj	100	atjj
+蓖	atl	100	atlx
+蓖	atlx	100	atlx
+薇	atm	100	atmt
+薇	atmt	100	atmt
+薛	atn	100	atnu
+孽	atnb	100	atnb
+薛	atnu	100	atnu
+萎	atv	100	atvf
+萎	atvf	100	atvf
+攻	aty	100	aty
+蒋	au	100	auqf
+菩	auk	100	aukf
+菩	aukf	100	aukf
+蒋	auqf	100	auqf
+薪	aus	100	ausr
+薪	ausr	100	ausr
+切	av	100	avt
+萧	av	100	avhw
+菇	avd	100	avdf
+菇	avdf	100	avdf
+萧	avh	100	avhw
+萧	avhw	100	avhw
+切	avt	100	avt
+共	aw	100	awu
+花	aw	100	awxb
+苍	awb	100	awbb
+苍	awbb	100	awbb
+葵	awg	100	awgd
+葵	awgd	100	awgd
+芥	awj	100	awjj
+芥	awjj	100	awjj
+巷	awn	100	awnb
+巷	awnb	100	awnb
+恭	awnu	100	awnu
+茶	aws	100	awsu
+荷	awsk	100	awsk
+茶	awsu	100	awsu
+共	awu	100	awu
+芬	awv	100	awvr
+芬	awvr	100	awvr
+巫	aww	100	awwi
+巫	awwi	100	awwi
+花	awx	100	awxb
+花	awxb	100	awxb
+恐	awy	100	awyn
+恐	awyn	100	awyn
+蕉	awyo	100	awyo
+巩	awyy	100	awyy
+药	ax	100	axqy
+蕴	ax	100	axjl
+蕴	axj	100	axjl
+蕴	axjl	100	axjl
+药	axq	100	axqy
+药	axqy	100	axqy
+芳	ay	100	ayr
+荒	ay	100	aynk
+蔼	ayj	100	ayjn
+荠	ayjj	100	ayjj
+蔼	ayjn	100	ayjn
+蒿	aym	100	aymk
+蒿	aymk	100	aymk
+芦	ayn	100	aynr
+匾	ayna	100	ayna
+芒	aynb	100	aynb
+荒	aynk	100	aynk
+芦	aynr	100	aynr
+芳	ayr	100	ayr
+蒂	ayu	100	ayuh
+蒂	ayuh	100	ayuh
+蓄	ayx	100	ayxl
+蓄	ayxl	100	ayxl
+了	b	100	bnh
+子	b	100	bbbb
+陈	ba	100	baiy
+陈	bai	100	baiy
+陈	baiy	100	baiy
+子	bb	100	bbbb
+孕	bb	100	bbf
+子	bbb	100	bbbb
+子	bbbb	100	bbbb
+孕	bbf	100	bbf
+取	bc	100	bcy
+聚	bc	100	bciu
+聂	bcc	100	bccu
+聂	bccu	100	bccu
+聚	bci	100	bciu
+聚	bciu	100	bciu
+盈	bcl	100	bclf
+盈	bclf	100	bclf
+娶	bcv	100	bcvf
+娶	bcvf	100	bcvf
+取	bcy	100	bcy
+承	bd	100	bdii
+随	bd	100	bdep
+随	bde	100	bdep
+堕	bdef	100	bdef
+随	bdep	100	bdep
+承	bdi	100	bdii
+承	bdii	100	bdii
+陌	bdj	100	bdjg
+陌	bdjg	100	bdjg
+颇	bdm	100	bdmy
+颇	bdmy	100	bdmy
+阴	be	100	beg
+阻	be	100	begg
+阴	beg	100	beg
+阻	beg	100	begg
+阻	begg	100	begg
+际	bf	100	bfiy
+陵	bf	100	bfwt
+陡	bfh	100	bfhy
+陡	bfhy	100	bfhy
+际	bfi	100	bfiy
+际	bfiy	100	bfiy
+阱	bfj	100	bfjh
+阱	bfjh	100	bfjh
+陵	bfw	100	bfwt
+陵	bfwt	100	bfwt
+卫	bg	100	bgd
+陆	bg	100	bgbh
+陆	bgb	100	bgbh
+陆	bgbh	100	bgbh
+卫	bgd	100	bgd
+耳	bgh	100	bghg
+耳	bghg	100	bghg
+隔	bgk	100	bgkh
+隔	bgkh	100	bgkh
+陋	bgm	100	bgmn
+陋	bgmn	100	bgmn
+陕	bgu	100	bgud
+陕	bgud	100	bgud
+耻	bh	100	bhg
+耻	bhg	100	bhg
+函	bi	100	bibk
+孙	bi	100	biy
+函	bib	100	bibk
+函	bibk	100	bibk
+隙	bij	100	biji
+隙	biji	100	biji
+逊	bip	100	bipi
+逊	bipi	100	bipi
+孙	biy	100	biy
+阳	bj	100	bjg
+隅	bj	100	bjmy
+阳	bjg	100	bjg
+隅	bjm	100	bjmy
+隅	bjmy	100	bjmy
+职	bk	100	bkwy
+陨	bkm	100	bkmy
+陨	bkmy	100	bkmy
+职	bkw	100	bkwy
+职	bkwy	100	bkwy
+孟	bl	100	blf
+阵	bl	100	blh
+孟	blf	100	blf
+阵	blh	100	blh
+出	bm	100	bmk
+聘	bm	100	bmgn
+祟	bmf	100	bmfi
+祟	bmfi	100	bmfi
+聘	bmg	100	bmgn
+聘	bmgn	100	bmgn
+出	bmk	100	bmk
+也	bn	100	bnhn
+皮	bn	100	bnty
+了	bnh	100	bnh
+也	bnhn	100	bnhn
+孔	bnn	100	bnn
+乃	bnt	100	bnt
+皮	bnty	100	bnty
+耿	bo	100	boy
+耿	boy	100	boy
+辽	bp	100	bpk
+院	bp	100	bpfq
+院	bpf	100	bpfq
+院	bpfq	100	bpfq
+辽	bpk	100	bpk
+耽	bpq	100	bpqn
+耽	bpqn	100	bpqn
+聊	bq	100	bqtb
+陶	bq	100	bqtb
+陷	bqe	100	bqeg
+陷	bqeg	100	bqeg
+聊	bqt	100	bqtb
+聊	bqtb	100	bqtb
+陶	bqtb	100	bqtb
+隐	bqv	100	bqvn
+隐	bqvn	100	bqvn
+孤	br	100	brcy
+孤	brcy	100	brcy
+阿	bs	100	bskg
+阿	bsk	100	bskg
+阿	bskg	100	bskg
+降	bt	100	btgh
+隆	bt	100	btgg
+隆	btg	100	btgg
+隆	btgg	100	btgg
+降	btgh	100	btgh
+联	bu	100	budy
+陪	bu	100	bukg
+联	bud	100	budy
+联	budy	100	budy
+隧	bue	100	buep
+隧	buep	100	buep
+障	buj	100	bujh
+障	bujh	100	bujh
+陪	buk	100	bukg
+陪	bukg	100	bukg
+聪	bukn	100	bukn
+隘	buw	100	buwl
+隘	buwl	100	buwl
+限	bv	100	bvy
+限	bvy	100	bvy
+队	bw	100	bwy
+险	bw	100	bwgg
+附	bwf	100	bwfy
+坠	bwff	100	bwff
+附	bwfy	100	bwfy
+除	bwg	100	bwgs
+险	bwgg	100	bwgg
+除	bwgs	100	bwgs
+阶	bwj	100	bwjh
+阶	bwjh	100	bwjh
+队	bwy	100	bwy
+及	by	100	byi
+防	by	100	byt
+及	byi	100	byi
+孩	byn	100	bynw
+孩	bynw	100	bynw
+防	byt	100	byt
+以	c	100	nywy
+又	c	100	cccc
+劲	ca	100	caet
+戏	ca	100	cay
+颈	cad	100	cadm
+颈	cadm	100	cadm
+劲	cae	100	caet
+劲	caet	100	caet
+戏	cay	100	cay
+邓	cb	100	cbh
+邓	cbh	100	cbh
+双	cc	100	ccy
+叠	cc	100	cccg
+又	ccc	100	cccc
+又	cccc	100	cccc
+垒	cccf	100	cccf
+叠	cccg	100	cccg
+桑	cccs	100	cccs
+双	ccy	100	ccy
+叁	cd	100	cddf
+参	cd	100	cder
+叁	cdd	100	cddf
+叁	cddf	100	cddf
+参	cder	100	cder
+劝	ce	100	cet
+能	ce	100	cexx
+勇	cee	100	ceer
+勇	ceer	100	ceer
+通	cep	100	cepk
+通	cepk	100	cepk
+劝	cet	100	cet
+熊	cex	100	cexo
+熊	cexo	100	cexo
+能	cexx	100	cexx
+对	cf	100	cfy
+特	cf	100	cffy
+圣	cff	100	cff
+特	cffy	100	cffy
+牡	cfg	100	cfg
+对	cfy	100	cfy
+马	cg	100	cgd
+骗	cg	100	cgya
+驱	cga	100	cgar
+驱	cgar	100	cgar
+骤	cgb	100	cgbi
+骤	cgbi	100	cgbi
+驰	cgbn	100	cgbn
+骚	cgcj	100	cgcj
+骏	cgct	100	cgct
+马	cgd	100	cgd
+骑	cgd	100	cgdk
+骑	cgdk	100	cgdk
+驮	cgdy	100	cgdy
+驯	cgk	100	cgkh
+驯	cgkh	100	cgkh
+驶	cgkr	100	cgkr
+骡	cgl	100	cgli
+骡	cgli	100	cgli
+驼	cgp	100	cgpx
+驼	cgpx	100	cgpx
+驹	cgq	100	cgqk
+驹	cgqk	100	cgqk
+驳	cgr	100	cgrr
+驳	cgrr	100	cgrr
+骄	cgt	100	cgtj
+骄	cgtj	100	cgtj
+骆	cgtk	100	cgtk
+验	cgw	100	cgwg
+验	cgwg	100	cgwg
+驴	cgy	100	cgyn
+骗	cgya	100	cgya
+驻	cgyg	100	cgyg
+驴	cgyn	100	cgyn
+骇	cgyw	100	cgyw
+台	ck	100	ckf
+怠	ck	100	cknu
+台	ckf	100	ckf
+怠	ckn	100	cknu
+怠	cknu	100	cknu
+观	cm	100	cmqn
+观	cmq	100	cmqn
+观	cmqn	100	cmqn
+予	cn	100	cnhj
+预	cn	100	cnhm
+巴	cnh	100	cnhn
+豫	cnhe	100	cnhe
+予	cnhj	100	cnhj
+预	cnhm	100	cnhm
+巴	cnhn	100	cnhn
+柔	cnhs	100	cnhs
+矛	cnht	100	cnht
+欢	cq	100	cqwy
+物	cq	100	cqrt
+允	cqb	100	cqb
+鸡	cqg	100	cqgg
+鸡	cqgg	100	cqgg
+物	cqr	100	cqrt
+物	cqrt	100	cqrt
+欢	cqw	100	cqwy
+欢	cqwy	100	cqwy
+牺	cs	100	csg
+牺	csg	100	csg
+牧	ct	100	cty
+牲	ctg	100	ctgg
+牲	ctgg	100	ctgg
+牧	cty	100	cty
+艰	cv	100	cvy
+艰	cvy	100	cvy
+难	cw	100	cwyg
+难	cwy	100	cwyg
+难	cwyg	100	cwyg
+叉	cy	100	cyi
+蚤	cy	100	cyju
+叉	cyi	100	cyi
+蚤	cyj	100	cyju
+蚤	cyju	100	cyju
+在	d	100	dhfd
+大	d	100	dddd
+左	da	100	daf
+砸	da	100	damh
+左	daf	100	daf
+砸	dam	100	damh
+砸	damh	100	damh
+磺	damw	100	damw
+碟	dan	100	dans
+碟	dans	100	dans
+砌	dav	100	davt
+砌	davt	100	davt
+破	db	100	dby
+顾	db	100	dbdm
+顾	dbd	100	dbdm
+顾	dbdm	100	dbdm
+础	dbm	100	dbmh
+础	dbmh	100	dbmh
+破	dby	100	dby
+友	dc	100	dcu
+雄	dc	100	dcwy
+码	dcg	100	dcgg
+码	dcgg	100	dcgg
+友	dcu	100	dcu
+雄	dcw	100	dcwy
+雄	dcwy	100	dcwy
+大	dd	100	dddd
+套	dd	100	ddu
+大	dddd	100	dddd
+碱	ddg	100	ddgk
+碱	ddgk	100	ddgk
+厦	ddh	100	ddht
+厦	ddht	100	ddht
+厌	ddi	100	ddi
+硕	ddm	100	ddmy
+硕	ddmy	100	ddmy
+套	ddu	100	ddu
+历	de	100	dee
+胡	de	100	deg
+郁	deb	100	debh
+郁	debh	100	debh
+历	dee	100	dee
+硼	deeg	100	deeg
+有	def	100	def
+胡	deg	100	deg
+鬓	depw	100	depw
+夯	der	100	der
+压	df	100	dfyi
+夺	df	100	dfu
+奔	dfa	100	dfaj
+奔	dfaj	100	dfaj
+磕	dfc	100	dfcl
+磕	dfcl	100	dfcl
+辰	dfe	100	dfei
+辱	dfef	100	dfef
+辰	dfei	100	dfei
+唇	dfek	100	dfek
+硅	dffg	100	dffg
+奈	dfi	100	dfiu
+奈	dfiu	100	dfiu
+砖	dfn	100	dfny
+夸	dfnb	100	dfnb
+砖	dfny	100	dfny
+奢	dft	100	dftj
+奢	dftj	100	dftj
+夺	dfu	100	dfu
+压	dfy	100	dfyi
+压	dfyi	100	dfyi
+三	dg	100	dggg
+感	dg	100	dgkn
+研	dga	100	dgah
+研	dgah	100	dgah
+三	dggg	100	dggg
+古	dgh	100	dghg
+古	dghg	100	dghg
+硬	dgj	100	dgjr
+硬	dgjr	100	dgjr
+咸	dgk	100	dgkd
+咸	dgkd	100	dgkd
+厨	dgkf	100	dgkf
+感	dgkn	100	dgkn
+厉	dgq	100	dgqe
+励	dgqe	100	dgqe
+厉	dgqe	100	dgqe
+厂	dgt	100	dgt
+石	dgtg	100	dgtg
+犬	dgty	100	dgty
+砰	dgu	100	dguf
+砰	dguf	100	dguf
+威	dgv	100	dgvd
+威	dgvd	100	dgvd
+否	dh	100	dhkf
+还	dh	100	dhpi
+存	dhb	100	dhbd
+存	dhbd	100	dhbd
+慧	dhd	100	dhdn
+慧	dhdn	100	dhdn
+在	dhf	100	dhfd
+在	dhfd	100	dhfd
+歪	dhg	100	dhgh
+歪	dhgh	100	dhgh
+不	dhi	100	dhi
+戚	dhi	100	dhii
+戚	dhii	100	dhii
+丰	dhk	100	dhk
+否	dhkf	100	dhkf
+还	dhp	100	dhpi
+还	dhpi	100	dhpi
+艳	dhq	100	dhqc
+艳	dhqc	100	dhqc
+夏	dht	100	dhtu
+夏	dhtu	100	dhtu
+契	dhv	100	dhvd
+契	dhvd	100	dhvd
+泵	di	100	diu
+砂	di	100	ditt
+硝	die	100	dieg
+硝	dieg	100	dieg
+砂	dit	100	ditt
+砂	ditt	100	ditt
+泵	diu	100	diu
+厚	dj	100	djbd
+百	dj	100	djf
+厚	djb	100	djbd
+厚	djbd	100	djbd
+厘	djf	100	djfd
+百	djf	100	djf
+厘	djfd	100	djfd
+碍	djg	100	djgf
+碍	djgf	100	djgf
+奄	djn	100	djnb
+奄	djnb	100	djnb
+右	dk	100	dkf
+右	dkf	100	dkf
+奋	dl	100	dlf
+面	dl	100	dljf
+奋	dlf	100	dlf
+面	dlj	100	dljf
+面	dljf	100	dljf
+而	dm	100	dmjj
+耐	dm	100	dmjf
+碘	dma	100	dmaw
+碘	dmaw	100	dmaw
+碳	dmd	100	dmdo
+碳	dmdo	100	dmdo
+碉	dmf	100	dmfk
+碉	dmfk	100	dmfk
+布	dmh	100	dmhj
+布	dmhj	100	dmhj
+厕	dmj	100	dmjk
+耐	dmjf	100	dmjf
+而	dmjj	100	dmjj
+厕	dmjk	100	dmjk
+耍	dmjv	100	dmjv
+砚	dmq	100	dmqn
+砚	dmqn	100	dmqn
+页	dmu	100	dmu
+尤	dn	100	dnyi
+成	dn	100	dnv
+碾	dna	100	dnae
+碾	dnae	100	dnae
+盛	dnl	100	dnlf
+盛	dnlf	100	dnlf
+成	dnv	100	dnv
+尤	dny	100	dnyi
+尤	dnyi	100	dnyi
+灰	do	100	dou
+矿	do	100	dot
+盔	dol	100	dolf
+盔	dolf	100	dolf
+磷	doq	100	doqg
+磷	doqg	100	doqg
+矿	dot	100	dot
+灰	dou	100	dou
+牵	dp	100	dptg
+达	dp	100	dpi
+达	dpi	100	dpi
+碗	dpq	100	dpqb
+碗	dpqb	100	dpqb
+牵	dpt	100	dptg
+牵	dptg	100	dptg
+克	dq	100	dqb
+确	dq	100	dqeh
+克	dqb	100	dqb
+兢	dqd	100	dqdq
+兢	dqdq	100	dqdq
+确	dqe	100	dqeh
+确	dqeh	100	dqeh
+砍	dqw	100	dqwy
+砍	dqwy	100	dqwy
+原	dr	100	drii
+愿	dr	100	drin
+愿	dri	100	drin
+原	drii	100	drii
+愿	drin	100	drin
+爽	drr	100	drrr
+爽	drrr	100	drrr
+碑	drt	100	drtf
+碑	drtf	100	drtf
+厅	ds	100	dsk
+奇	ds	100	dskf
+厢	dsh	100	dshd
+厢	dshd	100	dshd
+碴	dsj	100	dsjg
+碴	dsjg	100	dsjg
+厅	dsk	100	dsk
+奇	dsk	100	dskf
+奇	dskf	100	dskf
+帮	dt	100	dtbh
+故	dt	100	dty
+邦	dtb	100	dtbh
+帮	dtbh	100	dtbh
+邦	dtbh	100	dtbh
+寿	dtf	100	dtfu
+寿	dtfu	100	dtfu
+砾	dtn	100	dtni
+砾	dtni	100	dtni
+故	dty	100	dty
+碰	du	100	duog
+辜	du	100	duj
+辜	duj	100	duj
+碰	duo	100	duog
+碰	duog	100	duog
+磁	dux	100	duxx
+磁	duxx	100	duxx
+碌	dv	100	dviy
+肆	dv	100	dvgh
+肆	dvg	100	dvgh
+肆	dvgh	100	dvgh
+碌	dvi	100	dviy
+碌	dviy	100	dviy
+其	dw	100	dwu
+期	dw	100	dweg
+期	dwe	100	dweg
+期	dweg	100	dweg
+基	dwf	100	dwff
+基	dwff	100	dwff
+奉	dwg	100	dwgj
+奏	dwgd	100	dwgd
+奉	dwgj	100	dwgj
+泰	dwiu	100	dwiu
+春	dwj	100	dwjf
+春	dwjf	100	dwjf
+蠢	dwjj	100	dwjj
+甚	dwnb	100	dwnb
+勘	dwne	100	dwne
+斟	dwnf	100	dwnf
+欺	dwq	100	dwqw
+欺	dwqw	100	dwqw
+斯	dwr	100	dwrh
+斯	dwrh	100	dwrh
+秦	dwt	100	dwtu
+秦	dwtu	100	dwtu
+其	dwu	100	dwu
+雁	dww	100	dwwy
+雁	dwwy	100	dwwy
+矾	dwy	100	dwyy
+礁	dwyo	100	dwyo
+矾	dwyy	100	dwyy
+龙	dx	100	dxyi
+袭	dxy	100	dxye
+聋	dxyb	100	dxyb
+袭	dxye	100	dxye
+垄	dxyf	100	dxyf
+龙	dxyi	100	dxyi
+太	dy	100	dyi
+态	dy	100	dynu
+硫	dyc	100	dyck
+硫	dyck	100	dyck
+丈	dyi	100	dyi
+太	dyi	100	dyi
+态	dyn	100	dynu
+态	dynu	100	dynu
+磅	dyu	100	dyuy
+磅	dyuy	100	dyuy
+碎	dyw	100	dywf
+碎	dywf	100	dywf
+月	e	100	eeee
+有	e	100	def
+毁	ea	100	eawc
+肛	ea	100	eag
+腻	eaf	100	eafy
+腻	eafy	100	eafy
+肛	eag	100	eag
+膜	eajd	100	eajd
+腊	eajg	100	eajg
+朦	eap	100	eape
+朦	eape	100	eape
+毁	eaw	100	eawc
+毁	eawc	100	eawc
+乳	eb	100	ebnn
+服	eb	100	ebcy
+服	ebc	100	ebcy
+服	ebcy	100	ebcy
+乳	ebn	100	ebnn
+乳	ebnn	100	ebnn
+肥	ec	100	ecn
+胎	ec	100	eckg
+胎	eck	100	eckg
+胎	eckg	100	eckg
+肥	ecn	100	ecn
+胯	ed	100	edfn
+须	ed	100	edmy
+胯	edf	100	edfn
+胯	edfn	100	edfn
+胚	edh	100	edhg
+胚	edhg	100	edhg
+腌	edj	100	edjn
+腌	edjn	100	edjn
+须	edm	100	edmy
+须	edmy	100	edmy
+胧	edx	100	edxy
+胧	edxy	100	edxy
+朋	ee	100	eeg
+鹏	ee	100	eeqg
+月	eee	100	eeee
+月	eeee	100	eeee
+舀	eef	100	eef
+朋	eeg	100	eeg
+鹏	eeq	100	eeqg
+鹏	eeqg	100	eeqg
+肋	eet	100	eet
+胁	eew	100	eewy
+胁	eewy	100	eewy
+肚	ef	100	efg
+脚	ef	100	efcb
+肢	efc	100	efcy
+脚	efcb	100	efcb
+肢	efcy	100	efcy
+肚	efg	100	efg
+肝	efh	100	efh
+膨	efk	100	efke
+膨	efke	100	efke
+脖	efp	100	efpb
+脖	efpb	100	efpb
+豺	eft	100	eftt
+豺	eftt	100	eftt
+肘	efy	100	efy
+且	eg	100	egd
+助	eg	100	eget
+县	egc	100	egcu
+悬	egcn	100	egcn
+县	egcu	100	egcu
+且	egd	100	egd
+助	ege	100	eget
+助	eget	100	eget
+肺	egm	100	egmh
+肺	egmh	100	egmh
+胰	egx	100	egxw
+胰	egxw	100	egxw
+肤	egy	100	egy
+毡	eh	100	ehkd
+毡	ehkd	100	ehkd
+膛	ei	100	eipf
+膛	eip	100	eipf
+膛	eipf	100	eipf
+胆	ej	100	ejgg
+腥	ej	100	ejtg
+胆	ejg	100	ejgg
+胆	ejgg	100	ejgg
+腥	ejt	100	ejtg
+腥	ejtg	100	ejtg
+加	ek	100	ekg
+架	ek	100	eksu
+驾	ekc	100	ekcg
+驾	ekcg	100	ekcg
+加	ekg	100	ekg
+肿	ekh	100	ekhh
+肿	ekhh	100	ekhh
+臊	ekk	100	ekks
+臊	ekks	100	ekks
+贺	ekm	100	ekmu
+贺	ekmu	100	ekmu
+架	eks	100	eksu
+架	eksu	100	eksu
+爵	el	100	elvf
+舆	el	100	elgw
+舅	ele	100	eler
+舅	eler	100	eler
+舆	elg	100	elgw
+舆	elgw	100	elgw
+腮	eln	100	elny
+腮	elny	100	elny
+爵	elv	100	elvf
+爵	elvf	100	elvf
+觅	em	100	emqb
+觅	emq	100	emqb
+觅	emqb	100	emqb
+力	en	100	ent
+鼠	en	100	enun
+肠	enr	100	enrt
+肠	enrt	100	enrt
+力	ent	100	ent
+鼠	enu	100	enun
+鼠	enun	100	enun
+甩	env	100	env
+毯	eo	100	eooi
+脏	eo	100	eofg
+脏	eof	100	eofg
+脏	eofg	100	eofg
+毯	eoo	100	eooi
+毯	eooi	100	eooi
+爱	ep	100	epdc
+边	ep	100	epe
+受	epc	100	epcu
+受	epcu	100	epcu
+爱	epd	100	epdc
+爱	epdc	100	epdc
+脓	epe	100	epey
+边	epe	100	epe
+脓	epey	100	epey
+腕	epq	100	epqb
+腕	epqb	100	epqb
+腔	epw	100	epwa
+腔	epwa	100	epwa
+胸	eq	100	eqrb
+豹	eq	100	eqyy
+脆	eqd	100	eqdb
+脆	eqdb	100	eqdb
+胞	eqn	100	eqnn
+胞	eqnn	100	eqnn
+胸	eqr	100	eqrb
+胸	eqrb	100	eqrb
+豹	eqy	100	eqyy
+豹	eqyy	100	eqyy
+脾	er	100	ertf
+貌	er	100	erqn
+腺	eri	100	eriy
+腺	eriy	100	eriy
+貌	erqn	100	erqn
+脾	ert	100	ertf
+脾	ertf	100	ertf
+腰	es	100	esvg
+采	es	100	esu
+彩	ese	100	eset
+彩	eset	100	eset
+膊	esf	100	esfy
+膘	esfi	100	esfi
+膊	esfy	100	esfy
+采	esu	100	esu
+腰	esv	100	esvg
+腰	esvg	100	esvg
+膝	esw	100	eswi
+膝	eswi	100	eswi
+脯	esy	100	esy
+毛	et	100	etgn
+用	et	100	etnh
+胀	eta	100	etay
+胀	etay	100	etay
+遥	etf	100	etfp
+遥	etfp	100	etfp
+胜	etg	100	etgg
+胜	etgg	100	etgg
+毛	etgn	100	etgn
+臼	eth	100	ethg
+臼	ethg	100	ethg
+腹	etj	100	etjt
+腹	etjt	100	etjt
+胳	etk	100	etkg
+胳	etkg	100	etkg
+用	etn	100	etnh
+用	etnh	100	etnh
+胶	eu	100	eury
+腾	eu	100	eugg
+胖	eug	100	eugh
+腾	eugg	100	eugg
+胖	eugh	100	eugh
+脱	euk	100	eukq
+脱	eukq	100	eukq
+胶	eur	100	eury
+胶	eury	100	eury
+膳	euu	100	euuk
+膳	euuk	100	euuk
+妥	ev	100	evf
+腿	ev	100	evpy
+妥	evf	100	evf
+腿	evp	100	evpy
+腿	evpy	100	evpy
+办	ew	100	ewi
+脸	ew	100	ewgg
+股	ewc	100	ewcy
+股	ewcy	100	ewcy
+脸	ewg	100	ewgg
+脸	ewgg	100	ewgg
+办	ewi	100	ewi
+肌	ewn	100	ewn
+脂	ex	100	exjg
+脂	exj	100	exjg
+脂	exjg	100	exjg
+肪	ey	100	eyt
+脑	ey	100	eyrb
+脐	eyj	100	eyjh
+脐	eyjh	100	eyjh
+脉	eyn	100	eyni
+脉	eyni	100	eyni
+脑	eyr	100	eyrb
+脑	eyrb	100	eyrb
+肪	eyt	100	eyt
+膀	eyu	100	eyuy
+膀	eyuy	100	eyuy
+肮	eyw	100	eywn
+肮	eywn	100	eywn
+腋	eywy	100	eywy
+土	f	100	ffff
+地	f	100	fbn
+域	fa	100	fakg
+戴	fa	100	falw
+霸	faf	100	fafe
+霸	fafe	100	fafe
+堰	fajv	100	fajv
+域	fakg	100	fakg
+载	fal	100	fald
+载	fald	100	fald
+戴	falw	100	falw
+栽	fas	100	fasi
+栽	fasi	100	fasi
+塔	faw	100	fawk
+塔	fawk	100	fawk
+截	fawy	100	fawy
+裁	fay	100	faye
+裁	faye	100	faye
+圾	fb	100	fbyy
+坡	fb	100	fby
+地	fbn	100	fbn
+圾	fby	100	fbyy
+坡	fby	100	fby
+圾	fbyy	100	fbyy
+云	fc	100	fcu
+支	fc	100	fcu
+却	fcb	100	fcbh
+却	fcbh	100	fcbh
+动	fce	100	fcet
+动	fcet	100	fcet
+劫	fcet	100	fcet
+翅	fcn	100	fcnd
+翅	fcnd	100	fcnd
+运	fcp	100	fcpi
+运	fcpi	100	fcpi
+魂	fcr	100	fcrc
+魂	fcrc	100	fcrc
+埃	fct	100	fctd
+埃	fctd	100	fctd
+云	fcu	100	fcu
+去	fcu	100	fcu
+支	fcu	100	fcu
+城	fd	100	fdnn
+需	fd	100	fdmj
+雳	fde	100	fder
+雳	fder	100	fder
+震	fdf	100	fdfe
+震	fdfe	100	fdfe
+垮	fdfn	100	fdfn
+坏	fdh	100	fdhy
+坯	fdhg	100	fdhg
+坏	fdhy	100	fdhy
+需	fdm	100	fdmj
+需	fdmj	100	fdmj
+城	fdn	100	fdnn
+城	fdnn	100	fdnn
+堪	fdw	100	fdwn
+堪	fdwn	100	fdwn
+协	fe	100	fewy
+协	few	100	fewy
+协	fewy	100	fewy
+寺	ff	100	ffu
+封	ff	100	fffy
+坛	ffc	100	ffcy
+坛	ffcy	100	ffcy
+土	ffff	100	ffff
+封	fffy	100	fffy
+填	ffh	100	ffhw
+填	ffhw	100	ffhw
+卦	ffhy	100	ffhy
+款	ffi	100	ffiw
+款	ffiw	100	ffiw
+堵	fft	100	fftj
+堵	fftj	100	fftj
+墙	ffu	100	ffuk
+寺	ffu	100	ffu
+墙	ffuk	100	ffuk
+十	fg	100	fgh
+干	fg	100	fggh
+二	fgg	100	fgg
+干	fggh	100	fggh
+未	fggy	100	fggy
+十	fgh	100	fgh
+士	fgh	100	fghg
+士	fghg	100	fghg
+甘	fghg	100	fghg
+寸	fghy	100	fghy
+雨	fghy	100	fghy
+埂	fgjr	100	fgjr
+坪	fgu	100	fguf
+坪	fguf	100	fguf
+直	fh	100	fhf
+起	fh	100	fhnv
+越	fha	100	fhan
+越	fhan	100	fhan
+趣	fhb	100	fhbc
+趣	fhbc	100	fhbc
+直	fhf	100	fhf
+赶	fhf	100	fhfk
+矗	fhfh	100	fhfh
+赶	fhfk	100	fhfk
+址	fhg	100	fhg
+赴	fhh	100	fhhi
+赴	fhhi	100	fhhi
+趟	fhi	100	fhik
+趟	fhik	100	fhik
+盐	fhl	100	fhlf
+盐	fhlf	100	fhlf
+起	fhn	100	fhnv
+起	fhnv	100	fhnv
+趋	fhq	100	fhqv
+趋	fhqv	100	fhqv
+赵	fhr	100	fhri
+赵	fhri	100	fhri
+走	fhu	100	fhu
+超	fhv	100	fhvk
+超	fhvk	100	fhvk
+真	fhw	100	fhwu
+趁	fhwe	100	fhwe
+颠	fhwm	100	fhwm
+真	fhwu	100	fhwu
+示	fi	100	fiu
+示	fiu	100	fiu
+刊	fj	100	fjh
+韩	fj	100	fjfh
+朝	fje	100	fjeg
+朝	fjeg	100	fjeg
+埋	fjf	100	fjfg
+埋	fjfg	100	fjfg
+韩	fjfh	100	fjfh
+坦	fjg	100	fjgg
+坦	fjgg	100	fjgg
+堤	fjgh	100	fjgh
+刊	fjh	100	fjh
+坤	fjh	100	fjhh
+坤	fjhh	100	fjhh
+井	fjk	100	fjk
+塌	fjn	100	fjng
+塌	fjng	100	fjng
+进	fjp	100	fjpk
+进	fjpk	100	fjpk
+乾	fjt	100	fjtn
+乾	fjtn	100	fjtn
+翰	fjw	100	fjwn
+翰	fjwn	100	fjwn
+吉	fk	100	fkf
+彭	fk	100	fkue
+袁	fke	100	fkeu
+袁	fkeu	100	fkeu
+吉	fkf	100	fkf
+露	fkhk	100	fkhk
+喜	fku	100	fkuk
+鼓	fkuc	100	fkuc
+彭	fkue	100	fkue
+喜	fkuk	100	fkuk
+嘉	fkuk	100	fkuk
+雷	fl	100	flf
+雷	flf	100	flf
+南	fm	100	fmuf
+献	fm	100	fmud
+献	fmu	100	fmud
+献	fmud	100	fmud
+南	fmuf	100	fmuf
+坝	fmy	100	fmy
+场	fn	100	fnrt
+志	fn	100	fnu
+亏	fnb	100	fnb
+霞	fnhc	100	fnhc
+违	fnhp	100	fnhp
+韧	fnhy	100	fnhy
+霹	fnk	100	fnku
+霹	fnku	100	fnku
+声	fnr	100	fnr
+场	fnrt	100	fnrt
+卖	fnu	100	fnud
+志	fnu	100	fnu
+卖	fnud	100	fnud
+块	fnw	100	fnwy
+块	fnwy	100	fnwy
+专	fny	100	fnyi
+专	fnyi	100	fnyi
+赤	fo	100	fou
+赫	fof	100	fofo
+赫	fofo	100	fofo
+赦	foty	100	foty
+赤	fou	100	fou
+塘	fov	100	fovk
+塘	fovk	100	fovk
+索	fp	100	fpxi
+过	fp	100	fpi
+勃	fpb	100	fpbe
+勃	fpbe	100	fpbe
+壹	fpg	100	fpgu
+壹	fpgu	100	fpgu
+过	fpi	100	fpi
+壶	fpo	100	fpof
+壶	fpof	100	fpof
+壳	fpw	100	fpwb
+壳	fpwb	100	fpwb
+索	fpx	100	fpxi
+索	fpxi	100	fpxi
+元	fq	100	fqb
+无	fq	100	fqv
+元	fqb	100	fqb
+顽	fqd	100	fqdm
+顽	fqdm	100	fqdm
+雹	fqn	100	fqnb
+雹	fqnb	100	fqnb
+远	fqp	100	fqpv
+远	fqpv	100	fqpv
+均	fqu	100	fqug
+均	fqug	100	fqug
+无	fqv	100	fqv
+坎	fqw	100	fqwy
+坎	fqwy	100	fqwy
+垢	fr	100	frgk
+垢	frgk	100	frgk
+某	fs	100	fsu
+耙	fsc	100	fscn
+耙	fscn	100	fscn
+耗	fse	100	fsen
+耗	fsen	100	fsen
+博	fsf	100	fsfy
+耘	fsfc	100	fsfc
+耕	fsfj	100	fsfj
+博	fsfy	100	fsfy
+霜	fsh	100	fshf
+霜	fshf	100	fshf
+坷	fsk	100	fskg
+坷	fskg	100	fskg
+某	fsu	100	fsu
+才	ft	100	fte
+都	ft	100	ftjb
+孝	ftb	100	ftbf
+孝	ftbf	100	ftbf
+教	ftbt	100	ftbt
+才	fte	100	fte
+雾	fte	100	fter
+雾	fter	100	fter
+考	ftg	100	ftgn
+考	ftgn	100	ftgn
+者	ftj	100	ftjf
+都	ftjb	100	ftjb
+者	ftjf	100	ftjf
+煮	ftjo	100	ftjo
+埠	ftn	100	ftnf
+埠	ftnf	100	ftnf
+坞	ftng	100	ftng
+老	ftx	100	ftxb
+老	ftxb	100	ftxb
+霉	ftxu	100	ftxu
+境	fu	100	fujq
+增	fu	100	fulj
+丧	fue	100	fueu
+丧	fueu	100	fueu
+幸	fuf	100	fufj
+幸	fufj	100	fufj
+垃	fug	100	fug
+境	fuj	100	fujq
+境	fujq	100	fujq
+培	fuk	100	fukg
+培	fukg	100	fukg
+增	fulj	100	fulj
+霎	fuv	100	fuvf
+霎	fuvf	100	fuvf
+雪	fv	100	fvf
+雪	fvf	100	fvf
+零	fw	100	fwyc
+霍	fw	100	fwyf
+垛	fws	100	fwsy
+垛	fwsy	100	fwsy
+堆	fwy	100	fwyg
+零	fwyc	100	fwyc
+霍	fwyf	100	fwyf
+堆	fwyg	100	fwyg
+坊	fy	100	fyt
+坑	fy	100	fywn
+墩	fyb	100	fybt
+墩	fybt	100	fybt
+壤	fyk	100	fyke
+壤	fyke	100	fyke
+壕	fyp	100	fype
+壕	fype	100	fype
+坊	fyt	100	fyt
+坑	fyw	100	fywn
+坑	fywn	100	fywn
+坟	fyy	100	fyy
+一	g	100	ggll
+王	g	100	gggg
+型	ga	100	gajf
+开	ga	100	gak
+邢	gab	100	gabh
+邢	gabh	100	gabh
+形	gae	100	gaet
+形	gaet	100	gaet
+武	gah	100	gahy
+鹉	gahg	100	gahg
+武	gahy	100	gahy
+弄	gaj	100	gaj
+型	gajf	100	gajf
+刑	gajh	100	gajh
+开	gak	100	gak
+盏	gal	100	galf
+盏	galf	100	galf
+击	gb	100	gbk
+顿	gb	100	gbnm
+击	gbk	100	gbk
+屯	gbn	100	gbnv
+顿	gbnm	100	gbnm
+屯	gbnv	100	gbnv
+玻	gby	100	gby
+到	gc	100	gcfj
+致	gc	100	gcft
+至	gcf	100	gcff
+至	gcff	100	gcff
+到	gcfj	100	gcfj
+致	gcft	100	gcft
+玛	gcg	100	gcgg
+玛	gcgg	100	gcgg
+天	gd	100	gdi
+环	gd	100	gdhy
+环	gdh	100	gdhy
+环	gdhy	100	gdhy
+天	gdi	100	gdi
+蚕	gdj	100	gdju
+蚕	gdju	100	gdju
+吞	gdk	100	gdkf
+吞	gdkf	100	gdkf
+表	ge	100	geu
+青	ge	100	gef
+青	gef	100	gef
+逐	gep	100	gepi
+逐	gepi	100	gepi
+静	geq	100	geqh
+静	geqh	100	geqh
+表	geu	100	geu
+于	gf	100	gfk
+玩	gf	100	gfqn
+于	gfk	100	gfk
+迂	gfp	100	gfpk
+迂	gfpk	100	gfpk
+玩	gfq	100	gfqn
+玩	gfqn	100	gfqn
+五	gg	100	gghg
+球	gg	100	ggiy
+琢	gge	100	ggey
+琢	ggey	100	ggey
+王	ggg	100	gggg
+王	gggg	100	gggg
+夫	gggy	100	gggy
+五	ggh	100	gghg
+五	gghg	100	gghg
+球	ggi	100	ggiy
+球	ggiy	100	ggiy
+替	ggj	100	ggjf
+替	ggjf	100	ggjf
+一	ggll	100	ggll
+瑟	ggn	100	ggnt
+瑟	ggnt	100	ggnt
+琴	ggw	100	ggwn
+琴	ggwn	100	ggwn
+下	gh	100	ghi
+正	gh	100	ghd
+正	ghd	100	ghd
+下	ghi	100	ghi
+玷	ghk	100	ghkg
+玷	ghkg	100	ghkg
+丐	ghn	100	ghnv
+丐	ghnv	100	ghnv
+政	ght	100	ghty
+政	ghty	100	ghty
+救	gi	100	giyt
+求	gi	100	giyi
+琐	gim	100	gimy
+琐	gimy	100	gimy
+救	giy	100	giyt
+求	giyi	100	giyi
+救	giyt	100	giyt
+更	gj	100	gjri
+理	gj	100	gjfg
+理	gjf	100	gjfg
+理	gjfg	100	gjfg
+惠	gjh	100	gjhn
+惠	gjhn	100	gjhn
+更	gjr	100	gjri
+更	gjri	100	gjri
+事	gk	100	gkvh
+逼	gk	100	gklp
+囊	gkh	100	gkhe
+囊	gkhe	100	gkhe
+噩	gkkk	100	gkkk
+副	gkl	100	gklj
+副	gklj	100	gklj
+逼	gklp	100	gklp
+融	gkm	100	gkmj
+融	gkmj	100	gkmj
+带	gkp	100	gkph
+带	gkph	100	gkph
+吏	gkr	100	gkri
+吏	gkri	100	gkri
+豆	gku	100	gkuf
+豌	gkub	100	gkub
+豆	gkuf	100	gkuf
+逗	gkup	100	gkup
+事	gkv	100	gkvh
+事	gkvh	100	gkvh
+画	gl	100	glbj
+画	glb	100	glbj
+画	glbj	100	glbj
+两	gm	100	gmww
+现	gm	100	gmqn
+曹	gma	100	gmaj
+曹	gmaj	100	gmaj
+遭	gmap	100	gmap
+瑞	gmd	100	gmdj
+瑞	gmdj	100	gmdj
+再	gmf	100	gmfd
+再	gmfd	100	gmfd
+珊	gmm	100	gmmg
+珊	gmmg	100	gmmg
+规	gmq	100	gmqn
+现	gmqn	100	gmqn
+规	gmqn	100	gmqn
+责	gmu	100	gmu
+丙	gmw	100	gmwi
+丙	gmwi	100	gmwi
+两	gmww	100	gmww
+丽	gmy	100	gmyy
+丽	gmyy	100	gmyy
+与	gn	100	gngd
+瓦	gn	100	gnny
+与	gngd	100	gngd
+瓦	gnn	100	gnny
+瓦	gnny	100	gnny
+严	go	100	gote
+亚	go	100	god
+亚	god	100	god
+灭	goi	100	goi
+晋	goj	100	gojf
+晋	gojf	100	gojf
+恶	gon	100	gonu
+恶	gonu	100	gonu
+严	got	100	gote
+严	gote	100	gote
+万	gq	100	gqe
+死	gq	100	gqxv
+万	gqe	100	gqe
+殖	gqf	100	gqfh
+殖	gqfh	100	gqfh
+残	gqg	100	gqga
+残	gqga	100	gqga
+麸	gqgy	100	gqgy
+歹	gqi	100	gqi
+列	gqj	100	gqjh
+裂	gqje	100	gqje
+列	gqjh	100	gqjh
+烈	gqjo	100	gqjo
+殃	gqm	100	gqmd
+殃	gqmd	100	gqmd
+迈	gqp	100	gqpe
+迈	gqpe	100	gqpe
+殉	gqq	100	gqqj
+殉	gqqj	100	gqqj
+殊	gqt	100	gqtf
+歼	gqtf	100	gqtf
+殊	gqtf	100	gqtf
+赘	gqtm	100	gqtm
+熬	gqto	100	gqto
+死	gqx	100	gqxv
+死	gqxv	100	gqxv
+玖	gqy	100	gqyy
+玖	gqyy	100	gqyy
+碧	gr	100	grdf
+碧	grd	100	grdf
+碧	grdf	100	grdf
+瑰	grq	100	grqc
+瑰	grqc	100	grqc
+末	gs	100	gsi
+琳	gs	100	gssy
+末	gsi	100	gsi
+琳	gss	100	gssy
+琳	gssy	100	gssy
+珠	gt	100	gtfy
+麦	gt	100	gtu
+珠	gtf	100	gtfy
+珠	gtfy	100	gtfy
+麦	gtu	100	gtu
+玫	gty	100	gty
+平	gu	100	gufk
+来	gu	100	gusi
+夹	gud	100	gudi
+夹	gudi	100	gudi
+颊	gudm	100	gudm
+平	guf	100	gufk
+平	gufk	100	gufk
+来	gusi	100	gusi
+妻	gv	100	gvhv
+妻	gvh	100	gvhv
+妻	gvhv	100	gvhv
+珍	gw	100	gwet
+珍	gwe	100	gwet
+珍	gwet	100	gwet
+玲	gwy	100	gwyc
+玲	gwyc	100	gwyc
+互	gx	100	gxd
+素	gx	100	gxiu
+互	gxd	100	gxd
+素	gxi	100	gxiu
+素	gxiu	100	gxiu
+毒	gxu	100	gxu
+夷	gxw	100	gxwi
+夷	gxwi	100	gxwi
+玉	gy	100	gyi
+班	gy	100	gytg
+琉	gyc	100	gyck
+琉	gyck	100	gyck
+斑	gyg	100	gygg
+斑	gygg	100	gygg
+玉	gyi	100	gyi
+琼	gyi	100	gyiy
+琼	gyiy	100	gyiy
+璃	gyr	100	gyrc
+璃	gyrc	100	gyrc
+班	gyt	100	gytg
+班	gytg	100	gytg
+琅	gyv	100	gyvy
+琅	gyvy	100	gyvy
+上	h	1000	hhgg
+目	h	60	hhhh
+瞒	ha	100	hagw
+虐	ha	100	hagd
+虐	hag	100	hagd
+虐	hagd	100	hagd
+眶	hagg	100	hagg
+瞒	hagw	100	hagw
+瞄	hal	100	halg
+瞄	halg	100	halg
+辈	hd	100	hdhl
+非	hd	100	hdhd
+悲	hdh	100	hdhn
+非	hdhd	100	hdhd
+韭	hdhg	100	hdhg
+辈	hdhl	100	hdhl
+悲	hdhn	100	hdhn
+瞭	hdui	100	hdui
+瞬	he	100	hepg
+肯	he	100	hef
+虏	hee	100	hee
+肯	hef	100	hef
+瞬	hep	100	hepg
+瞬	hepg	100	hepg
+睬	hes	100	hesy
+睬	hesy	100	hesy
+睦	hf	100	hfwf
+睹	hf	100	hftj
+歧	hfc	100	hfcy
+歧	hfcy	100	hfcy
+睹	hft	100	hftj
+睹	hftj	100	hftj
+睦	hfw	100	hfwf
+睦	hfwf	100	hfwf
+凸	hg	100	hghg
+睛	hg	100	hgeg
+盹	hgb	100	hgbn
+盹	hgbn	100	hgbn
+睛	hgeg	100	hgeg
+凸	hgh	100	hghg
+凸	hghg	100	hghg
+止	hh	100	hhgg
+步	hh	100	hhr
+频	hhd	100	hhdm
+频	hhdm	100	hhdm
+止	hhg	100	hhgg
+上	hhgg	100	hhgg
+止	hhgg	100	hhgg
+目	hhh	100	hhhh
+目	hhhh	100	hhhh
+步	hhr	100	hhr
+卡	hhu	100	hhu
+卜	hhy	100	hhy
+叔	hi	100	hicy
+督	hi	100	hich
+督	hic	100	hich
+督	hich	100	hich
+叔	hicy	100	hicy
+旧	hj	100	hjg
+桌	hj	100	hjsu
+旧	hjg	100	hjg
+卓	hjj	100	hjj
+桌	hjs	100	hjsu
+桌	hjsu	100	hjsu
+占	hk	100	hkf
+点	hk	100	hkou
+战	hka	100	hkay
+战	hkay	100	hkay
+占	hkf	100	hkf
+点	hko	100	hkou
+点	hkou	100	hkou
+卤	hl	100	hlru
+卤	hlru	100	hlru
+贞	hm	100	hmu
+贞	hmu	100	hmu
+虑	hn	100	hni
+鼎	hn	100	hndn
+眠	hna	100	hnan
+眠	hnan	100	hnan
+鼎	hnd	100	hndn
+颅	hndm	100	hndm
+鼎	hndn	100	hndn
+凹	hnh	100	hnhg
+凹	hnhg	100	hnhg
+虑	hni	100	hni
+卢	hnr	100	hnr
+眯	ho	100	hoy
+虚	ho	100	hod
+虚	hod	100	hod
+眯	hoy	100	hoy
+瞎	hp	100	hpdk
+瞎	hpd	100	hpdk
+瞎	hpdk	100	hpdk
+睁	hq	100	hqvh
+餐	hq	100	hqcv
+餐	hqcv	100	hqcv
+瞻	hqd	100	hqdy
+瞻	hqdy	100	hqdy
+睁	hqv	100	hqvh
+睁	hqvh	100	hqvh
+盯	hs	100	hsh
+盯	hsh	100	hsh
+睡	ht	100	htfa
+睡	htf	100	htfa
+睡	htfa	100	htfa
+眨	htp	100	htpy
+眨	htpy	100	htpy
+瞳	hu	100	hujf
+瞳	huj	100	hujf
+瞳	hujf	100	hujf
+眼	hv	100	hvy
+眼	hvy	100	hvy
+具	hw	100	hwu
+虎	hw	100	hwv
+齿	hwb	100	hwbj
+龄	hwbc	100	hwbc
+齿	hwbj	100	hwbj
+彪	hwe	100	hwee
+彪	hwee	100	hwee
+瞪	hwg	100	hwgu
+瞪	hwgu	100	hwgu
+具	hwu	100	hwu
+虎	hwv	100	hwv
+盼	hwvt	100	hwvt
+瞧	hwy	100	hwyo
+瞧	hwyo	100	hwyo
+些	hx	100	hxff
+此	hx	100	hxn
+些	hxf	100	hxff
+些	hxff	100	hxff
+此	hxn	100	hxn
+柴	hxs	100	hxsu
+柴	hxsu	100	hxsu
+雌	hxw	100	hxwy
+雌	hxwy	100	hxwy
+紫	hxx	100	hxxi
+紫	hxxi	100	hxxi
+不	i	100	dhi
+水	i	100	iiii
+江	ia	100	iag
+港	ia	100	iawn
+江	iag	100	iag
+满	iag	100	iagw
+满	iagw	100	iagw
+漠	iaj	100	iajd
+漠	iajd	100	iajd
+灌	iak	100	iaky
+灌	iaky	100	iaky
+汇	ian	100	ian
+泄	iann	100	iann
+渠	ians	100	ians
+涝	iap	100	iape
+涝	iape	100	iape
+鸿	iaq	100	iaqg
+鸿	iaqg	100	iaqg
+柒	ias	100	iasu
+柒	iasu	100	iasu
+浇	iat	100	iatq
+浇	iatq	100	iatq
+洪	iaw	100	iawy
+港	iawn	100	iawn
+洪	iawy	100	iawy
+池	ib	100	ibn
+波	ib	100	iby
+涵	ibi	100	ibib
+涵	ibib	100	ibib
+池	ibn	100	ibn
+婆	ibv	100	ibvf
+婆	ibvf	100	ibvf
+波	iby	100	iby
+汉	ic	100	icy
+治	ic	100	ickg
+渗	icd	100	icde
+渗	icde	100	icde
+涌	ice	100	iceh
+涌	iceh	100	iceh
+泽	icg	100	icgh
+泽	icgh	100	icgh
+治	ick	100	ickg
+治	ickg	100	ickg
+滩	icw	100	icwy
+滩	icwy	100	icwy
+汉	icy	100	icy
+尖	id	100	idu
+湖	id	100	ideg
+湖	ide	100	ideg
+湖	ideg	100	ideg
+沥	idet	100	idet
+涯	idf	100	idff
+涯	idff	100	idff
+沽	idg	100	idg
+淹	idj	100	idjn
+淹	idjn	100	idjn
+源	idr	100	idri
+源	idri	100	idri
+涛	idt	100	idtf
+涛	idtf	100	idtf
+尖	idu	100	idu
+潦	idu	100	idui
+潦	idui	100	idui
+汰	idy	100	idyy
+汰	idyy	100	idyy
+浮	ie	100	iebg
+肖	ie	100	ief
+浮	ieb	100	iebg
+浮	iebg	100	iebg
+滔	iee	100	ieeg
+滔	ieeg	100	ieeg
+肖	ief	100	ief
+沮	ieg	100	iegg
+沮	iegg	100	iegg
+削	iej	100	iejh
+削	iejh	100	iejh
+淫	iet	100	ietf
+淫	ietf	100	ietf
+溪	iex	100	iexd
+溪	iexd	100	iexd
+汗	if	100	ifh
+法	if	100	ifcy
+法	ifc	100	ifcy
+法	ifcy	100	ifcy
+尘	iff	100	iff
+洼	iffg	100	iffg
+汁	ifh	100	ifh
+汗	ifh	100	ifh
+潮	ifj	100	ifje
+潮	ifje	100	ifje
+洁	ifk	100	ifkg
+澎	ifke	100	ifke
+洁	ifkg	100	ifkg
+污	ifn	100	ifnn
+污	ifnn	100	ifnn
+渤	ifp	100	ifpe
+渤	ifpe	100	ifpe
+举	ig	100	igwg
+光	ig	100	igqb
+浅	iga	100	igay
+浅	igay	100	igay
+添	igd	100	igdn
+添	igdn	100	igdn
+清	ige	100	igeg
+清	igeg	100	igeg
+汪	igg	100	igg
+潜	iggj	100	iggj
+滞	igk	100	igkh
+滞	igkh	100	igkh
+沛	igmh	100	igmh
+耀	igq	100	igqy
+光	igqb	100	igqb
+辉	igql	100	igql
+耀	igqy	100	igqy
+沫	igs	100	igsy
+沫	igsy	100	igsy
+兴	igw	100	igwu
+举	igwg	100	igwg
+兴	igwu	100	igwu
+誉	igwy	100	igwy
+小	ih	100	ihty
+泪	ih	100	ihg
+泪	ihg	100	ihg
+涉	ihh	100	ihht
+濒	ihhm	100	ihhm
+涉	ihht	100	ihht
+淑	ihi	100	ihic
+淑	ihic	100	ihic
+渺	ihit	100	ihit
+沾	ihk	100	ihkg
+沾	ihkg	100	ihkg
+滤	ihn	100	ihny
+滤	ihny	100	ihny
+小	ihty	100	ihty
+水	ii	100	iiii
+消	ii	100	iieg
+消	iie	100	iieg
+消	iieg	100	iieg
+水	iiii	100	iiii
+淌	iim	100	iimk
+淌	iimk	100	iimk
+沙	iit	100	iitt
+沙	iitt	100	iitt
+浊	ij	100	ijy
+温	ij	100	ijlg
+瀑	ija	100	ijai
+瀑	ijai	100	ijai
+温	ijl	100	ijlg
+漫	ijlc	100	ijlc
+温	ijlg	100	ijlg
+湿	ijo	100	ijog
+湿	ijog	100	ijog
+渴	ijq	100	ijqn
+渴	ijqn	100	ijqn
+滥	ijt	100	ijtl
+滥	ijtl	100	ijtl
+混	ijx	100	ijxx
+混	ijxx	100	ijxx
+浊	ijy	100	ijy
+溃	ik	100	ikhm
+澡	ik	100	ikks
+溃	ikhm	100	ikhm
+澡	ikk	100	ikks
+澡	ikks	100	ikks
+涡	ikm	100	ikmw
+涡	ikmw	100	ikmw
+渐	il	100	ilrh
+渐	ilr	100	ilrh
+渐	ilrh	100	ilrh
+尚	im	100	imkf
+油	im	100	img
+滑	ime	100	imeg
+滑	imeg	100	imeg
+油	img	100	img
+洞	img	100	imgk
+溅	imga	100	imga
+洞	imgk	100	imgk
+测	imj	100	imjh
+测	imjh	100	imjh
+尚	imk	100	imkf
+尚	imkf	100	imkf
+敞	imkt	100	imkt
+泥	in	100	inxn
+漏	inf	100	infy
+汛	infh	100	infh
+漏	infy	100	infy
+涮	inm	100	inmj
+涮	inmj	100	inmj
+汤	inr	100	inrt
+烫	inro	100	inro
+汤	inrt	100	inrt
+泌	int	100	intt
+泌	intt	100	intt
+泼	inty	100	inty
+泥	inx	100	inxn
+泥	inxn	100	inxn
+淡	io	100	iooy
+渡	io	100	ioac
+渡	ioa	100	ioac
+渡	ioac	100	ioac
+淡	ioo	100	iooy
+淡	iooy	100	iooy
+党	ip	100	ipkq
+深	ip	100	ipws
+学	ipb	100	ipbf
+学	ipbf	100	ipbf
+浓	ipe	100	ipey
+浓	ipey	100	ipey
+尝	ipf	100	ipfc
+尝	ipfc	100	ipfc
+泻	ipg	100	ipgg
+泻	ipgg	100	ipgg
+淀	ipgh	100	ipgh
+演	ipgw	100	ipgw
+常	ipk	100	ipkh
+裳	ipke	100	ipke
+堂	ipkf	100	ipkf
+常	ipkh	100	ipkh
+赏	ipkm	100	ipkm
+党	ipkq	100	ipkq
+掌	ipkr	100	ipkr
+棠	ipks	100	ipks
+浑	ipl	100	iplh
+浑	iplh	100	iplh
+觉	ipm	100	ipmq
+觉	ipmq	100	ipmq
+沈	ipq	100	ipqn
+沈	ipqn	100	ipqn
+滨	ipr	100	iprw
+滨	iprw	100	iprw
+泞	ips	100	ipsh
+泞	ipsh	100	ipsh
+滓	ipu	100	ipuh
+滓	ipuh	100	ipuh
+沉	ipw	100	ipwn
+溶	ipwk	100	ipwk
+沉	ipwn	100	ipwn
+深	ipws	100	ipws
+沟	iq	100	iqcy
+溜	iq	100	iqyl
+沟	iqc	100	iqcy
+沟	iqcy	100	iqcy
+渔	iqgg	100	iqgg
+涣	iqm	100	iqmd
+涣	iqmd	100	iqmd
+泡	iqn	100	iqnn
+泡	iqnn	100	iqnn
+淘	iqt	100	iqtb
+淘	iqtb	100	iqtb
+溜	iqyl	100	iqyl
+汽	ir	100	irn
+派	ir	100	irey
+汹	irb	100	irbh
+汹	irbh	100	irbh
+淆	ird	100	irde
+淆	irde	100	irde
+湃	irdf	100	irdf
+派	ire	100	irey
+派	irey	100	irey
+泊	irg	100	irg
+汽	irn	100	irn
+浙	irr	100	irrh
+浙	irrh	100	irrh
+激	iry	100	iryt
+激	iryt	100	iryt
+浦	is	100	isy
+酒	is	100	isgg
+漂	isf	100	isfi
+漂	isfi	100	isfi
+洒	isg	100	isg
+酒	isgg	100	isgg
+湘	ishg	100	ishg
+潭	isj	100	isjh
+渣	isjg	100	isjg
+潭	isjh	100	isjh
+河	isk	100	iskg
+河	iskg	100	iskg
+漱	iskw	100	iskw
+淋	iss	100	issy
+淋	issy	100	issy
+漆	isw	100	iswi
+漆	iswi	100	iswi
+沐	isy	100	isy
+浦	isy	100	isy
+少	it	100	ite
+省	it	100	ithf
+弊	ita	100	itaj
+弊	itaj	100	itaj
+活	itd	100	itdg
+活	itdg	100	itdg
+沃	itdy	100	itdy
+劣	ite	100	iter
+少	ite	100	ite
+劣	iter	100	iter
+洗	itf	100	itfq
+浩	itfk	100	itfk
+洗	itfq	100	itfq
+省	ith	100	ithf
+省	ithf	100	ithf
+涎	ithp	100	ithp
+洛	itk	100	itkg
+洛	itkg	100	itkg
+澳	itm	100	itmd
+澳	itmd	100	itmd
+憋	itn	100	itnu
+憋	itnu	100	itnu
+潘	ito	100	itol
+渊	itoh	100	itoh
+潘	itol	100	itol
+泛	itp	100	itpy
+泛	itpy	100	itpy
+鳖	itq	100	itqg
+鳖	itqg	100	itqg
+涤	its	100	itsy
+涤	itsy	100	itsy
+海	itx	100	itxy
+海	itxy	100	itxy
+洋	iu	100	iuh
+滚	iu	100	iuce
+溯	iub	100	iube
+溯	iube	100	iube
+滚	iuc	100	iuce
+滚	iuce	100	iuce
+泣	iug	100	iug
+润	iugg	100	iugg
+漾	iugi	100	iugi
+洋	iuh	100	iuh
+涧	iujg	100	iujg
+澜	ius	100	iusl
+澜	iusl	100	iusl
+溢	iuw	100	iuwl
+溢	iuwl	100	iuwl
+滋	iux	100	iuxx
+涕	iuxt	100	iuxt
+滋	iuxx	100	iuxx
+当	iv	100	ivf
+津	iv	100	ivgh
+溉	iva	100	ivaq
+溉	ivaq	100	ivaq
+当	ivf	100	ivf
+津	ivgh	100	ivgh
+沼	ivk	100	ivkg
+沼	ivkg	100	ivkg
+浸	ivp	100	ivpc
+浸	ivpc	100	ivpc
+染	ivs	100	ivsu
+染	ivsu	100	ivsu
+梁	ivw	100	ivws
+粱	ivwo	100	ivwo
+梁	ivws	100	ivws
+涩	ivy	100	ivyh
+涩	ivyh	100	ivyh
+没	iw	100	iwcy
+涂	iw	100	iwgs
+沧	iwb	100	iwbn
+沧	iwbn	100	iwbn
+没	iwc	100	iwcy
+没	iwcy	100	iwcy
+脊	iwe	100	iwef
+脊	iwef	100	iwef
+洽	iwg	100	iwgk
+洽	iwgk	100	iwgk
+涂	iwgs	100	iwgs
+澄	iwgu	100	iwgu
+沿	iwk	100	iwkg
+沿	iwkg	100	iwkg
+浴	iww	100	iwwk
+浴	iwwk	100	iwwk
+沦	iwx	100	iwxn
+沦	iwxn	100	iwxn
+淮	iwy	100	iwyg
+雀	iwyf	100	iwyf
+淮	iwyg	100	iwyg
+沸	ix	100	ixjh
+涨	ix	100	ixty
+沸	ixj	100	ixjh
+沸	ixjh	100	ixjh
+涨	ixt	100	ixty
+涨	ixty	100	ixty
+溺	ixu	100	ixuu
+溺	ixuu	100	ixuu
+济	iy	100	iyjh
+游	iy	100	iytb
+淳	iyb	100	iybg
+淳	iybg	100	iybg
+流	iyc	100	iyck
+流	iyck	100	iyck
+澈	iyct	100	iyct
+注	iyg	100	iygg
+注	iygg	100	iygg
+济	iyjh	100	iyjh
+沪	iyn	100	iynt
+泳	iyni	100	iyni
+沪	iynt	100	iynt
+湾	iyo	100	iyox
+湾	iyox	100	iyox
+漓	iyr	100	iyrc
+漓	iyrc	100	iyrc
+洲	iyt	100	iyth
+游	iytb	100	iytb
+洲	iyth	100	iyth
+漩	iyth	100	iyth
+滴	iyu	100	iyud
+滴	iyud	100	iyud
+浪	iyv	100	iyvy
+浪	iyvy	100	iyvy
+液	iyw	100	iywy
+淤	iywu	100	iywu
+液	iywy	100	iywy
+日	j	100	jjjj
+是	j	100	jghu
+晓	ja	100	jatq
+暴	ja	100	jawi
+虹	jag	100	jag
+蚜	jah	100	jaht
+蚜	jaht	100	jaht
+蜡	jaj	100	jajg
+蟆	jajd	100	jajd
+蜡	jajg	100	jajg
+蝶	jan	100	jans
+蝶	jans	100	jans
+晓	jatq	100	jatq
+暴	jaw	100	jawi
+暴	jawi	100	jawi
+最	jb	100	jbcu
+最	jbc	100	jbcu
+最	jbcu	100	jbcu
+坚	jc	100	jcff
+紧	jc	100	jcxi
+肾	jce	100	jcef
+肾	jcef	100	jcef
+蛹	jceh	100	jceh
+坚	jcff	100	jcff
+蚂	jcg	100	jcgg
+蚂	jcgg	100	jcgg
+贤	jcm	100	jcmu
+贤	jcmu	100	jcmu
+竖	jcu	100	jcuf
+竖	jcuf	100	jcuf
+紧	jcx	100	jcxi
+紧	jcxi	100	jcxi
+晨	jd	100	jdfe
+蝴	jd	100	jdeg
+蝴	jde	100	jdeg
+蝴	jdeg	100	jdeg
+晨	jdfe	100	jdfe
+蚌	jdh	100	jdhh
+蚌	jdhh	100	jdhh
+明	je	100	jeg
+暖	je	100	jegc
+明	jeg	100	jeg
+暖	jeg	100	jegc
+暖	jegc	100	jegc
+蛆	jegg	100	jegg
+盟	jel	100	jelf
+盟	jelf	100	jelf
+时	jf	100	jfy
+里	jf	100	jfd
+野	jfc	100	jfch
+墅	jfcf	100	jfcf
+野	jfch	100	jfch
+昙	jfcu	100	jfcu
+里	jfd	100	jfd
+蠕	jfdj	100	jfdj
+蛙	jff	100	jffg
+蛙	jffg	100	jffg
+旱	jfj	100	jfj
+暑	jft	100	jftj
+暑	jftj	100	jftj
+时	jfy	100	jfy
+昧	jfy	100	jfy
+虾	jg	100	jghy
+量	jg	100	jgjf
+晴	jge	100	jgeg
+晴	jgeg	100	jgeg
+蜻	jgeg	100	jgeg
+旦	jgf	100	jgf
+旺	jgg	100	jgg
+题	jgh	100	jghm
+题	jghm	100	jghm
+是	jghu	100	jghu
+匙	jghx	100	jghx
+虾	jghy	100	jghy
+量	jgjf	100	jgjf
+晤	jgk	100	jgkg
+晤	jgkg	100	jgkg
+蝠	jgkl	100	jgkl
+师	jgm	100	jgmh
+师	jgmh	100	jgmh
+冒	jh	100	jhf
+早	jh	100	jhnh
+冒	jhf	100	jhf
+申	jhk	100	jhk
+畅	jhn	100	jhnr
+早	jhnh	100	jhnh
+畅	jhnr	100	jhnr
+虫	jhny	100	jhny
+晃	ji	100	jigq
+晃	jig	100	jigq
+晃	jigq	100	jigq
+昌	jj	100	jjf
+晶	jj	100	jjjf
+昌	jjf	100	jjf
+晶	jjj	100	jjjf
+晶	jjjf	100	jjjf
+日	jjjj	100	jjjj
+蝎	jjq	100	jjqn
+蝎	jjqn	100	jjqn
+蜗	jk	100	jkmw
+蝇	jk	100	jkjn
+蜈	jkg	100	jkgd
+蜈	jkgd	100	jkgd
+蝇	jkj	100	jkjn
+蝇	jkjn	100	jkjn
+蜗	jkm	100	jkmw
+蜗	jkmw	100	jkmw
+曙	jl	100	jlfj
+曼	jl	100	jlcu
+曼	jlc	100	jlcu
+曼	jlcu	100	jlcu
+曙	jlfj	100	jlfj
+蛔	jlk	100	jlkg
+蛔	jlkg	100	jlkg
+螺	jlx	100	jlxi
+螺	jlxi	100	jlxi
+愚	jm	100	jmhn
+遇	jm	100	jmhp
+映	jmd	100	jmdy
+映	jmdy	100	jmdy
+帅	jmh	100	jmhh
+帅	jmhh	100	jmhh
+愚	jmhn	100	jmhn
+遇	jmhp	100	jmhp
+昵	jn	100	jnxn
+电	jn	100	jnv
+暇	jnh	100	jnhc
+暇	jnhc	100	jnhc
+电	jnv	100	jnv
+昵	jnx	100	jnxn
+昵	jnxn	100	jnxn
+旷	jo	100	jot
+显	jo	100	jof
+显	jof	100	jof
+旷	jot	100	jot
+蛇	jp	100	jpxn
+螟	jpj	100	jpju
+螟	jpju	100	jpju
+晕	jpl	100	jplj
+晕	jplj	100	jplj
+蛇	jpx	100	jpxn
+蛇	jpxn	100	jpxn
+易	jq	100	jqrr
+晚	jq	100	jqkq
+昂	jqb	100	jqbj
+昂	jqbj	100	jqbj
+冕	jqk	100	jqkq
+冕	jqkq	100	jqkq
+晚	jqkq	100	jqkq
+易	jqr	100	jqrr
+剔	jqrj	100	jqrj
+易	jqrr	100	jqrr
+遏	jqw	100	jqwp
+遏	jqwp	100	jqwp
+歇	jqww	100	jqww
+蝗	jr	100	jrgg
+蚯	jrg	100	jrg
+蝗	jrgg	100	jrgg
+果	js	100	jsi
+颗	js	100	jsdm
+颗	jsd	100	jsdm
+颗	jsdm	100	jsdm
+晒	jsg	100	jsg
+果	jsi	100	jsi
+晰	jsr	100	jsrh
+晰	jsrh	100	jsrh
+临	jt	100	jtyj
+鉴	jt	100	jtyq
+蜂	jtd	100	jtdh
+蜂	jtdh	100	jtdh
+蜘	jtdk	100	jtdk
+蛛	jtf	100	jtfy
+蜓	jtfp	100	jtfp
+蛛	jtfy	100	jtfy
+星	jtg	100	jtgf
+星	jtgf	100	jtgf
+昨	jth	100	jthf
+昨	jthf	100	jthf
+蜒	jthp	100	jthp
+晌	jtm	100	jtmk
+晌	jtmk	100	jtmk
+蟋	jto	100	jton
+蟋	jton	100	jton
+蛾	jtr	100	jtry
+蛾	jtry	100	jtry
+蝌	jtu	100	jtuf
+蝌	jtuf	100	jtuf
+晦	jtx	100	jtxy
+晦	jtxy	100	jtxy
+览	jty	100	jtyq
+临	jtyj	100	jtyj
+监	jtyl	100	jtyl
+览	jtyq	100	jtyq
+鉴	jtyq	100	jtyq
+暗	ju	100	jujg
+蚪	jufh	100	jufh
+蝉	juj	100	jujf
+蝉	jujf	100	jujf
+暗	jujg	100	jujg
+蜕	juk	100	jukq
+蜕	jukq	100	jukq
+归	jv	100	jvg
+照	jv	100	jvko
+归	jvg	100	jvg
+昭	jvk	100	jvkg
+昭	jvkg	100	jvkg
+照	jvko	100	jvko
+蛤	jw	100	jwgk
+蚣	jwc	100	jwcy
+蚣	jwcy	100	jwcy
+蛤	jwgk	100	jwgk
+蛉	jwyc	100	jwyc
+昆	jx	100	jxxb
+蚓	jx	100	jxhh
+蚓	jxh	100	jxhh
+蚓	jxhh	100	jxhh
+昆	jxxb	100	jxxb
+影	jy	100	jyie
+景	jy	100	jyiu
+蛀	jyg	100	jygg
+蛀	jygg	100	jygg
+景	jyi	100	jyiu
+影	jyie	100	jyie
+景	jyiu	100	jyiu
+晾	jyiy	100	jyiy
+蝙	jyn	100	jyna
+蝙	jyna	100	jyna
+蚁	jyr	100	jyry
+蚁	jyry	100	jyry
+螃	jyu	100	jyuy
+螃	jyuy	100	jyuy
+蟀	jyx	100	jyxf
+蟀	jyxf	100	jyxf
+蚊	jyy	100	jyy
+中	k	100	khk
+口	k	100	kkkk
+呀	ka	100	kaht
+哎	ka	100	kary
+呀	kah	100	kaht
+呀	kaht	100	kaht
+唠	kap	100	kape
+唠	kape	100	kape
+哎	kar	100	kary
+呕	kary	100	kary
+哎	kary	100	kary
+哄	kaw	100	kawy
+哄	kawy	100	kawy
+吸	kb	100	kbyy
+啊	kb	100	kbsk
+嗤	kbhj	100	kbhj
+吼	kbn	100	kbnn
+吼	kbnn	100	kbnn
+啊	kbs	100	kbsk
+啊	kbsk	100	kbsk
+吸	kby	100	kbyy
+吸	kbyy	100	kbyy
+吗	kc	100	kcgg
+吧	kc	100	kcn
+邑	kcb	100	kcb
+嗓	kcc	100	kccs
+嗓	kccs	100	kccs
+吗	kcg	100	kcgg
+吗	kcgg	100	kcgg
+吧	kcn	100	kcn
+吮	kcq	100	kcqn
+吮	kcqn	100	kcqn
+唉	kct	100	kctd
+唉	kctd	100	kctd
+唆	kcw	100	kcwt
+唆	kcwt	100	kcwt
+叹	kcy	100	kcy
+喊	kd	100	kdgk
+顺	kd	100	kdmy
+咕	kdg	100	kdg
+喊	kdgk	100	kdgk
+嘁	kdhi	100	kdhi
+顺	kdm	100	kdmy
+顺	kdmy	100	kdmy
+嘹	kdui	100	kdui
+嘶	kdw	100	kdwr
+嘶	kdwr	100	kdwr
+咙	kdx	100	kdxy
+咙	kdxy	100	kdxy
+吠	kdy	100	kdy
+别	ke	100	kejh
+另	ke	100	ker
+别	kej	100	kejh
+别	kejh	100	kejh
+咖	kek	100	kekg
+咖	kekg	100	kekg
+嚼	kel	100	kelf
+嚼	kelf	100	kelf
+鹃	keq	100	keqg
+鹃	keqg	100	keqg
+另	ker	100	ker
+叶	kf	100	kfh
+味	kf	100	kfy
+喷	kfa	100	kfam
+喷	kfam	100	kfam
+吱	kfc	100	kfcy
+吱	kfcy	100	kfcy
+吐	kfg	100	kfg
+叶	kfh	100	kfh
+嘲	kfj	100	kfje
+嘲	kfje	100	kfje
+鄙	kfl	100	kflb
+鄙	kflb	100	kflb
+嗦	kfpi	100	kfpi
+哮	kft	100	kftb
+哮	kftb	100	kftb
+嗜	kftj	100	kftj
+味	kfy	100	kfy
+号	kg	100	kgnb
+吴	kg	100	kgdu
+吨	kgb	100	kgbn
+吨	kgbn	100	kgbn
+吴	kgd	100	kgdu
+吴	kgdu	100	kgdu
+啄	kge	100	kgey
+啄	kgey	100	kgey
+呈	kgf	100	kgf
+吁	kgfh	100	kgfh
+吓	kgh	100	kghy
+吓	kghy	100	kghy
+号	kgnb	100	kgnb
+哑	kgo	100	kgog
+哑	kgog	100	kgog
+逞	kgp	100	kgpd
+逞	kgpd	100	kgpd
+咧	kgqj	100	kgqj
+贵	kh	100	khgm
+足	kh	100	khu
+距	kha	100	khan
+距	khan	100	khan
+跷	khaq	100	khaq
+躏	khay	100	khay
+跛	khb	100	khby
+跛	khby	100	khby
+踊	khc	100	khce
+踊	khce	100	khce
+蹂	khcs	100	khcs
+跨	khd	100	khdn
+啡	khdd	100	khdd
+跨	khdn	100	khdn
+跋	khdy	100	khdy
+啃	khe	100	kheg
+蹈	khee	100	khee
+啃	kheg	100	kheg
+踩	khes	100	khes
+践	khg	100	khga
+践	khga	100	khga
+贵	khgm	100	khgm
+遗	khgp	100	khgp
+遣	khgp	100	khgp
+趾	khh	100	khhg
+趾	khhg	100	khhg
+踏	khi	100	khij
+踏	khij	100	khij
+踢	khj	100	khjr
+蹋	khjn	100	khjn
+踢	khjr	100	khjr
+中	khk	100	khk
+躁	khk	100	khks
+躁	khks	100	khks
+盅	khl	100	khlf
+盅	khlf	100	khlf
+蹦	khm	100	khme
+蹦	khme	100	khme
+忠	khn	100	khnu
+忠	khnu	100	khnu
+踱	khoc	100	khoc
+踪	khp	100	khpi
+踪	khpi	100	khpi
+跑	khq	100	khqn
+跪	khqb	100	khqb
+跳	khqi	100	khqi
+跑	khqn	100	khqn
+路	kht	100	khtk
+跃	khtd	100	khtd
+跌	khtg	100	khtg
+路	khtk	100	khtk
+足	khu	100	khu
+蹲	khu	100	khuf
+蹲	khuf	100	khuf
+蹭	khuj	100	khuj
+跟	khv	100	khvy
+跟	khvy	100	khvy
+趴	khw	100	khwy
+唬	khwn	100	khwn
+跺	khws	100	khws
+蹬	khwu	100	khwu
+趴	khwy	100	khwy
+嘴	khx	100	khxe
+嘴	khxe	100	khxe
+蹄	khyh	100	khyh
+吵	ki	100	kitt
+哨	kie	100	kieg
+哨	kieg	100	kieg
+吵	kitt	100	kitt
+唱	kj	100	kjjg
+虽	kj	100	kju
+哩	kjf	100	kjfg
+哩	kjfg	100	kjfg
+呻	kjh	100	kjhh
+呻	kjhh	100	kjhh
+唱	kjj	100	kjjg
+唱	kjjg	100	kjjg
+喝	kjq	100	kjqn
+喝	kjqn	100	kjqn
+虽	kju	100	kju
+吕	kk	100	kkf
+哭	kk	100	kkdu
+骂	kkc	100	kkcg
+骂	kkcg	100	kkcg
+器	kkd	100	kkdk
+器	kkdk	100	kkdk
+嚣	kkdk	100	kkdk
+哭	kkdu	100	kkdu
+吕	kkf	100	kkf
+串	kkh	100	kkhk
+串	kkhk	100	kkhk
+患	kkhn	100	kkhn
+品	kkk	100	kkkf
+品	kkkf	100	kkkf
+口	kkkk	100	kkkk
+噪	kkks	100	kkks
+咒	kkw	100	kkwb
+咒	kkwb	100	kkwb
+喂	kl	100	klge
+咽	kld	100	kldy
+咽	kldy	100	kldy
+嘿	klf	100	klfo
+嘿	klfo	100	klfo
+喂	klge	100	klge
+啰	klqy	100	klqy
+吊	km	100	kmhj
+员	km	100	kmu
+喘	kmd	100	kmdj
+喘	kmdj	100	kmdj
+勋	kme	100	kmet
+勋	kmet	100	kmet
+吊	kmh	100	kmhj
+吊	kmhj	100	kmhj
+员	kmu	100	kmu
+呐	kmw	100	kmwy
+呐	kmwy	100	kmwy
+叫	kn	100	knhh
+哪	kn	100	kngb
+叼	kng	100	kngg
+哪	kngb	100	kngb
+叼	kngg	100	kngg
+叫	knh	100	knhh
+叫	knhh	100	knhh
+嘱	knt	100	knty
+嘱	knty	100	knty
+呢	knx	100	knxn
+呢	knxn	100	knxn
+咪	ko	100	koy
+咪	koy	100	koy
+喧	kp	100	kpgg
+喧	kpgg	100	kpgg
+兄	kq	100	kqb
+吹	kq	100	kqwy
+兄	kqb	100	kqb
+鸣	kqg	100	kqgg
+鸣	kqgg	100	kqgg
+唤	kqm	100	kqmd
+唤	kqmd	100	kqmd
+咆	kqn	100	kqnn
+咆	kqnn	100	kqnn
+哆	kqq	100	kqqy
+哆	kqqy	100	kqqy
+吻	kqr	100	kqrt
+吻	kqrt	100	kqrt
+吹	kqw	100	kqwy
+吹	kqwy	100	kqwy
+史	kr	100	kri
+听	kr	100	krh
+听	krh	100	krh
+史	kri	100	kri
+啤	krt	100	krtf
+啤	krtf	100	krtf
+啦	kru	100	krug
+啦	krug	100	krug
+叮	ks	100	ksh
+呆	ks	100	ksu
+叮	ksh	100	ksh
+喳	ksj	100	ksjg
+喳	ksjg	100	ksjg
+呵	ksk	100	kskg
+呵	kskg	100	kskg
+喇	kskj	100	kskj
+嗽	kskw	100	kskw
+呆	ksu	100	ksu
+哺	ksy	100	ksy
+吃	kt	100	ktnn
+响	kt	100	ktmk
+唾	ktf	100	ktfa
+唾	ktfa	100	ktfa
+咱	kth	100	kthg
+嗅	kthd	100	kthd
+咱	kthg	100	kthg
+川	kthh	100	kthh
+响	ktm	100	ktmk
+响	ktmk	100	ktmk
+呜	ktn	100	ktng
+呜	ktng	100	ktng
+吃	ktnn	100	ktnn
+呼	ktu	100	ktuf
+呼	ktuf	100	ktuf
+咬	ku	100	kury
+咬	kur	100	kury
+咬	kury	100	kury
+叨	kv	100	kvt
+啸	kv	100	kvhw
+唧	kvb	100	kvbh
+唧	kvbh	100	kvbh
+啸	kvh	100	kvhw
+啸	kvhw	100	kvhw
+叨	kvt	100	kvt
+只	kw	100	kwu
+啥	kw	100	kwfk
+呛	kwb	100	kwbn
+呛	kwbn	100	kwbn
+嗡	kwc	100	kwcn
+嗡	kwcn	100	kwcn
+咐	kwf	100	kwfy
+啥	kwfk	100	kwfk
+咐	kwfy	100	kwfy
+哈	kwg	100	kwgk
+喻	kwgj	100	kwgj
+哈	kwgk	100	kwgk
+叽	kwn	100	kwn
+喉	kwnd	100	kwnd
+只	kwu	100	kwu
+吩	kwv	100	kwvt
+吩	kwvt	100	kwvt
+哗	kwx	100	kwxf
+哗	kwxf	100	kwxf
+叭	kwy	100	kwy
+唯	kwyg	100	kwyg
+吟	kwyn	100	kwyn
+哟	kx	100	kxqy
+哟	kxq	100	kxqy
+哟	kxqy	100	kxqy
+吆	kxy	100	kxy
+咳	ky	100	kynw
+唁	ky	100	kyg
+哼	kyb	100	kybh
+哼	kybh	100	kybh
+唁	kyg	100	kyg
+嚷	kyk	100	kyke
+嚷	kyke	100	kyke
+咏	kyn	100	kyni
+咏	kyni	100	kyni
+咳	kynw	100	kynw
+嚎	kyp	100	kype
+嚎	kype	100	kype
+啼	kyu	100	kyuh
+嘀	kyud	100	kyud
+啼	kyuh	100	kyuh
+吭	kyw	100	kywn
+吭	kywn	100	kywn
+国	l	100	lgyi
+田	l	100	llll
+轻	lc	100	lcag
+轻	lca	100	lcag
+轻	lcag	100	lcag
+轰	lcc	100	lccu
+轰	lccu	100	lccu
+因	ld	100	ldi
+恩	ld	100	ldnu
+固	ldd	100	ldd
+因	ldi	100	ldi
+恩	ldn	100	ldnu
+恩	ldnu	100	ldnu
+畸	lds	100	ldsk
+畸	ldsk	100	ldsk
+畴	ldt	100	ldtf
+畴	ldtf	100	ldtf
+男	le	100	ler
+胃	le	100	lef
+胃	lef	100	lef
+男	ler	100	ler
+团	lf	100	lfte
+围	lf	100	lfnh
+罢	lfc	100	lfcu
+罢	lfcu	100	lfcu
+畦	lff	100	lffg
+畦	lffg	100	lffg
+轩	lfh	100	lfh
+置	lfhf	100	lfhf
+辕	lfk	100	lfke
+辕	lfke	100	lfke
+转	lfn	100	lfny
+围	lfnh	100	lfnh
+转	lfny	100	lfny
+黑	lfo	100	lfou
+默	lfod	100	lfod
+墨	lfof	100	lfof
+黔	lfon	100	lfon
+黑	lfou	100	lfou
+园	lfq	100	lfqv
+园	lfqv	100	lfqv
+署	lft	100	lftj
+团	lfte	100	lfte
+署	lftj	100	lftj
+车	lg	100	lgnh
+辆	lg	100	lgmw
+囤	lgb	100	lgbn
+囤	lgbn	100	lgbn
+畏	lge	100	lgeu
+畏	lgeu	100	lgeu
+辐	lgk	100	lgkl
+辐	lgkl	100	lgkl
+辆	lgm	100	lgmw
+辆	lgmw	100	lgmw
+车	lgn	100	lgnh
+车	lgnh	100	lgnh
+国	lgyi	100	lgyi
+四	lh	100	lhng
+甲	lh	100	lhnh
+罪	lhd	100	lhdd
+罪	lhdd	100	lhdd
+罩	lhj	100	lhjj
+罩	lhjj	100	lhjj
+皿	lhn	100	lhng
+四	lhng	100	lhng
+皿	lhng	100	lhng
+甲	lhnh	100	lhnh
+回	lk	100	lkd
+圆	lk	100	lkmi
+辑	lkb	100	lkbg
+辑	lkbg	100	lkbg
+回	lkd	100	lkd
+圆	lkm	100	lkmi
+圆	lkmi	100	lkmi
+田	ll	100	llll
+田	lll	100	llll
+田	llll	100	llll
+轴	lm	100	lmg
+轴	lmg	100	lmg
+思	ln	100	lnu
+轧	ln	100	lnn
+轧	lnn	100	lnn
+思	lnu	100	lnu
+辖	lp	100	lpdk
+连	lp	100	lpk
+辖	lpd	100	lpdk
+辖	lpdk	100	lpdk
+连	lpk	100	lpk
+罗	lq	100	lqu
+软	lq	100	lqwy
+鸭	lqg	100	lqgg
+鸭	lqgg	100	lqgg
+蜀	lqj	100	lqju
+蜀	lqju	100	lqju
+逻	lqp	100	lqpi
+逻	lqpi	100	lqpi
+罗	lqu	100	lqu
+软	lqw	100	lqwy
+软	lqwy	100	lqwy
+斩	lr	100	lrh
+暂	lr	100	lrjf
+斩	lrh	100	lrh
+暂	lrj	100	lrjf
+暂	lrjf	100	lrjf
+困	ls	100	lsi
+辅	ls	100	lsy
+困	lsi	100	lsi
+圃	lsi	100	lsi
+辅	lsy	100	lsy
+图	lt	100	ltui
+略	lt	100	ltkg
+轿	ltd	100	ltdj
+轿	ltdj	100	ltdj
+略	ltkg	100	ltkg
+图	ltu	100	ltui
+图	ltui	100	ltui
+圈	lu	100	lugb
+较	lu	100	lury
+畔	lug	100	lugh
+圈	lugb	100	lugb
+畔	lugh	100	lugh
+较	lur	100	lury
+较	lury	100	lury
+轨	lv	100	lvn
+轨	lvn	100	lvn
+界	lw	100	lwjj
+轮	lw	100	lwxn
+输	lwg	100	lwgj
+输	lwgj	100	lwgj
+囚	lwi	100	lwi
+界	lwj	100	lwjj
+界	lwjj	100	lwjj
+轮	lwx	100	lwxn
+轮	lwxn	100	lwxn
+累	lx	100	lxiu
+累	lxi	100	lxiu
+累	lxiu	100	lxiu
+罚	ly	100	lyjj
+辙	ly	100	lyct
+辙	lyc	100	lyct
+辙	lyct	100	lyct
+罚	lyj	100	lyjj
+罚	lyjj	100	lyjj
+同	m	100	mgkd
+山	m	100	mmmm
+曲	ma	100	mad
+贼	ma	100	madt
+曲	mad	100	mad
+贼	mad	100	madt
+贼	madt	100	madt
+岖	mar	100	mary
+岖	mary	100	mary
+典	maw	100	mawu
+典	mawu	100	mawu
+邮	mb	100	mbh
+邮	mbh	100	mbh
+峻	mc	100	mcwt
+峻	mcw	100	mcwt
+峻	mcwt	100	mcwt
+央	md	100	mdi
+岸	md	100	mdfj
+贿	mde	100	mdeg
+贿	mdeg	100	mdeg
+岩	mdf	100	mdf
+崖	mdff	100	mdff
+岸	mdfj	100	mdfj
+央	mdi	100	mdi
+炭	mdo	100	mdou
+炭	mdou	100	mdou
+鸯	mdq	100	mdqg
+鸯	mdqg	100	mdqg
+崎	mds	100	mdsk
+崎	mdsk	100	mdsk
+骨	me	100	mef
+髓	med	100	medp
+髓	medp	100	medp
+崩	mee	100	meef
+崩	meef	100	meef
+骨	mef	100	mef
+周	mf	100	mfkd
+财	mf	100	mftt
+周	mfk	100	mfkd
+周	mfkd	100	mfkd
+雕	mfky	100	mfky
+赎	mfn	100	mfnd
+赎	mfnd	100	mfnd
+嵌	mfq	100	mfqw
+嵌	mfqw	100	mfqw
+赌	mft	100	mftj
+赌	mftj	100	mftj
+财	mftt	100	mftt
+贱	mg	100	mgay
+赋	mg	100	mgay
+贱	mga	100	mgay
+贱	mgay	100	mgay
+赋	mgay	100	mgay
+同	mgk	100	mgkd
+同	mgkd	100	mgkd
+屿	mgn	100	mgng
+屿	mgng	100	mgng
+峡	mgu	100	mgud
+峡	mgud	100	mgud
+由	mh	100	mhng
+贝	mh	100	mhny
+幅	mhg	100	mhgl
+幅	mhgl	100	mhgl
+帖	mhhk	100	mhhk
+帽	mhj	100	mhjh
+幔	mhjc	100	mhjc
+帽	mhjh	100	mhjh
+幌	mhjq	100	mhjq
+巾	mhk	100	mhk
+贴	mhkg	100	mhkg
+帜	mhkw	100	mhkw
+由	mhng	100	mhng
+贝	mhny	100	mhny
+帕	mhr	100	mhrg
+帕	mhrg	100	mhrg
+帐	mht	100	mhty
+帐	mhty	100	mhty
+幢	mhu	100	mhuf
+幢	mhuf	100	mhuf
+帆	mhw	100	mhwy
+帆	mhwy	100	mhwy
+峭	mi	100	mieg
+峭	mie	100	mieg
+峭	mieg	100	mieg
+则	mj	100	mjh
+赐	mj	100	mjqr
+则	mjh	100	mjh
+赐	mjq	100	mjqr
+赐	mjqr	100	mjqr
+崭	ml	100	mlrj
+崭	mlr	100	mlrj
+崭	mlrj	100	mlrj
+册	mm	100	mmgd
+删	mm	100	mmgj
+册	mmgd	100	mmgd
+删	mmgj	100	mmgj
+山	mmm	100	mmmm
+山	mmmm	100	mmmm
+岗	mmr	100	mmru
+岗	mmru	100	mmru
+婴	mmv	100	mmvf
+婴	mmvf	100	mmvf
+鹦	mmvg	100	mmvg
+凯	mn	100	mnwn
+岂	mn	100	mnb
+岂	mnb	100	mnb
+凯	mnw	100	mnwn
+凯	mnwn	100	mnwn
+赃	mo	100	mofg
+赃	mof	100	mofg
+赃	mofg	100	mofg
+崇	mp	100	mpfi
+崇	mpf	100	mpfi
+崇	mpfi	100	mpfi
+贮	mpg	100	mpgg
+贮	mpgg	100	mpgg
+岁	mq	100	mqu
+见	mq	100	mqb
+见	mqb	100	mqb
+购	mqc	100	mqcy
+购	mqcy	100	mqcy
+赡	mqd	100	mqdy
+赡	mqdy	100	mqdy
+岁	mqu	100	mqu
+冈	mr	100	mri
+网	mr	100	mrri
+贩	mrc	100	mrcy
+贩	mrcy	100	mrcy
+冈	mri	100	mri
+刚	mrj	100	mrjh
+刚	mrjh	100	mrjh
+网	mrr	100	mrri
+网	mrri	100	mrri
+峰	mt	100	mtdh
+败	mt	100	mty
+账	mta	100	mtay
+账	mtay	100	mtay
+峰	mtd	100	mtdh
+峰	mtdh	100	mtdh
+赂	mtk	100	mtkg
+赂	mtkg	100	mtkg
+屹	mtn	100	mtnn
+屹	mtnn	100	mtnn
+贬	mtp	100	mtpy
+贬	mtpy	100	mtpy
+巍	mtv	100	mtvc
+巍	mtvc	100	mtvc
+败	mty	100	mty
+赚	mu	100	muvw
+赠	mu	100	mulj
+赔	muk	100	mukg
+赔	mukg	100	mukg
+赠	mul	100	mulj
+赠	mulj	100	mulj
+赚	muv	100	muvw
+赚	muvw	100	muvw
+内	mw	100	mwi
+岭	mw	100	mwyc
+赊	mwf	100	mwfi
+赊	mwfi	100	mwfi
+内	mwi	100	mwi
+肉	mww	100	mwwi
+肉	mwwi	100	mwwi
+崔	mwy	100	mwyf
+岭	mwyc	100	mwyc
+崔	mwyf	100	mwyf
+幽	mx	100	mxxi
+幽	mxx	100	mxxi
+幽	mxxi	100	mxxi
+丹	my	100	myd
+彤	my	100	myet
+丹	myd	100	myd
+彤	mye	100	myet
+彤	myet	100	myet
+已	n	100	nnnn
+民	n	100	nav
+异	na	100	naj
+惜	na	100	najg
+展	nae	100	naei
+展	naei	100	naei
+异	naj	100	naj
+惜	najg	100	najg
+屉	nan	100	nanv
+屉	nanv	100	nanv
+懂	nat	100	natf
+懂	natf	100	natf
+民	nav	100	nav
+殿	naw	100	nawc
+殿	nawc	100	nawc
+臀	nawe	100	nawe
+慌	nay	100	nayk
+慌	nayk	100	nayk
+屈	nb	100	nbmk
+敢	nb	100	nbty
+屈	nbm	100	nbmk
+屈	nbmk	100	nbmk
+憨	nbt	100	nbtn
+憨	nbtn	100	nbtn
+敢	nbty	100	nbty
+怪	nc	100	ncfg
+惨	nc	100	ncde
+惨	ncd	100	ncde
+惨	ncde	100	ncde
+怪	ncf	100	ncfg
+怪	ncfg	100	ncfg
+居	nd	100	ndd
+怀	nd	100	ndhy
+惰	nda	100	ndae
+惰	ndae	100	ndae
+居	ndd	100	ndd
+憾	ndgn	100	ndgn
+怀	ndh	100	ndhy
+怀	ndhy	100	ndhy
+剧	ndj	100	ndjh
+剧	ndjh	100	ndjh
+怖	ndm	100	ndmh
+怖	ndmh	100	ndmh
+忧	ndn	100	ndny
+忧	ndny	100	ndny
+恢	ndo	100	ndoy
+恢	ndoy	100	ndoy
+尾	ne	100	nev
+尾	nev	100	nev
+导	nf	100	nfu
+层	nf	100	nfci
+愤	nfa	100	nfam
+愤	nfam	100	nfam
+层	nfc	100	nfci
+层	nfci	100	nfci
+怯	nfcy	100	nfcy
+懦	nfd	100	nfdj
+懦	nfdj	100	nfdj
+恃	nff	100	nffy
+恃	nffy	100	nffy
+慎	nfh	100	nfhw
+慎	nfhw	100	nfhw
+慰	nfi	100	nfin
+尉	nfif	100	nfif
+慰	nfin	100	nfin
+迅	nfp	100	nfpk
+迅	nfpk	100	nfpk
+屠	nft	100	nftj
+屠	nftj	100	nftj
+导	nfu	100	nfu
+情	ng	100	ngeg
+那	ng	100	ngbh
+那	ngb	100	ngbh
+那	ngbh	100	ngbh
+屋	ngc	100	ngcf
+屋	ngcf	100	ngcf
+刁	ngd	100	ngd
+情	nge	100	ngeg
+情	ngeg	100	ngeg
+怔	ngh	100	nghg
+怔	nghg	100	nghg
+恒	ngj	100	ngjg
+恒	ngjg	100	ngjg
+司	ngk	100	ngkd
+司	ngkd	100	ngkd
+悟	ngkg	100	ngkg
+收	nh	100	nhty
+眉	nh	100	nhd
+眉	nhd	100	nhd
+丑	nhg	100	nhgg
+丑	nhgg	100	nhgg
+蛋	nhj	100	nhju
+悼	nhjh	100	nhjh
+蛋	nhju	100	nhju
+收	nht	100	nhty
+收	nhty	100	nhty
+惧	nhw	100	nhwy
+惧	nhwy	100	nhwy
+疏	nhy	100	nhyk
+疏	nhyk	100	nhyk
+尿	ni	100	nii
+悄	ni	100	nieg
+悄	nie	100	nieg
+屑	nied	100	nied
+悄	nieg	100	nieg
+恍	nig	100	nigq
+恍	nigq	100	nigq
+尿	nii	100	nii
+犀	nit	100	nitg
+犀	nitg	100	nitg
+悍	nj	100	njfh
+慢	nj	100	njlc
+悍	njf	100	njfh
+悍	njfh	100	njfh
+慢	njlc	100	njlc
+惕	njq	100	njqr
+惕	njqr	100	njqr
+壁	nk	100	nkuf
+避	nk	100	nkup
+愕	nkk	100	nkkn
+愕	nkkn	100	nkkn
+臂	nku	100	nkue
+臂	nkue	100	nkue
+壁	nkuf	100	nkuf
+辟	nkuh	100	nkuh
+避	nkup	100	nkup
+劈	nkuv	100	nkuv
+璧	nkuy	100	nkuy
+譬	nkuy	100	nkuy
+惭	nl	100	nlrh
+翼	nl	100	nlaw
+翼	nla	100	nlaw
+翼	nlaw	100	nlaw
+惭	nlr	100	nlrh
+惭	nlrh	100	nlrh
+刷	nm	100	nmhj
+届	nm	100	nmd
+届	nmd	100	nmd
+刷	nmh	100	nmhj
+刷	nmhj	100	nmhj
+己	nn	100	nngn
+已	nn	100	nnnn
+己	nng	100	nngn
+己	nngn	100	nngn
+尸	nngt	100	nngt
+书	nnh	100	nnhy
+书	nnhy	100	nnhy
+局	nnk	100	nnkd
+局	nnkd	100	nnkd
+乙	nnl	100	nnll
+乙	nnll	100	nnll
+忆	nnn	100	nnn
+已	nnnn	100	nnnn
+忌	nnu	100	nnu
+快	nnw	100	nnwy
+快	nnwy	100	nnwy
+羽	nny	100	nnyg
+羽	nnyg	100	nnyg
+屎	no	100	noi
+屡	no	100	novd
+惦	noh	100	nohk
+惦	nohk	100	nohk
+屎	noi	100	noi
+慷	nov	100	novi
+屡	novd	100	novd
+慷	novi	100	novi
+忱	np	100	npqn
+惋	np	100	npqb
+惋	npq	100	npqb
+惋	npqb	100	npqb
+忱	npqn	100	npqn
+懈	nq	100	nqeg
+懈	nqe	100	nqeg
+懈	nqeg	100	nqeg
+怕	nr	100	nrg
+愧	nr	100	nrqc
+怕	nrg	100	nrg
+惶	nrg	100	nrgg
+惶	nrgg	100	nrgg
+愧	nrq	100	nrqc
+愧	nrqc	100	nrqc
+懒	ns	100	nskm
+懒	nskm	100	nskm
+性	nt	100	ntgg
+改	nt	100	nty
+发	ntc	100	ntcy
+发	ntcy	100	ntcy
+恬	ntd	100	ntdg
+恬	ntdg	100	ntdg
+必	nte	100	nte
+性	ntg	100	ntgg
+性	ntgg	100	ntgg
+虱	ntj	100	ntji
+虱	ntji	100	ntji
+属	ntk	100	ntky
+属	ntky	100	ntky
+恤	ntl	100	ntlg
+恤	ntlg	100	ntlg
+懊	ntm	100	ntmd
+懊	ntmd	100	ntmd
+履	ntt	100	nttt
+履	nttt	100	nttt
+悔	ntx	100	ntxy
+悔	ntxy	100	ntxy
+改	nty	100	nty
+习	nu	100	nud
+飞	nu	100	nui
+屏	nua	100	nuak
+屏	nuak	100	nuak
+习	nud	100	nud
+买	nud	100	nudu
+买	nudu	100	nudu
+飞	nui	100	nui
+悦	nuk	100	nukq
+悦	nukq	100	nukq
+憎	nul	100	nulj
+憎	nulj	100	nulj
+悯	nuy	100	nuyy
+悯	nuyy	100	nuyy
+恨	nv	100	nvy
+慨	nva	100	nvaq
+慨	nvaq	100	nvaq
+恨	nvy	100	nvy
+怜	nw	100	nwyc
+恰	nw	100	nwgk
+愉	nwg	100	nwgj
+愉	nwgj	100	nwgj
+恰	nwgk	100	nwgk
+戳	nwya	100	nwya
+怜	nwyc	100	nwyc
+憔	nwyo	100	nwyo
+尼	nx	100	nxv
+惯	nx	100	nxmy
+惯	nxm	100	nxmy
+惯	nxmy	100	nxmy
+尼	nxv	100	nxv
+屁	nxx	100	nxxv
+屁	nxxv	100	nxxv
+心	ny	100	nyny
+惊	ny	100	nyiy
+尺	nyi	100	nyi
+惊	nyiy	100	nyiy
+昼	nyj	100	nyjg
+昼	nyjg	100	nyjg
+忙	nyn	100	nynn
+忙	nynn	100	nynn
+心	nyny	100	nyny
+迟	nyp	100	nypi
+迟	nypi	100	nypi
+恼	nyr	100	nyrb
+恼	nyrb	100	nyrb
+尽	nyu	100	nyuu
+尽	nyuu	100	nyuu
+翠	nyw	100	nywf
+悴	nywf	100	nywf
+翠	nywf	100	nywf
+以	nywy	100	nywy
+为	o	100	yeyi
+火	o	100	oooo
+席	oa	100	oamh
+度	oa	100	oaci
+度	oac	100	oaci
+度	oaci	100	oaci
+席	oam	100	oamh
+席	oamh	100	oamh
+炬	oan	100	oang
+炬	oang	100	oang
+炼	oanw	100	oanw
+庶	oao	100	oaoi
+庶	oaoi	100	oaoi
+遮	oaop	100	oaop
+烧	oat	100	oatq
+烧	oatq	100	oatq
+粪	oaw	100	oawu
+粪	oawu	100	oawu
+烘	oawy	100	oawy
+籽	ob	100	obg
+籽	obg	100	obg
+序	oc	100	ocnh
+序	ocnh	100	ocnh
+庆	od	100	odi
+类	od	100	odu
+糊	ode	100	odeg
+糊	odeg	100	odeg
+庆	odi	100	odi
+庵	odj	100	odjn
+庵	odjn	100	odjn
+烦	odm	100	odmy
+烦	odmy	100	odmy
+燎	odu	100	odui
+类	odu	100	odu
+燎	odui	100	odui
+庞	odx	100	odxy
+庞	odxy	100	odxy
+粗	oe	100	oegg
+粗	oeg	100	oegg
+粗	oegg	100	oegg
+庄	of	100	ofd
+烤	of	100	oftn
+庄	ofd	100	ofd
+糯	ofd	100	ofdj
+糯	ofdj	100	ofdj
+灶	ofg	100	ofg
+煤	ofs	100	ofsy
+煤	ofsy	100	ofsy
+烤	oft	100	oftn
+烤	oftn	100	oftn
+精	og	100	ogeg
+糟	og	100	ogmj
+精	oge	100	ogeg
+精	ogeg	100	ogeg
+糟	ogmj	100	ogmj
+业	oh	100	ohhg
+粘	oh	100	ohkg
+业	ohh	100	ohhg
+业	ohhg	100	ohhg
+店	ohk	100	ohkd
+店	ohkd	100	ohkd
+粘	ohkg	100	ohkg
+应	oi	100	oigd
+炒	oi	100	oitt
+应	oig	100	oigd
+应	oigd	100	oigd
+炒	oit	100	oitt
+炒	oitt	100	oitt
+烛	oj	100	ojy
+爆	oj	100	ojai
+爆	oja	100	ojai
+爆	ojai	100	ojai
+焊	ojf	100	ojfh
+焊	ojfh	100	ojfh
+烛	ojy	100	ojy
+燥	ok	100	okks
+燥	okk	100	okks
+燥	okks	100	okks
+库	ol	100	olk
+烟	ol	100	oldy
+烟	old	100	oldy
+烟	oldy	100	oldy
+库	olk	100	olk
+庙	om	100	omd
+灿	om	100	omh
+庙	omd	100	omd
+灿	omh	100	omh
+断	on	100	onrh
+断	onrh	100	onrh
+废	ont	100	onty
+废	onty	100	onty
+炎	oo	100	oou
+糖	oo	100	oovk
+火	ooo	100	oooo
+火	oooo	100	oooo
+炎	oou	100	oou
+糖	oov	100	oovk
+糠	oovi	100	oovi
+糖	oovk	100	oovk
+熔	op	100	opwk
+迷	op	100	opi
+迷	opi	100	opi
+熔	opw	100	opwk
+熔	opwk	100	opwk
+底	oq	100	oqay
+炮	oq	100	oqnn
+底	oqa	100	oqay
+底	oqay	100	oqay
+燃	oqd	100	oqdo
+燃	oqdo	100	oqdo
+焰	oqe	100	oqeg
+焰	oqeg	100	oqeg
+焕	oqm	100	oqmd
+焕	oqmd	100	oqmd
+炮	oqn	100	oqnn
+炮	oqnn	100	oqnn
+炊	oqw	100	oqwy
+炊	oqwy	100	oqwy
+灼	oqy	100	oqyy
+灼	oqyy	100	oqyy
+煌	or	100	orgg
+煌	org	100	orgg
+煌	orgg	100	orgg
+床	os	100	osi
+灯	os	100	osh
+灯	osh	100	osh
+床	osi	100	osi
+麻	oss	100	ossi
+魔	ossc	100	ossc
+磨	ossd	100	ossd
+靡	ossd	100	ossd
+麻	ossi	100	ossi
+糜	osso	100	osso
+摩	ossr	100	ossr
+庭	ot	100	otfp
+炸	ot	100	othf
+糙	otf	100	otfp
+庭	otfp	100	otfp
+糙	otfp	100	otfp
+炸	oth	100	othf
+炸	othf	100	othf
+熄	othn	100	othn
+烙	otk	100	otkg
+烙	otkg	100	otkg
+烁	otn	100	otni
+烁	otni	100	otni
+烂	ou	100	oudg
+粒	ou	100	oug
+烂	oud	100	oudg
+烂	oudg	100	oudg
+料	ouf	100	oufh
+凿	oufb	100	oufb
+料	oufh	100	oufh
+粒	oug	100	oug
+糕	oug	100	ougo
+糕	ougo	100	ougo
+焙	oukg	100	oukg
+廉	ouv	100	ouvw
+廉	ouvw	100	ouvw
+唐	ov	100	ovhk
+数	ov	100	ovty
+庸	ove	100	oveh
+庸	oveh	100	oveh
+娄	ovf	100	ovf
+唐	ovh	100	ovhk
+唐	ovhk	100	ovhk
+康	ovi	100	ovii
+康	ovii	100	ovii
+数	ovty	100	ovty
+府	ow	100	owfi
+鹰	ow	100	owwg
+腐	owf	100	owfw
+府	owfi	100	owfi
+腐	owfw	100	owfw
+粉	owv	100	owvt
+粉	owvt	100	owvt
+座	oww	100	owwf
+座	owwf	100	owwf
+鹰	owwg	100	owwg
+鹿	ox	100	oxxv
+庇	oxx	100	oxxv
+庇	oxxv	100	oxxv
+鹿	oxxv	100	oxxv
+广	oy	100	oygt
+米	oy	100	oyty
+廓	oyb	100	oybb
+廓	oybb	100	oybb
+广	oygt	100	oygt
+炉	oyn	100	oynt
+庐	oyne	100	oyne
+炉	oynt	100	oynt
+米	oyt	100	oyty
+米	oyty	100	oyty
+粮	oyv	100	oyvy
+廊	oyvb	100	oyvb
+粮	oyvy	100	oyvy
+炕	oyw	100	oywn
+粹	oywf	100	oywf
+炕	oywn	100	oywn
+炫	oyx	100	oyxy
+炫	oyxy	100	oyxy
+之	p	100	pppp
+这	p	100	ypi
+塞	pa	100	pawf
+赛	pa	100	pawm
+宦	pah	100	pahh
+宦	pahh	100	pahh
+寞	paj	100	pajd
+寞	pajd	100	pajd
+宽	pam	100	pamq
+宽	pamq	100	pamq
+寒	paw	100	pawu
+塞	pawf	100	pawf
+赛	pawm	100	pawm
+寨	paws	100	paws
+寒	pawu	100	pawu
+字	pb	100	pbf
+字	pbf	100	pbf
+害	pd	100	pdhk
+寡	pd	100	pdev
+宏	pdc	100	pdcu
+宏	pdcu	100	pdcu
+寡	pde	100	pdev
+寡	pdev	100	pdev
+豁	pdh	100	pdhk
+割	pdhj	100	pdhj
+害	pdhk	100	pdhk
+豁	pdhk	100	pdhk
+寄	pds	100	pdsk
+寄	pdsk	100	pdsk
+宠	pdx	100	pdxy
+宠	pdxy	100	pdxy
+农	pe	100	pei
+宜	pe	100	pegf
+宜	peg	100	pegf
+宜	pegf	100	pegf
+农	pei	100	pei
+冠	pf	100	pfqf
+守	pf	100	pfu
+宗	pfi	100	pfiu
+宗	pfiu	100	pfiu
+完	pfq	100	pfqb
+完	pfqb	100	pfqb
+寇	pfqc	100	pfqc
+冠	pfqf	100	pfqf
+守	pfu	100	pfu
+定	pg	100	pghu
+家	pg	100	pgeu
+室	pgc	100	pgcf
+室	pgcf	100	pgcf
+家	pgeu	100	pgeu
+宇	pgf	100	pgfj
+宇	pgfj	100	pgfj
+定	pgh	100	pghu
+定	pghu	100	pghu
+宣	pgj	100	pgjg
+宣	pgjg	100	pgjg
+富	pgk	100	pgkl
+富	pgkl	100	pgkl
+写	pgn	100	pgng
+写	pgng	100	pgng
+宝	pgy	100	pgyu
+宝	pgyu	100	pgyu
+寂	ph	100	phic
+寂	phi	100	phic
+寂	phic	100	phic
+宵	pi	100	pief
+宵	pie	100	pief
+宵	pief	100	pief
+审	pj	100	pjhj
+宴	pj	100	pjvf
+审	pjh	100	pjhj
+审	pjhj	100	pjhj
+寓	pjm	100	pjmy
+寓	pjmy	100	pjmy
+宴	pjv	100	pjvf
+宴	pjvf	100	pjvf
+宫	pk	100	pkkf
+宫	pkk	100	pkkf
+宫	pkkf	100	pkkf
+军	pl	100	plj
+军	plj	100	plj
+宙	pm	100	pmf
+宙	pmf	100	pmf
+官	pn	100	pnf
+密	pn	100	pntm
+官	pnf	100	pnf
+密	pnt	100	pntm
+蜜	pntj	100	pntj
+密	pntm	100	pntm
+寥	pnw	100	pnwe
+寥	pnwe	100	pnwe
+灾	po	100	pou
+灾	pou	100	pou
+之	pp	100	pppp
+之	ppp	100	pppp
+之	pppp	100	pppp
+冤	pq	100	pqky
+宛	pq	100	pqbb
+宛	pqbb	100	pqbb
+冤	pqk	100	pqky
+冤	pqky	100	pqky
+宾	pr	100	prwu
+宾	prw	100	prwu
+宾	prwu	100	prwu
+宁	ps	100	psj
+宋	ps	100	psu
+宁	psj	100	psj
+宋	psu	100	psu
+客	pt	100	ptkf
+额	pt	100	ptkm
+宅	pta	100	ptab
+宅	ptab	100	ptab
+宪	ptf	100	ptfq
+宪	ptfq	100	ptfq
+牢	ptg	100	ptgj
+牢	ptgj	100	ptgj
+额	ptk	100	ptkm
+客	ptkf	100	ptkf
+额	ptkm	100	ptkm
+实	pu	100	pudu
+被	pu	100	puby
+被	pub	100	puby
+被	puby	100	puby
+衩	puc	100	pucy
+衩	pucy	100	pucy
+褥	pud	100	pudf
+褥	pudf	100	pudf
+实	pudu	100	pudu
+衫	pue	100	puet
+衫	puet	100	puet
+褂	pufh	100	pufh
+衬	pufy	100	pufy
+袜	pug	100	pugs
+袜	pugs	100	pugs
+补	puh	100	puhy
+补	puhy	100	puhy
+裆	pui	100	puiv
+裆	puiv	100	puiv
+宰	puj	100	puj
+袒	pujg	100	pujg
+褐	pujn	100	pujn
+裸	pujs	100	pujs
+袖	pum	100	pumg
+袖	pumg	100	pumg
+裤	puo	100	puol
+裤	puol	100	puol
+袍	puq	100	puqn
+袍	puqn	100	puqn
+襟	pus	100	pusi
+襟	pusi	100	pusi
+袄	put	100	putd
+袄	putd	100	putd
+初	puv	100	puvt
+寝	puvc	100	puvc
+裙	puvk	100	puvk
+褪	puvp	100	puvp
+初	puvt	100	puvt
+裕	puw	100	puwk
+袱	puwd	100	puwd
+裕	puwk	100	puwk
+安	pv	100	pvf
+案	pv	100	pvsu
+安	pvf	100	pvf
+案	pvs	100	pvsu
+案	pvsu	100	pvsu
+察	pw	100	pwfi
+空	pw	100	pwaf
+穿	pwa	100	pwat
+空	pwaf	100	pwaf
+窍	pwan	100	pwan
+穿	pwat	100	pwat
+窃	pwav	100	pwav
+冗	pwb	100	pwb
+窿	pwbg	100	pwbg
+突	pwd	100	pwdu
+宿	pwdj	100	pwdj
+突	pwdu	100	pwdu
+穷	pwe	100	pwer
+穷	pwer	100	pwer
+罕	pwf	100	pwfj
+察	pwfi	100	pwfi
+罕	pwfj	100	pwfj
+窥	pwg	100	pwgq
+窒	pwgf	100	pwgf
+窥	pwgq	100	pwgq
+窝	pwk	100	pwkw
+窜	pwkh	100	pwkh
+窝	pwkw	100	pwkw
+帘	pwm	100	pwmh
+帘	pwmh	100	pwmh
+窟	pwn	100	pwnm
+窟	pwnm	100	pwnm
+窗	pwt	100	pwtq
+窑	pwtb	100	pwtb
+窄	pwtf	100	pwtf
+窖	pwtk	100	pwtk
+窗	pwtq	100	pwtq
+穴	pwu	100	pwu
+究	pwv	100	pwvb
+究	pwvb	100	pwvb
+窘	pwvk	100	pwvk
+容	pww	100	pwwk
+容	pwwk	100	pwwk
+鹤	pwy	100	pwyg
+鹤	pwyg	100	pwyg
+它	px	100	pxb
+它	pxb	100	pxb
+礼	py	100	pynn
+社	py	100	pyfg
+祷	pyd	100	pydf
+祷	pydf	100	pydf
+祖	pye	100	pyeg
+祖	pyeg	100	pyeg
+社	pyfg	100	pyfg
+福	pyg	100	pygl
+福	pygl	100	pygl
+神	pyj	100	pyjh
+神	pyjh	100	pyjh
+祝	pyk	100	pykq
+祝	pykq	100	pykq
+祸	pykw	100	pykw
+视	pym	100	pymq
+视	pymq	100	pymq
+祠	pynk	100	pynk
+礼	pynn	100	pynn
+祈	pyr	100	pyrh
+祈	pyrh	100	pyrh
+祥	pyu	100	pyuh
+祥	pyuh	100	pyuh
+我	q	100	trny
+金	q	100	qqqq
+昏	qa	100	qajf
+氏	qa	100	qav
+错	qaj	100	qajg
+昏	qajf	100	qajf
+错	qajg	100	qajg
+锚	qal	100	qalg
+锚	qalg	100	qalg
+氏	qav	100	qav
+怨	qb	100	qbnu
+迎	qb	100	qbpk
+镊	qbc	100	qbcc
+镊	qbcc	100	qbcc
+锰	qbl	100	qblg
+锰	qblg	100	qblg
+怨	qbn	100	qbnu
+怨	qbnu	100	qbnu
+迎	qbp	100	qbpk
+迎	qbpk	100	qbpk
+鸳	qbq	100	qbqg
+鸳	qbqg	100	qbqg
+勾	qc	100	qci
+色	qc	100	qcb
+色	qcb	100	qcb
+勾	qci	100	qci
+危	qd	100	qdbb
+然	qd	100	qdou
+危	qdb	100	qdbb
+危	qdbb	100	qdbb
+然	qdo	100	qdou
+然	qdou	100	qdou
+铸	qdt	100	qdtf
+铸	qdtf	100	qdtf
+镣	qdu	100	qdui
+镣	qdui	100	qdui
+角	qe	100	qej
+解	qe	100	qevg
+钥	qeg	100	qeg
+锄	qege	100	qege
+角	qej	100	qej
+触	qej	100	qejy
+触	qejy	100	qejy
+解	qev	100	qevg
+解	qevg	100	qevg
+蟹	qevj	100	qevj
+针	qf	100	qfh
+镇	qf	100	qfhw
+钳	qfg	100	qfg
+针	qfh	100	qfh
+镇	qfh	100	qfhw
+镇	qfhw	100	qfhw
+铐	qftn	100	qftn
+印	qg	100	qgbh
+钱	qg	100	qgay
+钱	qgay	100	qgay
+印	qgb	100	qgbh
+印	qgbh	100	qgbh
+钝	qgbn	100	qgbn
+鸟	qgd	100	qgd
+鱼	qgf	100	qgf
+鳍	qgfj	100	qgfj
+钙	qghn	100	qghn
+鲁	qgj	100	qgjf
+鲁	qgjf	100	qgjf
+鲤	qgjf	100	qgjf
+鳄	qgk	100	qgkn
+鳄	qgkn	100	qgkn
+鳞	qgo	100	qgog
+鳞	qgog	100	qgog
+鸵	qgp	100	qgpx
+鸵	qgpx	100	qgpx
+鲜	qgu	100	qguh
+鲜	qguh	100	qguh
+鲫	qgv	100	qgvb
+鲫	qgvb	100	qgvb
+鲸	qgy	100	qgyi
+鲸	qgyi	100	qgyi
+外	qh	100	qhy
+钻	qh	100	qhkg
+钻	qhk	100	qhkg
+钻	qhkg	100	qhkg
+外	qhy	100	qhy
+尔	qi	100	qiu
+逃	qi	100	qipi
+销	qie	100	qieg
+销	qieg	100	qieg
+兆	qii	100	qii
+锁	qim	100	qimy
+锁	qimy	100	qimy
+逃	qip	100	qipi
+逃	qipi	100	qipi
+钞	qit	100	qitt
+钞	qitt	100	qitt
+尔	qiu	100	qiu
+铛	qiv	100	qivg
+铛	qivg	100	qivg
+旬	qj	100	qjd
+锡	qj	100	qjqr
+旬	qjd	100	qjd
+龟	qjn	100	qjnb
+龟	qjnb	100	qjnb
+锡	qjq	100	qjqr
+锡	qjqr	100	qjqr
+名	qk	100	qkf
+钟	qk	100	qkhh
+句	qkd	100	qkd
+象	qke	100	qkeu
+象	qkeu	100	qkeu
+名	qkf	100	qkf
+钟	qkhh	100	qkhh
+铝	qkk	100	qkkg
+铝	qkkg	100	qkkg
+锅	qkm	100	qkmw
+锅	qkmw	100	qkmw
+免	qkq	100	qkqb
+免	qkqb	100	qkqb
+勉	qkqe	100	qkqe
+逸	qkqp	100	qkqp
+够	qkqq	100	qkqq
+兔	qkqy	100	qkqy
+甸	ql	100	qld
+钾	ql	100	qlh
+甸	qld	100	qld
+钾	qlh	100	qlh
+链	qlp	100	qlpy
+链	qlpy	100	qlpy
+锣	qlq	100	qlqy
+锣	qlqy	100	qlqy
+负	qm	100	qmu
+铜	qm	100	qmgk
+铜	qmgk	100	qmgk
+铡	qmj	100	qmjh
+铡	qmjh	100	qmjh
+岛	qmk	100	qmk
+钢	qmr	100	qmry
+钢	qmry	100	qmry
+负	qmu	100	qmu
+钠	qmw	100	qmwy
+钠	qmwy	100	qmwy
+包	qn	100	qnv
+饿	qn	100	qnty
+饶	qna	100	qnaq
+馍	qnad	100	qnad
+饶	qnaq	100	qnaq
+饵	qnbg	100	qnbg
+锯	qnd	100	qndg
+锯	qndg	100	qndg
+馁	qne	100	qnev
+馁	qnev	100	qnev
+钮	qnh	100	qnhg
+钮	qnhg	100	qnhg
+蚀	qnj	100	qnjy
+馒	qnjc	100	qnjc
+刨	qnjh	100	qnjh
+蚀	qnjy	100	qnjy
+饲	qnnk	100	qnnk
+馆	qnp	100	qnpn
+馆	qnpn	100	qnpn
+饮	qnq	100	qnqw
+馅	qnqe	100	qnqe
+馏	qnql	100	qnql
+饱	qnqn	100	qnqn
+馋	qnqu	100	qnqu
+饮	qnqw	100	qnqw
+饭	qnr	100	qnrc
+饭	qnrc	100	qnrc
+饰	qnt	100	qnth
+饰	qnth	100	qnth
+饿	qnty	100	qnty
+饼	qnu	100	qnua
+饼	qnua	100	qnua
+饺	qnur	100	qnur
+包	qnv	100	qnv
+饥	qnw	100	qnwn
+饥	qnwn	100	qnwn
+镀	qo	100	qoac
+镀	qoa	100	qoac
+镀	qoac	100	qoac
+镰	qou	100	qouw
+镰	qouw	100	qouw
+锭	qp	100	qpgh
+锭	qpgh	100	qpgh
+多	qq	100	qqu
+铭	qq	100	qqkg
+钩	qqc	100	qqcy
+钩	qqcy	100	qqcy
+铭	qqk	100	qqkg
+铭	qqkg	100	qqkg
+金	qqq	100	qqqq
+金	qqqq	100	qqqq
+铆	qqt	100	qqtb
+铆	qqtb	100	qqtb
+多	qqu	100	qqu
+钧	qqu	100	qqug
+钧	qqug	100	qqug
+钦	qqw	100	qqwy
+钦	qqwy	100	qqwy
+钓	qqy	100	qqyy
+钓	qqyy	100	qqyy
+勿	qr	100	qre
+忽	qr	100	qrnu
+匈	qrb	100	qrbk
+匈	qrbk	100	qrbk
+勿	qre	100	qre
+锦	qrm	100	qrmh
+锦	qrmh	100	qrmh
+忽	qrn	100	qrnu
+忽	qrnu	100	qrnu
+锨	qrq	100	qrqw
+锨	qrqw	100	qrqw
+匆	qry	100	qryi
+匆	qryi	100	qryi
+钉	qs	100	qsh
+铺	qs	100	qsy
+钉	qsh	100	qsh
+铺	qsy	100	qsy
+儿	qt	100	qtn
+猜	qt	100	qtge
+猫	qta	100	qtal
+猎	qtaj	100	qtaj
+猫	qtal	100	qtal
+犯	qtb	100	qtbn
+猛	qtbl	100	qtbl
+犯	qtbn	100	qtbn
+锈	qtbt	100	qtbt
+锋	qtd	100	qtdh
+锋	qtdh	100	qtdh
+犹	qtdy	100	qtdy
+猿	qtf	100	qtfe
+锤	qtfa	100	qtfa
+猿	qtfe	100	qtfe
+猪	qtfj	100	qtfj
+铣	qtfq	100	qtfq
+铁	qtg	100	qtgy
+狭	qtgd	100	qtgd
+猜	qtge	100	qtge
+狂	qtgg	100	qtgg
+逛	qtgp	100	qtgp
+铁	qtgy	100	qtgy
+锻	qth	100	qthc
+锻	qthc	100	qthc
+独	qtj	100	qtjy
+狸	qtjf	100	qtjf
+猩	qtjg	100	qtjg
+狮	qtjh	100	qtjh
+猖	qtjj	100	qtjj
+独	qtjy	100	qtjy
+猬	qtle	100	qtle
+狈	qtm	100	qtmy
+猾	qtme	100	qtme
+狈	qtmy	100	qtmy
+儿	qtn	100	qtn
+夕	qtny	100	qtny
+锹	qtoy	100	qtoy
+狞	qtp	100	qtps
+狞	qtps	100	qtps
+狗	qtq	100	qtqk
+狰	qtqh	100	qtqh
+狗	qtqk	100	qtqk
+狐	qtr	100	qtry
+狐	qtry	100	qtry
+狡	qtu	100	qtur
+狡	qtur	100	qtur
+狠	qtv	100	qtvy
+卿	qtvb	100	qtvb
+狠	qtvy	100	qtvy
+猴	qtw	100	qtwd
+猴	qtwd	100	qtwd
+狱	qty	100	qtyd
+狱	qtyd	100	qtyd
+狼	qtyv	100	qtyv
+匀	qu	100	qud
+镜	qu	100	qujq
+匀	qud	100	qud
+锌	quh	100	quh
+镜	quj	100	qujq
+镜	qujq	100	qujq
+锐	quk	100	qukq
+锐	qukq	100	qukq
+铲	qut	100	qutt
+铲	qutt	100	qutt
+争	qv	100	qvhj
+急	qv	100	qvnu
+皱	qvby	100	qvby
+键	qvgp	100	qvgp
+争	qvh	100	qvhj
+争	qvhj	100	qvhj
+急	qvn	100	qvnu
+急	qvnu	100	qvnu
+煞	qvt	100	qvto
+煞	qvto	100	qvto
+雏	qvw	100	qvwy
+雏	qvwy	100	qvwy
+银	qvy	100	qvy
+欠	qw	100	qwu
+铃	qw	100	qwyc
+凫	qwb	100	qwb
+铅	qwk	100	qwkg
+铅	qwkg	100	qwkg
+欠	qwu	100	qwu
+锉	qww	100	qwwf
+锉	qwwf	100	qwwf
+锥	qwy	100	qwyg
+铃	qwyc	100	qwyc
+锥	qwyg	100	qwyg
+久	qy	100	qyi
+留	qy	100	qyvl
+久	qyi	100	qyi
+勺	qyi	100	qyi
+镶	qyk	100	qyke
+镶	qyke	100	qyke
+镐	qym	100	qymk
+镐	qymk	100	qymk
+灸	qyo	100	qyou
+灸	qyou	100	qyou
+孵	qytb	100	qytb
+卵	qyty	100	qyty
+贸	qyv	100	qyvm
+留	qyvl	100	qyvl
+贸	qyvm	100	qyvm
+白	r	100	rrrr
+的	r	100	rqyy
+找	ra	100	ray
+摸	ra	100	rajd
+拭	raa	100	raay
+拭	raay	100	raay
+皂	rab	100	rab
+撒	rae	100	raet
+撒	raet	100	raet
+扛	rag	100	rag
+措	raj	100	rajg
+摸	rajd	100	rajd
+措	rajg	100	rajg
+描	ral	100	ralg
+描	ralg	100	ralg
+拒	ran	100	rang
+拒	rang	100	rang
+拣	ranw	100	ranw
+捞	rap	100	rape
+捞	rape	100	rape
+抠	rar	100	rary
+抠	rary	100	rary
+挠	rat	100	ratq
+挠	ratq	100	ratq
+拱	raw	100	rawy
+搭	rawk	100	rawk
+拱	rawy	100	rawy
+找	ray	100	ray
+扔	rb	100	rbt
+报	rb	100	rbcy
+摄	rbc	100	rbcc
+摄	rbcc	100	rbcc
+报	rbcy	100	rbcy
+拯	rbi	100	rbig
+拯	rbig	100	rbig
+凶	rbk	100	rbk
+拙	rbm	100	rbmh
+拙	rbmh	100	rbmh
+扔	rbt	100	rbt
+披	rby	100	rby
+反	rc	100	rci
+把	rc	100	rcn
+氢	rca	100	rcad
+氢	rcad	100	rcad
+掺	rcd	100	rcde
+掺	rcde	100	rcde
+捅	rce	100	rceh
+捅	rceh	100	rceh
+择	rcg	100	rcgh
+择	rcgh	100	rcgh
+反	rci	100	rci
+抬	rck	100	rckg
+抬	rckg	100	rckg
+把	rcn	100	rcn
+抒	rcnh	100	rcnh
+揉	rcns	100	rcns
+返	rcp	100	rcpi
+返	rcpi	100	rcpi
+挨	rct	100	rctd
+挨	rctd	100	rctd
+摊	rcw	100	rcwy
+摊	rcwy	100	rcwy
+瓜	rcy	100	rcyi
+瓜	rcyi	100	rcyi
+搔	rcyj	100	rcyj
+拓	rd	100	rdg
+拜	rd	100	rdfh
+扼	rdb	100	rdbn
+扼	rdbn	100	rdbn
+拔	rdc	100	rdcy
+拔	rdcy	100	rdcy
+肴	rde	100	rdef
+肴	rdef	100	rdef
+挎	rdf	100	rdfn
+振	rdfe	100	rdfe
+拜	rdfh	100	rdfh
+捺	rdfi	100	rdfi
+挎	rdfn	100	rdfn
+拓	rdg	100	rdg
+撼	rdg	100	rdgn
+撼	rdgn	100	rdgn
+掩	rdj	100	rdjn
+掩	rdjn	100	rdjn
+希	rdm	100	rdmh
+希	rdmh	100	rdmh
+扰	rdn	100	rdny
+扰	rdny	100	rdny
+撩	rdu	100	rdui
+撩	rdui	100	rdui
+捧	rdw	100	rdwg
+揍	rdwd	100	rdwd
+捧	rdwg	100	rdwg
+撕	rdwr	100	rdwr
+拢	rdx	100	rdxy
+拢	rdxy	100	rdxy
+拥	re	100	reh
+摇	re	100	retb
+撬	ree	100	reee
+撬	reee	100	reee
+援	reg	100	regc
+援	regc	100	regc
+拥	reh	100	reh
+搜	reh	100	rehc
+搜	rehc	100	rehc
+授	rep	100	repc
+授	repc	100	repc
+摇	ret	100	retb
+摇	retb	100	retb
+挂	rf	100	rffg
+质	rf	100	rfmi
+技	rfc	100	rfcy
+技	rfcy	100	rfcy
+持	rff	100	rffy
+挂	rffg	100	rffg
+持	rffy	100	rffy
+盾	rfh	100	rfhd
+盾	rfhd	100	rfhd
+擂	rfl	100	rflg
+擂	rflg	100	rflg
+质	rfm	100	rfmi
+质	rfmi	100	rfmi
+抚	rfq	100	rfqn
+抚	rfqn	100	rfqn
+拷	rft	100	rftn
+拷	rftn	100	rftn
+后	rg	100	rgkd
+皇	rg	100	rgf
+皇	rgf	100	rgf
+撵	rgg	100	rggl
+撵	rggl	100	rggl
+捂	rgk	100	rgkg
+后	rgkd	100	rgkd
+捂	rgkg	100	rgkg
+抹	rgs	100	rgsy
+抹	rgsy	100	rgsy
+挟	rgu	100	rgud
+挟	rgud	100	rgud
+捷	rgv	100	rgvh
+捷	rgvh	100	rgvh
+扶	rgy	100	rgy
+爬	rh	100	rhyc
+看	rh	100	rhf
+排	rhd	100	rhdd
+排	rhdd	100	rhdd
+看	rhf	100	rhf
+扯	rhg	100	rhg
+掉	rhj	100	rhjh
+掉	rhjh	100	rhjh
+扑	rhy	100	rhy
+爬	rhyc	100	rhyc
+爪	rhyi	100	rhyi
+搅	ri	100	ripq
+泉	ri	100	riu
+捎	rie	100	rieg
+捎	rieg	100	rieg
+撑	rip	100	ripr
+搅	ripq	100	ripq
+撑	ripr	100	ripr
+抄	rit	100	ritt
+抄	ritt	100	ritt
+撇	rity	100	rity
+泉	riu	100	riu
+挡	riv	100	rivg
+挡	rivg	100	rivg
+担	rj	100	rjgg
+提	rj	100	rjgh
+撮	rjb	100	rjbc
+撮	rjbc	100	rjbc
+捏	rjf	100	rjfg
+捏	rjfg	100	rjfg
+捍	rjfh	100	rjfh
+担	rjg	100	rjgg
+担	rjgg	100	rjgg
+提	rjgh	100	rjgh
+揭	rjq	100	rjqn
+揭	rjqn	100	rjqn
+揽	rjt	100	rjtq
+揽	rjtq	100	rjtq
+扣	rk	100	rkg
+操	rk	100	rkks
+揖	rkb	100	rkbg
+揖	rkbg	100	rkbg
+捐	rke	100	rkeg
+捐	rkeg	100	rkeg
+捌	rkej	100	rkej
+拐	rket	100	rket
+扣	rkg	100	rkg
+捉	rkh	100	rkhy
+捉	rkhy	100	rkhy
+操	rkks	100	rkks
+损	rkm	100	rkmy
+损	rkmy	100	rkmy
+押	rl	100	rlh
+摆	rl	100	rlfc
+摆	rlf	100	rlfc
+摆	rlfc	100	rlfc
+押	rlh	100	rlh
+捆	rls	100	rlsy
+捆	rlsy	100	rlsy
+岳	rm	100	rmj
+抽	rm	100	rmg
+揣	rmd	100	rmdj
+揣	rmdj	100	rmdj
+抽	rmg	100	rmg
+岳	rmj	100	rmj
+摧	rmw	100	rmwy
+摧	rmwy	100	rmwy
+所	rn	100	rnrh
+扎	rn	100	rnn
+掘	rnb	100	rnbm
+掘	rnbm	100	rnbm
+据	rnd	100	rndg
+据	rndg	100	rndg
+握	rng	100	rngf
+挪	rngb	100	rngb
+握	rngf	100	rngf
+扭	rnh	100	rnhg
+扭	rnhg	100	rnhg
+扎	rnn	100	rnn
+撰	rnnw	100	rnnw
+扬	rnr	100	rnrt
+所	rnrh	100	rnrh
+扬	rnrt	100	rnrt
+拨	rnt	100	rnty
+拨	rnty	100	rnty
+拟	rny	100	rnyw
+拟	rnyw	100	rnyw
+扩	ro	100	rot
+搂	ro	100	rovg
+掂	roh	100	rohk
+掂	rohk	100	rohk
+氮	roo	100	rooi
+氮	rooi	100	rooi
+扩	rot	100	rot
+搂	rov	100	rovg
+搂	rovg	100	rovg
+搪	rovk	100	rovk
+探	rp	100	rpws
+近	rp	100	rpk
+迫	rpd	100	rpd
+近	rpk	100	rpk
+挥	rpl	100	rplh
+挥	rplh	100	rplh
+拧	rps	100	rpsh
+拧	rpsh	100	rpsh
+按	rpv	100	rpvg
+氨	rpvd	100	rpvd
+按	rpvg	100	rpvg
+控	rpw	100	rpwa
+控	rpwa	100	rpwa
+擦	rpwi	100	rpwi
+挖	rpwn	100	rpwn
+探	rpws	100	rpws
+抱	rq	100	rqnn
+换	rq	100	rqmd
+抵	rqa	100	rqay
+抵	rqay	100	rqay
+抑	rqb	100	rqbh
+抑	rqbh	100	rqbh
+鬼	rqc	100	rqci
+魁	rqcf	100	rqcf
+鬼	rqci	100	rqci
+掐	rqe	100	rqeg
+掐	rqeg	100	rqeg
+挑	rqi	100	rqiy
+挑	rqiy	100	rqiy
+拘	rqk	100	rqkg
+拘	rqkg	100	rqkg
+挽	rqkq	100	rqkq
+搀	rqku	100	rqku
+捣	rqm	100	rqmh
+换	rqmd	100	rqmd
+捣	rqmh	100	rqmh
+抱	rqn	100	rqnn
+抱	rqnn	100	rqnn
+兜	rqnq	100	rqnq
+掏	rqt	100	rqtb
+掏	rqtb	100	rqtb
+挣	rqv	100	rqvh
+挣	rqvh	100	rqvh
+欣	rqw	100	rqwy
+欣	rqwy	100	rqwy
+的	rqy	100	rqyy
+的	rqyy	100	rqyy
+折	rr	100	rrh
+魄	rr	100	rrqc
+扳	rrc	100	rrcy
+扳	rrcy	100	rrcy
+拍	rrg	100	rrg
+抓	rrh	100	rrhy
+折	rrh	100	rrh
+抓	rrhy	100	rrhy
+哲	rrk	100	rrkf
+哲	rrkf	100	rrkf
+逝	rrp	100	rrpk
+逝	rrpk	100	rrpk
+掀	rrq	100	rrqw
+魄	rrqc	100	rrqc
+掀	rrqw	100	rrqw
+白	rrr	100	rrrr
+白	rrrr	100	rrrr
+拆	rry	100	rryy
+誓	rryf	100	rryf
+拆	rryy	100	rryy
+打	rs	100	rsh
+杀	rs	100	rsu
+搏	rsf	100	rsfy
+搏	rsfy	100	rsfy
+打	rsh	100	rsh
+刹	rsj	100	rsjh
+刹	rsjh	100	rsjh
+杀	rsu	100	rsu
+捕	rsy	100	rsy
+手	rt	100	rtgh
+挺	rt	100	rtfp
+托	rta	100	rtan
+托	rtan	100	rtan
+拖	rtb	100	rtbn
+拖	rtbn	100	rtbn
+括	rtd	100	rtdg
+括	rtdg	100	rtdg
+卑	rtf	100	rtfj
+捶	rtfa	100	rtfa
+插	rtfe	100	rtfe
+卑	rtfj	100	rtfj
+攒	rtfm	100	rtfm
+挺	rtfp	100	rtfp
+气	rtg	100	rtgn
+手	rtgh	100	rtgh
+气	rtgn	100	rtgn
+丘	rth	100	rthg
+丘	rthg	100	rthg
+播	rto	100	rtol
+播	rtol	100	rtol
+揪	rtoy	100	rtoy
+乒	rtr	100	rtr
+斤	rtt	100	rtth
+斤	rtth	100	rtth
+搬	rtu	100	rtuc
+搬	rtuc	100	rtuc
+拉	ru	100	rug
+接	ru	100	ruvg
+拼	rua	100	ruah
+搓	ruag	100	ruag
+拼	ruah	100	ruah
+拦	rud	100	rudg
+掷	rudb	100	rudb
+拦	rudg	100	rudg
+抖	ruf	100	rufh
+抖	rufh	100	rufh
+拉	rug	100	rug
+拌	rug	100	rugh
+拌	rugh	100	rugh
+撞	ruj	100	rujf
+掸	rujf	100	rujf
+撞	rujf	100	rujf
+氧	ruk	100	ruk
+搁	rut	100	rutk
+搁	rutk	100	rutk
+接	ruv	100	ruvg
+接	ruvg	100	ruvg
+扫	rv	100	rvg
+热	rv	100	rvyo
+抛	rve	100	rvet
+抛	rvet	100	rvet
+扫	rvg	100	rvg
+氯	rvi	100	rvii
+氯	rvii	100	rvii
+招	rvk	100	rvkg
+招	rvkg	100	rvkg
+殷	rvn	100	rvnc
+殷	rvnc	100	rvnc
+执	rvy	100	rvyy
+势	rvye	100	rvye
+垫	rvyf	100	rvyf
+热	rvyo	100	rvyo
+挚	rvyr	100	rvyr
+执	rvyy	100	rvyy
+兵	rw	100	rwu
+推	rw	100	rwyg
+抢	rwb	100	rwbn
+抢	rwbn	100	rwbn
+投	rwc	100	rwcy
+投	rwcy	100	rwcy
+捡	rwg	100	rwgg
+拴	rwgg	100	rwgg
+捡	rwgg	100	rwgg
+拾	rwgk	100	rwgk
+兵	rwu	100	rwu
+氛	rwv	100	rwve
+氛	rwve	100	rwve
+掰	rwvr	100	rwvr
+扮	rwvt	100	rwvt
+挫	rww	100	rwwf
+挫	rwwf	100	rwwf
+抡	rwx	100	rwxn
+抡	rwxn	100	rwxn
+扒	rwy	100	rwy
+携	rwyb	100	rwyb
+擒	rwyc	100	rwyc
+推	rwyg	100	rwyg
+捻	rwyn	100	rwyn
+批	rx	100	rxxn
+指	rx	100	rxjg
+拗	rxe	100	rxet
+拗	rxet	100	rxet
+拂	rxj	100	rxjh
+指	rxjg	100	rxjg
+拂	rxjh	100	rxjh
+批	rxx	100	rxxn
+批	rxxn	100	rxxn
+揩	rxxr	100	rxxr
+拇	rxy	100	rxy
+搞	ry	100	rymk
+摘	ry	100	ryud
+撤	ryc	100	ryct
+撤	ryct	100	ryct
+拄	ryg	100	rygg
+拄	rygg	100	rygg
+斥	ryi	100	ryi
+掠	ryiy	100	ryiy
+挤	ryj	100	ryjh
+挤	ryjh	100	ryjh
+攘	ryk	100	ryke
+攘	ryke	100	ryke
+擅	ryl	100	rylg
+擅	rylg	100	rylg
+搞	rym	100	rymk
+搞	rymk	100	rymk
+护	ryn	100	rynt
+护	rynt	100	rynt
+邀	ryt	100	rytp
+邀	rytp	100	rytp
+乓	ryu	100	ryu
+摘	ryud	100	ryud
+抗	ryw	100	rywn
+抗	rywn	100	rywn
+掖	rywy	100	rywy
+摔	ryx	100	ryxf
+摔	ryxf	100	ryxf
+木	s	100	ssss
+要	s	100	svf
+模	sa	100	sajd
+横	sa	100	samw
+械	saa	100	saah
+械	saah	100	saah
+杠	sag	100	sag
+框	sagg	100	sagg
+栋	sai	100	saiy
+栋	saiy	100	saiy
+模	saj	100	sajd
+模	sajd	100	sajd
+横	sam	100	samw
+横	samw	100	samw
+柜	san	100	sang
+柜	sang	100	sang
+檬	sap	100	sape
+檬	sape	100	sape
+枢	sar	100	sary
+枢	sary	100	sary
+李	sb	100	sbf
+极	sb	100	sbyy
+椰	sbb	100	sbbh
+椰	sbbh	100	sbbh
+椭	sbd	100	sbde
+椭	sbde	100	sbde
+李	sbf	100	sbf
+极	sby	100	sbyy
+极	sbyy	100	sbyy
+权	sc	100	scy
+树	sc	100	scfy
+桶	sce	100	sceh
+桶	sceh	100	sceh
+树	scf	100	scfy
+树	scfy	100	scfy
+橘	scnk	100	scnk
+梭	scw	100	scwt
+梭	scwt	100	scwt
+权	scy	100	scy
+杈	scy	100	scyy
+杈	scyy	100	scyy
+棒	sd	100	sdwg
+顶	sd	100	sdmy
+枯	sdg	100	sdg
+橱	sdgf	100	sdgf
+杯	sdh	100	sdhy
+楔	sdhd	100	sdhd
+杯	sdhy	100	sdhy
+顶	sdm	100	sdmy
+顶	sdmy	100	sdmy
+椅	sds	100	sdsk
+椅	sdsk	100	sdsk
+梆	sdt	100	sdtb
+梆	sdtb	100	sdtb
+棋	sdw	100	sdwy
+棒	sdwg	100	sdwg
+椿	sdwj	100	sdwj
+榛	sdwt	100	sdwt
+棋	sdwy	100	sdwy
+杖	sdy	100	sdyy
+杖	sdyy	100	sdyy
+杉	se	100	set
+棚	se	100	seeg
+棚	see	100	seeg
+棚	seeg	100	seeg
+枷	sek	100	sekg
+枷	sekg	100	sekg
+杉	set	100	set
+票	sf	100	sfiu
+飘	sf	100	sfir
+枝	sfc	100	sfcy
+枝	sfcy	100	sfcy
+桂	sff	100	sffg
+桂	sffg	100	sffg
+杜	sfg	100	sfg
+柑	sfg	100	sfg
+杆	sfh	100	sfh
+植	sfhg	100	sfhg
+标	sfi	100	sfiy
+飘	sfir	100	sfir
+票	sfiu	100	sfiu
+标	sfiy	100	sfiy
+瓢	sfiy	100	sfiy
+材	sft	100	sftt
+材	sftt	100	sftt
+棱	sfw	100	sfwt
+棱	sfwt	100	sfwt
+村	sfy	100	sfy
+本	sg	100	sgd
+西	sg	100	sghg
+栈	sga	100	sgay
+醋	sgaj	100	sgaj
+栈	sgay	100	sgay
+酸	sgc	100	sgct
+酸	sgct	100	sgct
+本	sgd	100	sgd
+酣	sgf	100	sgfg
+酵	sgfb	100	sgfb
+酝	sgfc	100	sgfc
+酣	sgfg	100	sgfg
+枉	sgg	100	sgg
+丁	sgh	100	sgh
+西	sghg	100	sghg
+甫	sghy	100	sghy
+醒	sgj	100	sgjg
+醒	sgjg	100	sgjg
+梗	sgjr	100	sgjr
+梧	sgk	100	sgkg
+梧	sgkg	100	sgkg
+槽	sgm	100	sgmj
+槽	sgmj	100	sgmj
+柄	sgmw	100	sgmw
+配	sgn	100	sgnn
+朽	sgnn	100	sgnn
+配	sgnn	100	sgnn
+酌	sgq	100	sgqy
+酌	sgqy	100	sgqy
+酗	sgr	100	sgrb
+酗	sgrb	100	sgrb
+酷	sgt	100	sgtk
+酪	sgtk	100	sgtk
+酷	sgtk	100	sgtk
+酥	sgty	100	sgty
+酬	sgy	100	sgyh
+醇	sgyb	100	sgyb
+醉	sgyf	100	sgyf
+酬	sgyh	100	sgyh
+酿	sgyv	100	sgyv
+想	sh	100	shnu
+相	sh	100	shg
+相	shg	100	shg
+椒	shi	100	shic
+椒	shic	100	shic
+想	shn	100	shnu
+想	shnu	100	shnu
+朴	shy	100	shy
+档	si	100	sivg
+梢	si	100	sieg
+梢	sie	100	sieg
+梢	sieg	100	sieg
+档	siv	100	sivg
+档	sivg	100	sivg
+查	sj	100	sjgf
+查	sjg	100	sjgf
+查	sjgf	100	sjgf
+棵	sjs	100	sjsy
+棵	sjsy	100	sjsy
+榄	sjtq	100	sjtq
+棍	sjx	100	sjxx
+棍	sjxx	100	sjxx
+可	sk	100	skd
+哥	sk	100	sksk
+可	skd	100	skd
+束	skd	100	skd
+杏	skf	100	skf
+速	skp	100	skpd
+速	skpd	100	skpd
+赖	skq	100	skqm
+赖	skqm	100	skqm
+歌	sks	100	sksw
+哥	sksk	100	sksk
+歌	sksw	100	sksw
+整	skt	100	skth
+整	skth	100	skth
+柬	sl	100	sld
+楞	sl	100	slyt
+柬	sld	100	sld
+楞	sly	100	slyt
+楞	slyt	100	slyt
+刺	sm	100	smjh
+贾	sm	100	smu
+桐	smgk	100	smgk
+刺	smj	100	smjh
+刺	smjh	100	smjh
+樱	smm	100	smmv
+栅	smmg	100	smmg
+樱	smmv	100	smmv
+棘	sms	100	smsm
+棘	smsm	100	smsm
+枣	smu	100	smuu
+贾	smu	100	smu
+枣	smuu	100	smuu
+杨	sn	100	snrt
+橄	snb	100	snbt
+橄	snbt	100	snbt
+楣	snh	100	snhg
+楣	snhg	100	snhg
+杨	snr	100	snrt
+杨	snrt	100	snrt
+杰	so	100	sou
+楼	so	100	sovg
+桩	sof	100	sofg
+桩	sofg	100	sofg
+杰	sou	100	sou
+粟	sou	100	sou
+楼	sov	100	sovg
+楼	sovg	100	sovg
+枕	sp	100	spqn
+榕	sp	100	spwk
+棕	spf	100	spfi
+棕	spfi	100	spfi
+棺	spn	100	spng
+棺	spng	100	spng
+枕	spq	100	spqn
+枕	spqn	100	spqn
+柠	sps	100	spsh
+柠	spsh	100	spsh
+榨	spw	100	spwf
+榨	spwf	100	spwf
+榕	spwk	100	spwk
+构	sq	100	sqcy
+柳	sq	100	sqtb
+构	sqc	100	sqcy
+构	sqcy	100	sqcy
+桅	sqd	100	sqdb
+桅	sqdb	100	sqdb
+檐	sqdy	100	sqdy
+桃	sqi	100	sqiy
+桃	sqiy	100	sqiy
+橡	sqk	100	sqke
+橡	sqke	100	sqke
+柳	sqt	100	sqtb
+柳	sqtb	100	sqtb
+榴	sqy	100	sqyl
+榴	sqyl	100	sqyl
+板	sr	100	srcy
+析	sr	100	srh
+板	src	100	srcy
+板	srcy	100	srcy
+柏	srg	100	srg
+析	srh	100	srh
+棉	srm	100	srmh
+棉	srmh	100	srmh
+槐	srq	100	srqc
+槐	srqc	100	srqc
+攀	srr	100	srrr
+樊	srrd	100	srrd
+攀	srrr	100	srrr
+林	ss	100	ssy
+梦	ss	100	ssqu
+彬	sse	100	sset
+彬	sset	100	sset
+禁	ssf	100	ssfi
+禁	ssfi	100	ssfi
+栖	ssg	100	ssg
+楚	ssn	100	ssnh
+楚	ssnh	100	ssnh
+焚	sso	100	ssou
+焚	ssou	100	ssou
+梦	ssq	100	ssqu
+梦	ssqu	100	ssqu
+森	sss	100	sssu
+木	ssss	100	ssss
+森	sssu	100	sssu
+栗	ssu	100	ssu
+林	ssy	100	ssy
+枚	st	100	sty
+桥	st	100	stdj
+桥	std	100	stdj
+桥	stdj	100	stdj
+株	stf	100	stfy
+株	stfy	100	stfy
+格	stk	100	stkg
+格	stkg	100	stkg
+覆	stt	100	sttt
+覆	sttt	100	sttt
+梅	stx	100	stxy
+梅	stxy	100	stxy
+枚	sty	100	sty
+校	su	100	sury
+样	su	100	suh
+栏	sud	100	sudg
+栏	sudg	100	sudg
+样	suh	100	suh
+樟	suj	100	sujh
+樟	sujh	100	sujh
+校	sur	100	sury
+校	sury	100	sury
+梯	sux	100	suxt
+梯	suxt	100	suxt
+根	sv	100	svy
+概	sv	100	svaq
+概	sva	100	svaq
+概	svaq	100	svaq
+要	svf	100	svf
+根	svy	100	svy
+机	sw	100	swn
+枪	sw	100	swbn
+枪	swb	100	swbn
+枪	swbn	100	swbn
+松	swc	100	swcy
+松	swcy	100	swcy
+检	swg	100	swgg
+栓	swgg	100	swgg
+检	swgg	100	swgg
+榆	swgj	100	swgj
+橙	swgu	100	swgu
+机	swn	100	swn
+枫	swr	100	swry
+枫	swry	100	swry
+桦	swx	100	swxf
+桦	swxf	100	swxf
+椎	swy	100	swyg
+椎	swyg	100	swyg
+楷	sx	100	sxxr
+楷	sxxr	100	sxxr
+术	sy	100	syi
+述	sy	100	sypi
+梳	syc	100	syck
+梳	syck	100	syck
+柱	syg	100	sygg
+柱	sygg	100	sygg
+术	syi	100	syi
+檀	syl	100	sylg
+檀	sylg	100	sylg
+檩	syli	100	syli
+柿	sym	100	symh
+柿	symh	100	symh
+核	syn	100	synw
+核	synw	100	synw
+述	syp	100	sypi
+述	sypi	100	sypi
+敷	syty	100	syty
+榜	syu	100	syuy
+榜	syuy	100	syuy
+榔	syv	100	syvb
+榔	syvb	100	syvb
+杭	syw	100	sywn
+杭	sywn	100	sywn
+和	t	100	tkg
+禾	t	100	tttt
+彻	ta	100	tavt
+长	ta	100	tayi
+筐	tag	100	tagf
+筐	tagf	100	tagf
+升	tak	100	tak
+彻	tavt	100	tavt
+筑	taw	100	tawy
+筑	tawy	100	tawy
+长	tay	100	tayi
+长	tayi	100	tayi
+季	tb	100	tbf
+秀	tb	100	tbr
+季	tbf	100	tbf
+透	tbp	100	tbpe
+透	tbpe	100	tbpe
+秀	tbr	100	tbr
+彼	tby	100	tby
+么	tc	100	tcu
+私	tc	100	tcy
+径	tca	100	tcag
+径	tcag	100	tcag
+笆	tcb	100	tcb
+么	tcu	100	tcu
+私	tcy	100	tcy
+知	td	100	tdkg
+辞	td	100	tduh
+矩	tda	100	tdan
+矩	tdan	100	tdan
+舌	tdd	100	tdd
+甜	tdf	100	tdfg
+甜	tdfg	100	tdfg
+短	tdg	100	tdgu
+舔	tdgn	100	tdgn
+短	tdgu	100	tdgu
+逢	tdh	100	tdhp
+逢	tdhp	100	tdhp
+夭	tdi	100	tdi
+乔	tdj	100	tdjj
+刮	tdjh	100	tdjh
+乔	tdjj	100	tdjj
+智	tdk	100	tdkj
+知	tdkg	100	tdkg
+智	tdkj	100	tdkj
+乱	tdn	100	tdnn
+稽	tdnj	100	tdnj
+乱	tdnn	100	tdnn
+适	tdp	100	tdpd
+适	tdpd	100	tdpd
+敌	tdt	100	tdty
+筹	tdtf	100	tdtf
+矫	tdtj	100	tdtj
+矮	tdtv	100	tdtv
+敌	tdty	100	tdty
+矢	tdu	100	tdu
+辞	tduh	100	tduh
+箕	tdw	100	tdwu
+簸	tdwb	100	tdwb
+箕	tdwu	100	tdwu
+笼	tdx	100	tdxy
+笼	tdxy	100	tdxy
+务	te	100	ter
+笔	te	100	teb
+笔	teb	100	teb
+稻	tee	100	teeg
+稻	teeg	100	teeg
+筋	teer	100	teer
+租	teg	100	tegg
+租	tegg	100	tegg
+务	ter	100	ter
+等	tf	100	tffu
+街	tf	100	tffs
+垂	tfa	100	tfad
+垂	tfad	100	tfad
+缺	tfb	100	tfbw
+缸	tfba	100	tfba
+缺	tfbw	100	tfbw
+罐	tfby	100	tfby
+丢	tfc	100	tfcu
+丢	tfcu	100	tfcu
+街	tffs	100	tffs
+等	tffu	100	tffu
+待	tffy	100	tffy
+秆	tfh	100	tfh
+徒	tfhy	100	tfhy
+朱	tfi	100	tfi
+午	tfj	100	tfj
+竿	tfj	100	tfj
+千	tfk	100	tfk
+靠	tfkd	100	tfkd
+告	tfkf	100	tfkf
+秸	tfkg	100	tfkg
+造	tfkp	100	tfkp
+德	tfl	100	tfln
+德	tfln	100	tfln
+迁	tfp	100	tfpk
+廷	tfpd	100	tfpd
+迁	tfpk	100	tfpk
+先	tfq	100	tfqb
+先	tfqb	100	tfqb
+赞	tfqm	100	tfqm
+选	tfqp	100	tfqp
+籍	tfs	100	tfsj
+籍	tfsj	100	tfsj
+乖	tfu	100	tfux
+乖	tfux	100	tfux
+年	tg	100	tgj
+生	tg	100	tgd
+生	tgd	100	tgd
+征	tgh	100	tghg
+卸	tghb	100	tghb
+征	tghg	100	tghg
+惩	tghn	100	tghn
+失	tgi	100	tgi
+年	tgj	100	tgj
+重	tgj	100	tgjf
+重	tgjf	100	tgjf
+穗	tgjn	100	tgjn
+牛	tgk	100	tgk
+衙	tgks	100	tgks
+舞	tgl	100	tglg
+甥	tgle	100	tgle
+舞	tglg	100	tglg
+熏	tglo	100	tglo
+制	tgm	100	tgmj
+制	tgmj	100	tgmj
+行	tgs	100	tgsh
+行	tgsh	100	tgsh
+秤	tgu	100	tguf
+秤	tguf	100	tguf
+处	th	100	thi
+段	th	100	thdc
+算	tha	100	thaj
+算	thaj	100	thaj
+自	thd	100	thd
+段	thdc	100	thdc
+篡	thdc	100	thdc
+徘	thdd	100	thdd
+臭	thdu	100	thdu
+乍	thf	100	thff
+乍	thff	100	thff
+怎	thfn	100	thfn
+片	thg	100	thgn
+版	thgc	100	thgc
+牍	thgd	100	thgd
+牌	thgf	100	thgf
+片	thgn	100	thgn
+徙	thh	100	thhy
+徙	thhy	100	thhy
+处	thi	100	thi
+鼻	thl	100	thlj
+鼻	thlj	100	thlj
+息	thn	100	thnu
+延	thnp	100	thnp
+息	thnu	100	thnu
+竹	tht	100	thth
+竹	thth	100	thth
+秒	ti	100	titt
+稍	ti	100	tieg
+稍	tie	100	tieg
+稍	tieg	100	tieg
+衍	tig	100	tigs
+衍	tigs	100	tigs
+簿	tis	100	tisf
+簿	tisf	100	tisf
+秒	tit	100	titt
+秒	titt	100	titt
+利	tj	100	tjh
+得	tj	100	tjgf
+香	tjf	100	tjf
+筛	tjg	100	tjgh
+得	tjgf	100	tjgf
+筛	tjgh	100	tjgh
+利	tjh	100	tjh
+梨	tjs	100	tjsu
+梨	tjsu	100	tjsu
+复	tjt	100	tjtu
+犁	tjtg	100	tjtg
+篮	tjtl	100	tjtl
+复	tjtu	100	tjtu
+各	tk	100	tkf
+种	tk	100	tkhh
+各	tkf	100	tkf
+和	tkg	100	tkg
+程	tkg	100	tkgg
+程	tkgg	100	tkgg
+种	tkh	100	tkhh
+种	tkhh	100	tkhh
+积	tkw	100	tkwy
+积	tkwy	100	tkwy
+备	tl	100	tlf
+血	tl	100	tld
+血	tld	100	tld
+备	tlf	100	tlf
+徊	tlk	100	tlkg
+徊	tlkg	100	tlkg
+惫	tln	100	tlnu
+惫	tlnu	100	tlnu
+粤	tlo	100	tlon
+粤	tlon	100	tlon
+囱	tlq	100	tlqi
+囱	tlqi	100	tlqi
+箩	tlqu	100	tlqu
+衅	tlu	100	tlug
+衅	tlug	100	tlug
+身	tm	100	tmdt
+躲	tm	100	tmds
+射	tmd	100	tmdf
+射	tmdf	100	tmdf
+躺	tmdk	100	tmdk
+躯	tmdr	100	tmdr
+躲	tmds	100	tmds
+身	tmdt	100	tmdt
+躬	tmdx	100	tmdx
+秧	tmdy	100	tmdy
+笛	tmf	100	tmf
+稠	tmfk	100	tmfk
+微	tmg	100	tmgt
+筒	tmgk	100	tmgk
+微	tmgt	100	tmgt
+徽	tmgt	100	tmgt
+币	tmh	100	tmhk
+币	tmhk	100	tmhk
+向	tmk	100	tmkd
+向	tmkd	100	tmkd
+奥	tmo	100	tmod
+奥	tmod	100	tmod
+秽	tmq	100	tmqy
+秽	tmqy	100	tmqy
+乐	tn	100	tnii
+追	tn	100	tnpd
+乞	tnb	100	tnb
+乐	tni	100	tnii
+乐	tnii	100	tnii
+乌	tnn	100	tnng
+乌	tnng	100	tnng
+筷	tnnw	100	tnnw
+追	tnp	100	tnpd
+追	tnpd	100	tnpd
+迄	tnpv	100	tnpv
+秘	tnt	100	tntt
+秘	tntt	100	tntt
+秋	to	100	toy
+翻	to	100	toln
+释	toc	100	tocg
+释	tocg	100	tocg
+番	tol	100	tolf
+番	tolf	100	tolf
+翻	toln	100	toln
+悉	ton	100	tonu
+悉	tonu	100	tonu
+愁	tonu	100	tonu
+篓	tov	100	tovf
+篓	tovf	100	tovf
+秋	toy	100	toy
+乏	tp	100	tpu
+管	tp	100	tpnf
+稼	tpg	100	tpge
+稼	tpge	100	tpge
+管	tpn	100	tpnf
+管	tpnf	100	tpnf
+乏	tpu	100	tpu
+称	tq	100	tqiy
+稳	tq	100	tqvn
+衡	tqd	100	tqds
+衡	tqds	100	tqds
+衔	tqg	100	tqgs
+衔	tqgs	100	tqgs
+称	tqi	100	tqiy
+称	tqiy	100	tqiy
+移	tqq	100	tqqy
+移	tqqy	100	tqqy
+黎	tqt	100	tqti
+黎	tqti	100	tqti
+筝	tqv	100	tqvh
+筝	tqvh	100	tqvh
+稳	tqvn	100	tqvn
+稀	tr	100	trdh
+穆	tr	100	trie
+箍	tra	100	trah
+箍	trah	100	trah
+稀	trd	100	trdh
+稀	trdh	100	trdh
+循	trf	100	trfh
+循	trfh	100	trfh
+穆	tri	100	trie
+穆	trie	100	trie
+鹅	trn	100	trng
+鹅	trng	100	trng
+我	trny	100	trny
+条	ts	100	tsu
+策	ts	100	tsmb
+笨	tsg	100	tsgf
+笨	tsgf	100	tsgf
+箱	tsh	100	tshf
+箱	tshf	100	tshf
+策	tsm	100	tsmb
+策	tsmb	100	tsmb
+条	tsu	100	tsu
+秫	tsy	100	tsyy
+秫	tsyy	100	tsyy
+秩	tt	100	ttgy
+笑	tt	100	ttdu
+笑	ttd	100	ttdu
+篷	ttdp	100	ttdp
+笑	ttdu	100	ttdu
+御	ttg	100	ttgb
+御	ttgb	100	ttgb
+笙	ttgf	100	ttgf
+秩	ttgy	100	ttgy
+禾	ttt	100	tttt
+禾	tttt	100	tttt
+冬	tu	100	tuu
+科	tu	100	tufh
+箭	tue	100	tuej
+艘	tuec	100	tuec
+箭	tuej	100	tuej
+科	tufh	100	tufh
+乎	tufk	100	tufk
+舟	tui	100	tui
+简	tuj	100	tujf
+简	tujf	100	tujf
+税	tuk	100	tukq
+税	tukq	100	tukq
+盘	tul	100	tulf
+盘	tulf	100	tulf
+舰	tum	100	tumq
+舰	tumq	100	tumq
+舵	tup	100	tupx
+舵	tupx	100	tupx
+舶	tur	100	turg
+舶	turg	100	turg
+艇	tut	100	tutp
+艇	tutp	100	tutp
+冬	tuu	100	tuu
+船	tuw	100	tuwk
+舱	tuwb	100	tuwb
+般	tuwc	100	tuwc
+船	tuwk	100	tuwk
+乘	tux	100	tuxv
+剩	tuxj	100	tuxj
+乘	tuxv	100	tuxv
+航	tuy	100	tuyw
+航	tuyw	100	tuyw
+舷	tuyx	100	tuyx
+委	tv	100	tvf
+很	tv	100	tvy
+秉	tvd	100	tvd
+委	tvf	100	tvf
+律	tvg	100	tvgh
+律	tvgh	100	tvgh
+箫	tvh	100	tvhw
+箫	tvhw	100	tvhw
+笤	tvk	100	tvkf
+笤	tvkf	100	tvkf
+魏	tvr	100	tvrc
+魏	tvrc	100	tvrc
+笋	tvt	100	tvtr
+笋	tvtr	100	tvtr
+很	tvy	100	tvy
+答	tw	100	twgk
+签	tw	100	twgg
+筏	twa	100	twau
+筏	twau	100	twau
+秃	twb	100	twb
+役	twc	100	twcy
+役	twcy	100	twcy
+颓	twd	100	twdm
+颓	twdm	100	twdm
+符	twf	100	twfu
+符	twfu	100	twfu
+徐	twg	100	twgs
+签	twgg	100	twgg
+答	twgk	100	twgk
+徐	twgs	100	twgs
+黍	twi	100	twiu
+黍	twiu	100	twiu
+稚	twy	100	twyg
+稚	twyg	100	twyg
+每	tx	100	txu
+繁	tx	100	txti
+第	txh	100	txht
+第	txht	100	txht
+系	txi	100	txiu
+系	txiu	100	txiu
+敏	txt	100	txty
+繁	txti	100	txti
+敏	txty	100	txty
+每	txu	100	txu
+秕	txx	100	txxn
+秕	txxn	100	txxn
+入	ty	100	tyi
+篇	ty	100	tyna
+往	tyg	100	tygg
+往	tygg	100	tygg
+入	tyi	100	tyi
+稿	tym	100	tymk
+稿	tymk	100	tymk
+篙	tymk	100	tymk
+篇	tyn	100	tyna
+篇	tyna	100	tyna
+篱	tyr	100	tyrc
+篱	tyrc	100	tyrc
+簇	tytd	100	tytd
+产	u	100	ute
+立	u	100	uuuu
+并	ua	100	uaj
+瓶	ua	100	uagy
+差	uaf	100	uaf
+疟	uag	100	uagd
+疟	uagd	100	uagd
+瓶	uagy	100	uagy
+冻	uai	100	uaiy
+冻	uaiy	100	uaiy
+并	uaj	100	uaj
+瘩	uaw	100	uawk
+瘩	uawk	100	uawk
+疗	ub	100	ubk
+逆	ub	100	ubtp
+闻	ubd	100	ubd
+疲	ubi	100	ubi
+疗	ubk	100	ubk
+瘾	ubq	100	ubqn
+瘾	ubqn	100	ubqn
+塑	ubt	100	ubtf
+塑	ubtf	100	ubtf
+逆	ubtp	100	ubtp
+痛	uc	100	ucek
+闯	uc	100	ucgd
+痛	ucek	100	ucek
+冯	ucg	100	ucgg
+闯	ucgd	100	ucgd
+冯	ucgg	100	ucgg
+冶	uck	100	uckg
+冶	uckg	100	uckg
+疤	ucv	100	ucv
+竣	ucw	100	ucwt
+竣	ucwt	100	ucwt
+瘫	ucwy	100	ucwy
+头	ud	100	udi
+郑	ud	100	udbh
+郑	udb	100	udbh
+郑	udbh	100	udbh
+兰	udf	100	udf
+减	udg	100	udgk
+减	udgk	100	udgk
+头	udi	100	udi
+送	udp	100	udpi
+送	udpi	100	udpi
+关	udu	100	udu
+凑	udw	100	udwd
+凑	udwd	100	udwd
+状	udy	100	udy
+前	ue	100	uejj
+瘦	ue	100	uehc
+瘦	ueh	100	uehc
+瘦	uehc	100	uehc
+剪	uej	100	uejv
+前	uejj	100	uejj
+煎	uejo	100	uejo
+剪	uejv	100	uejv
+瘸	uekw	100	uekw
+遂	uep	100	uepi
+遂	uepi	100	uepi
+毅	uew	100	uewc
+毅	uewc	100	uewc
+斗	uf	100	ufk
+装	uf	100	ufye
+闺	uff	100	uffd
+闺	uffd	100	uffd
+壮	ufg	100	ufg
+斗	ufk	100	ufk
+闭	uft	100	ufte
+闭	ufte	100	ufte
+凌	ufw	100	ufwt
+凌	ufwt	100	ufwt
+装	ufy	100	ufye
+装	ufye	100	ufye
+半	ug	100	ugk
+美	ug	100	ugdu
+卷	ugb	100	ugbb
+卷	ugbb	100	ugbb
+闰	ugd	100	ugd
+美	ugdu	100	ugdu
+靖	uge	100	ugeg
+靖	ugeg	100	ugeg
+症	ugh	100	ughd
+症	ughd	100	ughd
+眷	ughf	100	ughf
+养	ugj	100	ugjj
+判	ugjh	100	ugjh
+养	ugjj	100	ugjj
+半	ugk	100	ugk
+痘	ugk	100	ugku
+痘	ugku	100	ugku
+盖	ugl	100	uglf
+盖	uglf	100	uglf
+病	ugm	100	ugmw
+病	ugmw	100	ugmw
+羹	ugo	100	ugod
+羹	ugod	100	ugod
+羔	ugou	100	ugou
+拳	ugr	100	ugrj
+叛	ugrc	100	ugrc
+拳	ugrj	100	ugrj
+羡	ugu	100	uguw
+羡	uguw	100	uguw
+券	ugv	100	ugvr
+姜	ugvf	100	ugvf
+券	ugvr	100	ugvr
+凄	ugvv	100	ugvv
+誊	ugy	100	ugyf
+誊	ugyf	100	ugyf
+着	uh	100	uhf
+站	uh	100	uhkg
+着	uhf	100	uhf
+站	uhkg	100	uhkg
+冰	ui	100	uiy
+阔	ui	100	uitd
+阔	uit	100	uitd
+阔	uitd	100	uitd
+冰	uiy	100	uiy
+单	uj	100	ujfj
+间	uj	100	ujd
+间	ujd	100	ujd
+彰	uje	100	ujet
+彰	ujet	100	ujet
+音	ujf	100	ujf
+童	ujff	100	ujff
+单	ujfj	100	ujfj
+闽	uji	100	uji
+章	ujj	100	ujj
+瘟	ujl	100	ujld
+瘟	ujld	100	ujld
+意	ujn	100	ujnu
+意	ujnu	100	ujnu
+竟	ujq	100	ujqb
+竟	ujqb	100	ujqb
+竭	ujqn	100	ujqn
+韵	ujqu	100	ujqu
+况	uk	100	ukqn
+问	uk	100	ukd
+部	ukb	100	ukbh
+部	ukbh	100	ukbh
+问	ukd	100	ukd
+冲	ukh	100	ukhh
+冲	ukhh	100	ukhh
+剖	ukj	100	ukjh
+剖	ukjh	100	ukjh
+癌	ukk	100	ukkm
+癌	ukkm	100	ukkm
+总	ukn	100	uknu
+总	uknu	100	uknu
+竞	ukq	100	ukqb
+兑	ukqb	100	ukqb
+竞	ukqb	100	ukqb
+况	ukqn	100	ukqn
+曾	ul	100	uljf
+闸	ul	100	ulk
+兽	ulg	100	ulgk
+痹	ulgj	100	ulgj
+兽	ulgk	100	ulgk
+曾	ulj	100	uljf
+曾	uljf	100	uljf
+闸	ulk	100	ulk
+端	um	100	umdj
+端	umdj	100	umdj
+决	un	100	unwy
+闷	un	100	uni
+翔	ung	100	ung
+羞	unh	100	unhg
+羞	unhg	100	unhg
+闷	uni	100	uni
+决	unw	100	unwy
+决	unwy	100	unwy
+普	uo	100	uojf
+痰	uo	100	uooi
+普	uoj	100	uojf
+普	uojf	100	uojf
+痰	uoo	100	uooi
+痰	uooi	100	uooi
+次	uq	100	uqwy
+盗	uq	100	uqwl
+奖	uqd	100	uqdu
+奖	uqdu	100	uqdu
+阎	uqe	100	uqed
+阎	uqed	100	uqed
+将	uqf	100	uqfy
+将	uqfy	100	uqfy
+癣	uqg	100	uqgu
+癣	uqgu	100	uqgu
+浆	uqi	100	uqiu
+浆	uqiu	100	uqiu
+痪	uqm	100	uqmd
+痪	uqmd	100	uqmd
+桨	uqs	100	uqsu
+酱	uqsg	100	uqsg
+桨	uqsu	100	uqsu
+净	uqv	100	uqvh
+净	uqvh	100	uqvh
+资	uqw	100	uqwm
+咨	uqwk	100	uqwk
+盗	uqwl	100	uqwl
+资	uqwm	100	uqwm
+姿	uqwv	100	uqwv
+次	uqwy	100	uqwy
+瓷	uqwy	100	uqwy
+疚	uqy	100	uqyi
+疚	uqyi	100	uqyi
+瘤	uqyl	100	uqyl
+交	ur	100	uru
+效	ur	100	urty
+郊	urb	100	urbh
+郊	urbh	100	urbh
+瓣	urc	100	urcu
+瓣	urcu	100	urcu
+效	urt	100	urty
+效	urty	100	urty
+交	uru	100	uru
+亲	us	100	usu
+辣	us	100	uskg
+尊	usg	100	usgf
+奠	usgd	100	usgd
+尊	usgf	100	usgf
+遵	usgp	100	usgp
+闲	usi	100	usi
+辣	uskg	100	uskg
+癞	uskm	100	uskm
+新	usr	100	usrh
+新	usrh	100	usrh
+亲	usu	100	usu
+道	ut	100	uthp
+首	ut	100	uthf
+疾	utd	100	utdi
+疾	utdi	100	utdi
+痴	utdk	100	utdk
+产	ute	100	ute
+颜	ute	100	utem
+颜	utem	100	utem
+首	uth	100	uthf
+首	uthf	100	uthf
+道	uthp	100	uthp
+瘪	uthx	100	uthx
+痢	utj	100	utjk
+痢	utjk	100	utjk
+阁	utk	100	utkd
+阁	utkd	100	utkd
+疙	utn	100	utnv
+疙	utnv	100	utnv
+疼	utu	100	utui
+疼	utui	100	utui
+善	uu	100	uukf
+立	uu	100	uuuu
+阐	uuj	100	uujf
+阐	uujf	100	uujf
+痒	uuk	100	uuk
+善	uukf	100	uukf
+阅	uukq	100	uukq
+立	uuu	100	uuuu
+立	uuuu	100	uuuu
+兼	uv	100	uvjw
+妆	uv	100	uvg
+妆	uvg	100	uvg
+痕	uvi	100	uvi
+兼	uvj	100	uvjw
+兼	uvjw	100	uvjw
+歉	uvjw	100	uvjw
+准	uw	100	uwyg
+闪	uw	100	uwi
+阀	uwa	100	uwai
+阀	uwai	100	uwai
+疮	uwb	100	uwbv
+疮	uwbv	100	uwbv
+疫	uwc	100	uwci
+疫	uwci	100	uwci
+疹	uwe	100	uwee
+疹	uwee	100	uwee
+痊	uwg	100	uwgd
+痊	uwgd	100	uwgd
+闪	uwi	100	uwi
+益	uwl	100	uwlf
+益	uwlf	100	uwlf
+疯	uwr	100	uwri
+疯	uwri	100	uwri
+飒	uwry	100	uwry
+冷	uwy	100	uwyc
+冷	uwyc	100	uwyc
+准	uwyg	100	uwyg
+北	ux	100	uxn
+递	ux	100	uxhp
+背	uxe	100	uxef
+背	uxef	100	uxef
+弟	uxh	100	uxht
+剃	uxhj	100	uxhj
+递	uxhp	100	uxhp
+弟	uxht	100	uxht
+冀	uxl	100	uxlw
+冀	uxlw	100	uxlw
+北	uxn	100	uxn
+凝	uxt	100	uxth
+凝	uxth	100	uxth
+辫	uxu	100	uxuh
+辫	uxuh	100	uxuh
+慈	uxxn	100	uxxn
+六	uy	100	uygy
+凉	uy	100	uyiy
+辛	uygh	100	uygh
+六	uygy	100	uygy
+门	uyh	100	uyhn
+门	uyhn	100	uyhn
+凉	uyiy	100	uyiy
+凛	uyl	100	uyli
+凛	uyli	100	uyli
+闹	uym	100	uymh
+闹	uymh	100	uymh
+羊	uyt	100	uyth
+羊	uyth	100	uyth
+辨	uytu	100	uytu
+辩	uyu	100	uyuh
+辩	uyuh	100	uyuh
+发	v	100	ntcy
+女	v	100	vvvv
+既	va	100	vaqn
+既	vaqn	100	vaqn
+她	vb	100	vbn
+好	vb	100	vbg
+好	vbg	100	vbg
+即	vbh	100	vbh
+她	vbn	100	vbn
+奶	vbt	100	vbt
+妈	vc	100	vcgg
+始	vc	100	vckg
+努	vce	100	vcer
+努	vcer	100	vcer
+妈	vcg	100	vcgg
+妈	vcgg	100	vcgg
+始	vck	100	vckg
+始	vckg	100	vckg
+怒	vcn	100	vcnu
+怒	vcnu	100	vcnu
+奴	vcy	100	vcy
+姑	vd	100	vdg
+姑	vdg	100	vdg
+姐	ve	100	vegg
+姐	vegg	100	vegg
+嫂	veh	100	vehc
+嫂	vehc	100	vehc
+妹	vf	100	vfy
+寻	vf	100	vfu
+妓	vfc	100	vfcy
+妓	vfcy	100	vfcy
+垦	vff	100	vff
+娃	vffg	100	vffg
+奸	vfh	100	vfh
+嬉	vfk	100	vfkk
+嬉	vfkk	100	vfkk
+媒	vfs	100	vfsy
+媒	vfsy	100	vfsy
+姥	vft	100	vftx
+姥	vftx	100	vftx
+寻	vfu	100	vfu
+妹	vfy	100	vfy
+姨	vg	100	vgxw
+建	vg	100	vgpk
+建	vgp	100	vgpk
+建	vgpk	100	vgpk
+姨	vgx	100	vgxw
+姨	vgxw	100	vgxw
+肃	vh	100	vhjw
+肃	vhj	100	vhjw
+肃	vhjw	100	vhjw
+妙	vi	100	vitt
+录	vi	100	viu
+隶	vii	100	vii
+剥	vij	100	vijh
+剥	vijh	100	vijh
+逮	vip	100	vipi
+逮	vipi	100	vipi
+妙	vit	100	vitt
+妙	vitt	100	vitt
+录	viu	100	viu
+巢	vj	100	vjsu
+旭	vj	100	vjd
+旭	vjd	100	vjd
+巢	vjs	100	vjsu
+剿	vjsj	100	vjsj
+巢	vjsu	100	vjsu
+召	vk	100	vkf
+如	vk	100	vkg
+召	vkf	100	vkf
+如	vkg	100	vkg
+娱	vkg	100	vkgd
+娱	vkgd	100	vkgd
+恕	vkn	100	vknu
+恕	vknu	100	vknu
+絮	vkx	100	vkxi
+絮	vkxi	100	vkxi
+姻	vl	100	vldy
+姻	vld	100	vldy
+姻	vldy	100	vldy
+刀	vn	100	vnt
+恳	vn	100	vnu
+娜	vng	100	vngb
+娜	vngb	100	vngb
+媚	vnh	100	vnhg
+婿	vnhe	100	vnhe
+媚	vnhg	100	vnhg
+刀	vnt	100	vnt
+恳	vnu	100	vnu
+灵	vo	100	vou
+灵	vou	100	vou
+嫁	vp	100	vpge
+退	vp	100	vpi
+嫁	vpg	100	vpge
+嫁	vpge	100	vpge
+退	vpi	100	vpi
+婶	vpj	100	vpjh
+婶	vpjh	100	vpjh
+帚	vpm	100	vpmh
+帚	vpmh	100	vpmh
+婉	vpq	100	vpqb
+婉	vpqb	100	vpqb
+巡	vpv	100	vpv
+姚	vq	100	vqiy
+婚	vq	100	vqaj
+婚	vqa	100	vqaj
+婚	vqaj	100	vqaj
+鸠	vqg	100	vqgg
+鸠	vqgg	100	vqgg
+姚	vqi	100	vqiy
+姚	vqiy	100	vqiy
+娩	vqk	100	vqkq
+娩	vqkq	100	vqkq
+嫩	vs	100	vskt
+杂	vs	100	vsu
+嫩	vsk	100	vskt
+嫩	vskt	100	vskt
+杂	vsu	100	vsu
+九	vt	100	vtn
+群	vt	100	vtku
+妖	vtd	100	vtdy
+娇	vtdj	100	vtdj
+妖	vtdy	100	vtdy
+姓	vtg	100	vtgg
+姓	vtgg	100	vtgg
+媳	vth	100	vthn
+媳	vthn	100	vthn
+君	vtk	100	vtkf
+君	vtkf	100	vtkf
+群	vtku	100	vtku
+九	vtn	100	vtn
+姊	vtn	100	vtnt
+姊	vtnt	100	vtnt
+嫌	vu	100	vuvw
+嫉	vut	100	vutd
+嫉	vutd	100	vutd
+嫌	vuv	100	vuvw
+嫌	vuvw	100	vuvw
+女	vv	100	vvvv
+妇	vv	100	vvg
+妇	vvg	100	vvg
+女	vvv	100	vvvv
+女	vvvv	100	vvvv
+姆	vx	100	vxy
+姆	vxy	100	vxy
+妨	vy	100	vyt
+忍	vy	100	vynu
+丸	vyi	100	vyi
+刃	vyi	100	vyi
+忍	vyn	100	vynu
+妒	vynt	100	vynt
+忍	vynu	100	vynu
+妨	vyt	100	vyt
+嫡	vyu	100	vyud
+嫡	vyud	100	vyud
+娘	vyv	100	vyvy
+娘	vyvy	100	vyvy
+人	w	100	wwww
+几	w	100	wtn
+代	wa	100	wayy
+袋	wa	100	waye
+借	waj	100	wajg
+借	wajg	100	wajg
+侥	wat	100	watq
+侥	watq	100	watq
+供	waw	100	wawy
+供	wawy	100	wawy
+伐	way	100	way
+袋	waye	100	waye
+贷	waym	100	waym
+代	wayy	100	wayy
+仍	wb	100	wbt
+他	wb	100	wbn
+仓	wbb	100	wbb
+仔	wbg	100	wbg
+创	wbj	100	wbjh
+创	wbjh	100	wbjh
+他	wbn	100	wbn
+仍	wbt	100	wbt
+仅	wc	100	wcy
+公	wc	100	wcu
+颂	wcd	100	wcdm
+颂	wcdm	100	wcdm
+瓮	wcg	100	wcgy
+瓮	wcgy	100	wcgy
+凤	wci	100	wci
+翁	wcn	100	wcnf
+翁	wcnf	100	wcnf
+公	wcu	100	wcu
+俊	wcw	100	wcwt
+俊	wcwt	100	wcwt
+仅	wcy	100	wcy
+估	wd	100	wdg
+俺	wd	100	wdjn
+估	wdg	100	wdg
+俺	wdjn	100	wdjn
+佑	wdk	100	wdkg
+佑	wdkg	100	wdkg
+优	wdn	100	wdny
+优	wdny	100	wdny
+倚	wds	100	wdsk
+倚	wdsk	100	wdsk
+做	wdt	100	wdty
+做	wdty	100	wdty
+僚	wdu	100	wdui
+僚	wdui	100	wdui
+伏	wdy	100	wdy
+仗	wdyy	100	wdyy
+佣	we	100	weh
+俘	web	100	webg
+俘	webg	100	webg
+佣	weh	100	weh
+什	wf	100	wfh
+伟	wf	100	wfnh
+会	wfc	100	wfcu
+刽	wfcj	100	wfcj
+会	wfcu	100	wfcu
+儒	wfd	100	wfdj
+儒	wfdj	100	wfdj
+佳	wff	100	wffg
+佳	wffg	100	wffg
+侍	wffy	100	wffy
+仁	wfg	100	wfg
+什	wfh	100	wfh
+值	wfh	100	wfhg
+值	wfhg	100	wfhg
+祭	wfi	100	wfiu
+祭	wfiu	100	wfiu
+舍	wfk	100	wfkf
+舍	wfkf	100	wfkf
+舒	wfkh	100	wfkh
+传	wfn	100	wfny
+伟	wfnh	100	wfnh
+传	wfny	100	wfny
+付	wfy	100	wfy
+全	wg	100	wgf
+合	wg	100	wgkf
+倒	wgc	100	wgcj
+侄	wgcf	100	wgcf
+倒	wgcj	100	wgcj
+愈	wge	100	wgen
+愈	wgen	100	wgen
+逾	wgep	100	wgep
+全	wgf	100	wgf
+伍	wgg	100	wgg
+剑	wgi	100	wgij
+剑	wgij	100	wgij
+敛	wgit	100	wgit
+便	wgj	100	wgjr
+便	wgjr	100	wgjr
+使	wgk	100	wgkr
+命	wgkb	100	wgkb
+合	wgkf	100	wgkf
+鸽	wgkg	100	wgkg
+盒	wgkl	100	wgkl
+使	wgkr	100	wgkr
+拿	wgkr	100	wgkr
+登	wgku	100	wgku
+凳	wgkw	100	wgkw
+僵	wgl	100	wglg
+僵	wglg	100	wglg
+债	wgm	100	wgmy
+俩	wgmw	100	wgmw
+债	wgmy	100	wgmy
+例	wgq	100	wgqj
+例	wgqj	100	wgqj
+傲	wgqt	100	wgqt
+余	wgs	100	wgsu
+叙	wgsc	100	wgsc
+斜	wgsf	100	wgsf
+途	wgsp	100	wgsp
+余	wgsu	100	wgsu
+侠	wgu	100	wgud
+侠	wgud	100	wgud
+个	wh	100	whj
+候	wh	100	whnd
+企	whf	100	whf
+个	whj	100	whj
+侦	whm	100	whmy
+侦	whmy	100	whmy
+候	whn	100	whnd
+候	whnd	100	whnd
+修	wht	100	whte
+修	whte	100	whte
+悠	whtn	100	whtn
+俱	whw	100	whwy
+俱	whwy	100	whwy
+仆	why	100	why
+俏	wi	100	wieg
+偿	wi	100	wipc
+俏	wie	100	wieg
+俏	wieg	100	wieg
+倘	wim	100	wimk
+倘	wimk	100	wimk
+偿	wipc	100	wipc
+介	wj	100	wjj
+但	wj	100	wjgg
+但	wjg	100	wjgg
+但	wjgg	100	wjgg
+伸	wjh	100	wjhh
+伸	wjhh	100	wjhh
+介	wjj	100	wjj
+倡	wjj	100	wjjg
+倡	wjjg	100	wjjg
+偶	wjm	100	wjmy
+偶	wjmy	100	wjmy
+仲	wk	100	wkhh
+保	wk	100	wksy
+促	wkh	100	wkhy
+仲	wkhh	100	wkhh
+促	wkhy	100	wkhy
+侣	wkk	100	wkkg
+侣	wkkg	100	wkkg
+堡	wks	100	wksf
+堡	wksf	100	wksf
+保	wksy	100	wksy
+佃	wl	100	wlg
+偎	wl	100	wlge
+佃	wlg	100	wlg
+偎	wlg	100	wlge
+偎	wlge	100	wlge
+儡	wll	100	wlll
+儡	wlll	100	wlll
+仙	wm	100	wmh
+侧	wm	100	wmjh
+仙	wmh	100	wmh
+侧	wmj	100	wmjh
+侧	wmjh	100	wmjh
+催	wmw	100	wmwy
+催	wmwy	100	wmwy
+亿	wn	100	wnn
+似	wn	100	wnyw
+倔	wnb	100	wnbm
+倔	wnbm	100	wnbm
+伺	wng	100	wngk
+伺	wngk	100	wngk
+假	wnh	100	wnhc
+假	wnhc	100	wnhc
+僻	wnk	100	wnku
+僻	wnku	100	wnku
+亿	wnn	100	wnn
+侯	wnt	100	wntd
+侯	wntd	100	wntd
+似	wny	100	wnyw
+似	wnyw	100	wnyw
+伙	wo	100	woy
+俯	wo	100	wowf
+俯	wow	100	wowf
+俯	wowf	100	wowf
+伙	woy	100	woy
+低	wq	100	wqay
+你	wq	100	wqiy
+低	wqa	100	wqay
+低	wqay	100	wqay
+仰	wqb	100	wqbh
+仰	wqbh	100	wqbh
+您	wqi	100	wqin
+您	wqin	100	wqin
+你	wqiy	100	wqiy
+像	wqk	100	wqke
+像	wqke	100	wqke
+侈	wqq	100	wqqy
+侈	wqqy	100	wqqy
+父	wr	100	wru
+风	wr	100	wri
+爷	wrb	100	wrbj
+爷	wrbj	100	wrbj
+爸	wrc	100	wrcb
+爸	wrcb	100	wrcb
+伯	wrg	100	wrg
+凰	wrgd	100	wrgd
+风	wri	100	wri
+爹	wrq	100	wrqq
+傀	wrqc	100	wrqc
+爹	wrqq	100	wrqq
+斧	wrr	100	wrrj
+斧	wrrj	100	wrrj
+父	wru	100	wru
+休	ws	100	wsy
+何	ws	100	wskg
+傅	wsf	100	wsfy
+傅	wsfy	100	wsfy
+体	wsg	100	wsgg
+体	wsgg	100	wsgg
+何	wsk	100	wskg
+何	wskg	100	wskg
+朵	wsu	100	wsu
+休	wsy	100	wsy
+作	wt	100	wthf
+八	wt	100	wty
+侨	wtd	100	wtdj
+侨	wtdj	100	wtdj
+伤	wte	100	wtet
+伤	wtet	100	wtet
+任	wtf	100	wtfg
+任	wtfg	100	wtfg
+赁	wtfm	100	wtfm
+凭	wtfw	100	wtfw
+件	wtg	100	wtgh
+件	wtgh	100	wtgh
+作	wthf	100	wthf
+俐	wtj	100	wtjh
+俐	wtjh	100	wtjh
+傻	wtl	100	wtlt
+傻	wtlt	100	wtlt
+几	wtn	100	wtn
+俄	wtr	100	wtry
+俄	wtry	100	wtry
+侮	wtx	100	wtxy
+侮	wtxy	100	wtxy
+八	wty	100	wty
+们	wu	100	wun
+伴	wu	100	wugh
+伞	wuf	100	wufj
+伞	wufj	100	wufj
+位	wug	100	wug
+倦	wugb	100	wugb
+伴	wugh	100	wugh
+倍	wuk	100	wukg
+倍	wukg	100	wukg
+僧	wul	100	wulj
+僧	wulj	100	wulj
+们	wun	100	wun
+健	wv	100	wvgp
+分	wv	100	wvr
+颁	wvd	100	wvdm
+颁	wvdm	100	wvdm
+健	wvg	100	wvgp
+健	wvgp	100	wvgp
+盆	wvl	100	wvlf
+盆	wvlf	100	wvlf
+贫	wvm	100	wvmu
+岔	wvmj	100	wvmj
+贫	wvmu	100	wvmu
+仇	wvn	100	wvn
+忿	wvnu	100	wvnu
+侵	wvp	100	wvpc
+侵	wvpc	100	wvpc
+分	wvr	100	wvr
+伊	wvt	100	wvtt
+伊	wvtt	100	wvtt
+从	ww	100	wwy
+欲	ww	100	wwkw
+耸	wwb	100	wwbf
+耸	wwbf	100	wwbf
+坐	wwf	100	wwfd
+坐	wwfd	100	wwfd
+丛	wwg	100	wwgf
+丛	wwgf	100	wwgf
+俭	wwgg	100	wwgg
+佩	wwgh	100	wwgh
+偷	wwgj	100	wwgj
+价	wwj	100	wwjh
+价	wwjh	100	wwjh
+谷	wwk	100	wwkf
+谷	wwkf	100	wwkf
+欲	wwkw	100	wwkw
+份	wwv	100	wwvt
+份	wwvt	100	wwvt
+众	www	100	wwwu
+俗	wwwk	100	wwwk
+众	wwwu	100	wwwu
+人	wwww	100	wwww
+伦	wwx	100	wwxn
+伦	wwxn	100	wwxn
+从	wwy	100	wwy
+伶	wwy	100	wwyc
+伶	wwyc	100	wwyc
+化	wx	100	wxn
+华	wx	100	wxfj
+仑	wxb	100	wxb
+倾	wxd	100	wxdm
+倾	wxdm	100	wxdm
+华	wxf	100	wxfj
+华	wxfj	100	wxfj
+佛	wxj	100	wxjh
+佛	wxjh	100	wxjh
+货	wxm	100	wxmu
+货	wxmu	100	wxmu
+化	wxn	100	wxn
+住	wy	100	wygg
+信	wy	100	wyg
+令	wyc	100	wycu
+邻	wycb	100	wycb
+领	wycm	100	wycm
+翎	wycn	100	wycn
+令	wycu	100	wycu
+依	wye	100	wyey
+伪	wyey	100	wyey
+依	wyey	100	wyey
+储	wyf	100	wyfj
+储	wyfj	100	wyfj
+信	wyg	100	wyg
+住	wygg	100	wygg
+凡	wyi	100	wyi
+售	wyk	100	wykf
+售	wykf	100	wykf
+今	wyn	100	wynb
+偏	wyna	100	wyna
+今	wynb	100	wynb
+含	wynk	100	wynk
+贪	wynm	100	wynm
+念	wynn	100	wynn
+焦	wyo	100	wyou
+焦	wyou	100	wyou
+停	wyp	100	wyps
+停	wyps	100	wyps
+仪	wyr	100	wyry
+禽	wyrc	100	wyrc
+仪	wyry	100	wyry
+集	wys	100	wysu
+集	wysu	100	wysu
+仿	wyt	100	wyt
+傍	wyu	100	wyuy
+傍	wyuy	100	wyuy
+食	wyv	100	wyvu
+食	wyvu	100	wyvu
+母	x	100	xnny
+经	x	100	xcag
+红	xa	100	xag
+练	xa	100	xanw
+绒	xad	100	xadt
+绒	xadt	100	xadt
+红	xag	100	xag
+练	xan	100	xanw
+练	xanw	100	xanw
+绕	xat	100	xatq
+绕	xatq	100	xatq
+弛	xb	100	xbn
+级	xb	100	xbyy
+弛	xbn	100	xbn
+级	xbyy	100	xbyy
+缀	xc	100	xccc
+经	xcag	100	xcag
+缀	xcc	100	xccc
+缀	xccc	100	xccc
+绎	xcg	100	xcgh
+绎	xcgh	100	xcgh
+绑	xd	100	xdtb
+顷	xd	100	xdmy
+缅	xdl	100	xdlf
+缅	xdlf	100	xdlf
+顷	xdm	100	xdmy
+顷	xdmy	100	xdmy
+绑	xdt	100	xdtb
+绑	xdtb	100	xdtb
+缭	xdu	100	xdui
+缭	xdui	100	xdui
+幼	xe	100	xet
+组	xe	100	xegg
+绷	xee	100	xeeg
+绷	xeeg	100	xeeg
+缓	xeg	100	xegc
+缓	xegc	100	xegc
+组	xegg	100	xegg
+幼	xet	100	xet
+结	xf	100	xfkg
+续	xf	100	xfnd
+疆	xfgg	100	xfgg
+结	xfkg	100	xfkg
+续	xfn	100	xfnd
+续	xfnd	100	xfnd
+纬	xfnh	100	xfnh
+绪	xft	100	xftj
+绪	xftj	100	xftj
+纯	xg	100	xgbn
+线	xg	100	xgay
+线	xga	100	xgay
+线	xgay	100	xgay
+纯	xgb	100	xgbn
+纯	xgbn	100	xgbn
+缰	xgl	100	xglg
+缰	xglg	100	xglg
+绩	xgm	100	xgmy
+绩	xgmy	100	xgmy
+引	xh	100	xhh
+引	xhh	100	xhh
+绰	xhj	100	xhjh
+绰	xhjh	100	xhjh
+纱	xi	100	xitt
+纱	xit	100	xitt
+纱	xitt	100	xitt
+旨	xj	100	xjf
+费	xj	100	xjmu
+旨	xjf	100	xjf
+绅	xjh	100	xjhh
+绅	xjhh	100	xjhh
+费	xjm	100	xjmu
+费	xjmu	100	xjmu
+缆	xjt	100	xjtq
+缆	xjtq	100	xjtq
+强	xk	100	xkjy
+织	xk	100	xkwy
+绢	xke	100	xkeg
+绢	xkeg	100	xkeg
+绳	xkj	100	xkjn
+绳	xkjn	100	xkjn
+强	xkjy	100	xkjy
+织	xkw	100	xkwy
+织	xkwy	100	xkwy
+细	xl	100	xlg
+细	xlg	100	xlg
+纳	xm	100	xmwy
+贯	xm	100	xmu
+绸	xmf	100	xmfk
+绸	xmfk	100	xmfk
+缨	xmm	100	xmmv
+缨	xmmv	100	xmmv
+纲	xmr	100	xmry
+纲	xmry	100	xmry
+贯	xmu	100	xmu
+纳	xmw	100	xmwy
+纳	xmwy	100	xmwy
+母	xn	100	xnny
+纪	xn	100	xnn
+弓	xng	100	xngn
+弓	xngn	100	xngn
+纠	xnh	100	xnhh
+纽	xnhg	100	xnhg
+纠	xnhh	100	xnhh
+幻	xnn	100	xnn
+纪	xnn	100	xnn
+母	xnny	100	xnny
+继	xo	100	xonn
+缠	xo	100	xojf
+缠	xoj	100	xojf
+缠	xojf	100	xojf
+继	xon	100	xonn
+继	xonn	100	xonn
+缕	xov	100	xovg
+缕	xovg	100	xovg
+粥	xox	100	xoxn
+粥	xoxn	100	xoxn
+综	xp	100	xpfi
+缩	xp	100	xpwj
+综	xpf	100	xpfi
+综	xpfi	100	xpfi
+绽	xpg	100	xpgh
+绽	xpgh	100	xpgh
+缤	xpr	100	xprw
+缤	xprw	100	xprw
+缩	xpw	100	xpwj
+缩	xpwj	100	xpwj
+约	xq	100	xqyy
+绝	xq	100	xqcn
+纸	xqa	100	xqan
+纸	xqan	100	xqan
+绝	xqc	100	xqcn
+绝	xqcn	100	xqcn
+弥	xqi	100	xqiy
+弥	xqiy	100	xqiy
+约	xqy	100	xqyy
+约	xqyy	100	xqyy
+绵	xr	100	xrmh
+缴	xr	100	xryt
+弧	xrc	100	xrcy
+弧	xrcy	100	xrcy
+绵	xrm	100	xrmh
+绵	xrmh	100	xrmh
+缴	xry	100	xryt
+缴	xryt	100	xryt
+缚	xs	100	xsfy
+缚	xsfy	100	xsfy
+乡	xt	100	xte
+张	xt	100	xtay
+张	xta	100	xtay
+张	xtay	100	xtay
+绣	xtb	100	xtbt
+绣	xtbt	100	xtbt
+疑	xtd	100	xtdh
+肄	xtdg	100	xtdg
+疑	xtdh	100	xtdh
+颖	xtdm	100	xtdm
+缝	xtdp	100	xtdp
+乡	xte	100	xte
+纤	xtf	100	xtfh
+纤	xtfh	100	xtfh
+缎	xth	100	xthc
+缎	xthc	100	xthc
+络	xtk	100	xtkg
+络	xtkg	100	xtkg
+匕	xtn	100	xtn
+终	xtu	100	xtuy
+终	xtuy	100	xtuy
+弱	xu	100	xuxu
+弹	xu	100	xujf
+绊	xug	100	xugh
+绊	xugh	100	xugh
+弹	xuj	100	xujf
+弹	xujf	100	xujf
+绞	xur	100	xury
+绞	xury	100	xury
+弱	xuxu	100	xuxu
+绍	xv	100	xvkg
+绿	xv	100	xviy
+绿	xvi	100	xviy
+绿	xviy	100	xviy
+绍	xvk	100	xvkg
+绍	xvkg	100	xvkg
+纫	xvy	100	xvyy
+纫	xvyy	100	xvyy
+给	xw	100	xwgk
+维	xw	100	xwyg
+绘	xwf	100	xwfc
+绘	xwfc	100	xwfc
+给	xwgk	100	xwgk
+纷	xwv	100	xwvt
+纷	xwvt	100	xwvt
+纵	xww	100	xwwy
+纵	xwwy	100	xwwy
+维	xwy	100	xwyg
+维	xwyg	100	xwyg
+比	xx	100	xxn
+缘	xx	100	xxey
+缘	xxe	100	xxey
+缘	xxey	100	xxey
+毕	xxf	100	xxfj
+毕	xxfj	100	xxfj
+丝	xxg	100	xxgf
+丝	xxgf	100	xxgf
+毙	xxgx	100	xxgx
+比	xxn	100	xxn
+皆	xxr	100	xxrf
+皆	xxrf	100	xxrf
+纺	xy	100	xyt
+编	xy	100	xyna
+统	xyc	100	xycq
+统	xycq	100	xycq
+编	xyn	100	xyna
+编	xyna	100	xyna
+纺	xyt	100	xyt
+缔	xyu	100	xyuh
+缔	xyuh	100	xyuh
+弦	xyx	100	xyxy
+弦	xyxy	100	xyxy
+纹	xyy	100	xyy
+主	y	100	ygd
+言	y	100	yyyy
+试	ya	100	yaay
+谎	ya	100	yayk
+诫	yaa	100	yaah
+诫	yaah	100	yaah
+试	yaay	100	yaay
+诺	yad	100	yadk
+诺	yadk	100	yadk
+讶	yah	100	yaht
+讶	yaht	100	yaht
+谨	yak	100	yakg
+谨	yakg	100	yakg
+谍	yan	100	yans
+谍	yans	100	yans
+诬	yaw	100	yaww
+诬	yaww	100	yaww
+谎	yay	100	yayk
+谎	yayk	100	yayk
+享	yb	100	ybf
+郭	yb	100	ybbh
+郭	ybb	100	ybbh
+郭	ybbh	100	ybbh
+享	ybf	100	ybf
+烹	ybo	100	ybou
+烹	ybou	100	ybou
+敦	ybt	100	ybty
+敦	ybty	100	ybty
+熟	ybv	100	ybvo
+熟	ybvo	100	ybvo
+充	yc	100	ycqb
+弃	yc	100	ycaj
+弃	yca	100	ycaj
+弃	ycaj	100	ycaj
+育	yce	100	ycef
+育	ycef	100	ycef
+诵	yceh	100	yceh
+译	ycg	100	ycgh
+译	ycgh	100	ycgh
+充	ycq	100	ycqb
+充	ycqb	100	ycqb
+斋	yd	100	ydmj
+诚	yd	100	ydnn
+斋	ydm	100	ydmj
+斋	ydmj	100	ydmj
+诚	ydn	100	ydnn
+诚	ydnn	100	ydnn
+衣	ye	100	yeu
+赢	ye	100	yemy
+诅	yeg	100	yegg
+诅	yegg	100	yegg
+赢	yem	100	yemy
+赢	yemy	100	yemy
+谣	yet	100	yetb
+谣	yetb	100	yetb
+哀	yeu	100	yeu
+衣	yeu	100	yeu
+为	yey	100	yeyi
+为	yeyi	100	yeyi
+计	yf	100	yfh
+讲	yf	100	yfjh
+诗	yff	100	yffy
+诗	yffy	100	yffy
+计	yfh	100	yfh
+讲	yfj	100	yfjh
+讲	yfjh	100	yfjh
+读	yfn	100	yfnd
+读	yfnd	100	yfnd
+讳	yfnh	100	yfnh
+谋	yfs	100	yfsy
+谋	yfsy	100	yfsy
+诸	yft	100	yftj
+诸	yftj	100	yftj
+讨	yfy	100	yfy
+证	yg	100	yghg
+请	yg	100	ygeg
+主	ygd	100	ygd
+请	yge	100	ygeg
+请	ygeg	100	ygeg
+证	ygh	100	yghg
+证	yghg	100	yghg
+语	ygk	100	ygkg
+语	ygkg	100	ygkg
+评	ygu	100	yguf
+评	yguf	100	yguf
+让	yh	100	yhg
+诽	yhd	100	yhdd
+诽	yhdd	100	yhdd
+让	yhg	100	yhg
+京	yi	100	yiu
+就	yi	100	yidy
+就	yidy	100	yidy
+京	yiu	100	yiu
+刘	yj	100	yjh
+剂	yj	100	yjjh
+刘	yjh	100	yjh
+齐	yjj	100	yjj
+剂	yjjh	100	yjjh
+谒	yjq	100	yjqn
+谒	yjqn	100	yjqn
+课	yjs	100	yjsy
+裹	yjse	100	yjse
+课	yjsy	100	yjsy
+训	yk	100	ykh
+识	yk	100	ykwy
+吝	ykf	100	ykf
+误	ykg	100	ykgd
+误	ykgd	100	ykgd
+衰	ykge	100	ykge
+衷	ykh	100	ykhe
+训	ykh	100	ykh
+衷	ykhe	100	ykhe
+谴	ykhp	100	ykhp
+瓤	ykky	100	ykky
+识	ykw	100	ykwy
+识	ykwy	100	ykwy
+亩	yl	100	ylf
+谓	yl	100	yleg
+谓	yle	100	yleg
+谓	yleg	100	yleg
+亩	ylf	100	ylf
+颤	ylk	100	ylkm
+禀	ylki	100	ylki
+颤	ylkm	100	ylkm
+市	ym	100	ymhj
+高	ym	100	ymkf
+调	ymf	100	ymfk
+调	ymfk	100	ymfk
+市	ymhj	100	ymhj
+高	ymk	100	ymkf
+敲	ymkc	100	ymkc
+高	ymkf	100	ymkf
+望	yn	100	yneg
+记	yn	100	ynn
+户	yne	100	yne
+肩	yned	100	yned
+望	yneg	100	yneg
+讯	ynf	100	ynfh
+讯	ynfh	100	ynfh
+词	yngk	100	yngk
+盲	ynh	100	ynhf
+盲	ynhf	100	ynhf
+永	yni	100	ynii
+永	ynii	100	ynii
+启	ynk	100	ynkd
+启	ynkd	100	ynkd
+遍	ynm	100	ynmp
+扁	ynma	100	ynma
+翩	ynmn	100	ynmn
+遍	ynmp	100	ynmp
+忘	ynn	100	ynnu
+记	ynn	100	ynn
+氓	ynna	100	ynna
+扇	ynnd	100	ynnd
+忘	ynnu	100	ynnu
+刻	ynt	100	yntj
+刻	yntj	100	yntj
+亥	yntw	100	yntw
+亡	ynv	100	ynv
+妄	ynvf	100	ynvf
+雇	ynw	100	ynwy
+谬	ynwe	100	ynwe
+诀	ynwy	100	ynwy
+雇	ynwy	100	ynwy
+房	yny	100	ynye
+房	ynye	100	ynye
+亦	yo	100	you
+变	yo	100	yocu
+变	yoc	100	yocu
+变	yocu	100	yocu
+奕	yod	100	yodu
+奕	yodu	100	yodu
+蛮	yoj	100	yoju
+蛮	yoju	100	yoju
+峦	yom	100	yomj
+峦	yomj	100	yomj
+恋	yon	100	yonu
+恋	yonu	100	yonu
+谈	yoo	100	yooy
+谈	yooy	100	yooy
+迹	yop	100	yopi
+迹	yopi	100	yopi
+谜	yopy	100	yopy
+亦	you	100	you
+弯	yox	100	yoxb
+弯	yoxb	100	yoxb
+亮	yp	100	ypwb
+谊	yp	100	ypeg
+毫	ype	100	ypeb
+毫	ypeb	100	ypeb
+谊	ypeg	100	ypeg
+豪	ypg	100	ypge
+豪	ypge	100	ypge
+这	ypi	100	ypi
+膏	ypk	100	ypke
+膏	ypke	100	ypke
+亭	yps	100	ypsj
+亭	ypsj	100	ypsj
+亮	ypw	100	ypwb
+亮	ypwb	100	ypwb
+询	yq	100	yqjg
+诡	yqd	100	yqdb
+诡	yqdb	100	yqdb
+询	yqj	100	yqjg
+询	yqjg	100	yqjg
+义	yr	100	yri
+离	yr	100	yrbc
+离	yrb	100	yrbc
+离	yrbc	100	yrbc
+义	yri	100	yri
+诉	yry	100	yryy
+诉	yryy	100	yryy
+订	ys	100	ysh
+谭	ys	100	ysjh
+订	ysh	100	ysh
+谭	ysj	100	ysjh
+谭	ysjh	100	ysjh
+放	yt	100	yty
+旗	yt	100	ytdw
+施	ytb	100	ytbn
+施	ytbn	100	ytbn
+诱	ytbt	100	ytbt
+话	ytd	100	ytdg
+话	ytdg	100	ytdg
+旗	ytdw	100	ytdw
+旅	yte	100	ytey
+旅	ytey	100	ytey
+许	ytf	100	ytfh
+许	ytfh	100	ytfh
+诞	yth	100	ythp
+诈	ythf	100	ythf
+诞	ythp	100	ythp
+谢	ytm	100	ytmf
+谢	ytmf	100	ytmf
+旋	ytnh	100	ytnh
+族	ytt	100	yttd
+族	yttd	100	yttd
+诲	ytx	100	ytxy
+诲	ytxy	100	ytxy
+州	yty	100	ytyh
+放	yty	100	yty
+州	ytyh	100	ytyh
+帝	yu	100	yuph
+详	yu	100	yuh
+详	yuh	100	yuh
+说	yuk	100	yukq
+说	yukq	100	yukq
+商	yum	100	yumk
+商	yumk	100	yumk
+谱	yuo	100	yuoj
+谱	yuoj	100	yuoj
+旁	yup	100	yupy
+帝	yuph	100	yuph
+旁	yupy	100	yupy
+谚	yut	100	yute
+谚	yute	100	yute
+谦	yuv	100	yuvw
+谦	yuvw	100	yuvw
+良	yv	100	yvi
+郎	yv	100	yvbh
+郎	yvb	100	yvbh
+郎	yvbh	100	yvbh
+朗	yve	100	yveg
+朗	yveg	100	yveg
+良	yvi	100	yvi
+认	yw	100	ywy
+论	yw	100	ywxn
+设	ywc	100	ywcy
+讼	ywcy	100	ywcy
+设	ywcy	100	ywcy
+诊	ywe	100	ywet
+诊	ywet	100	ywet
+褒	ywk	100	ywke
+褒	ywke	100	ywke
+讥	ywn	100	ywn
+讽	ywr	100	ywry
+讽	ywry	100	ywry
+夜	ywt	100	ywty
+夜	ywty	100	ywty
+卒	yww	100	ywwf
+卒	ywwf	100	ywwf
+论	ywx	100	ywxn
+讹	ywxn	100	ywxn
+论	ywxn	100	ywxn
+认	ywy	100	ywy
+谁	ywy	100	ywyg
+谁	ywyg	100	ywyg
+玄	yx	100	yxu
+率	yx	100	yxif
+紊	yxi	100	yxiu
+率	yxif	100	yxif
+紊	yxiu	100	yxiu
+畜	yxl	100	yxlf
+畜	yxlf	100	yxlf
+玄	yxu	100	yxu
+谐	yxx	100	yxxr
+谐	yxxr	100	yxxr
+方	yy	100	yygt
+该	yy	100	yynw
+谆	yyb	100	yybg
+谆	yybg	100	yybg
+方	yygt	100	yygt
+文	yygy	100	yygy
+谅	yyi	100	yyiy
+谅	yyiy	100	yyiy
+该	yynw	100	yynw
+议	yyr	100	yyry
+议	yyry	100	yyry
+访	yyt	100	yyt
+谤	yyu	100	yyuy
+谤	yyuy	100	yyuy
+言	yyy	100	yyyy
+言	yyyy	100	yyyy
+喔	kngf	100
+哦	ktry	100
+丏	ghnn	100
+丕	dhgd	100
+丞	bigf	100
+丫	uhk	100
+乂	rty	100
+乜	nnv	100
+乩	hknn	100
+乸	bxi	100
+亍	gsj	100
+亓	fjj	100
+亘	gjgf	100
+亟	bkcg	100
+亢	ywb	100
+亨	ybj	100
+亳	ypta	100
+亵	yrve	100
+亶	ylkg	100
+亸	ybuf	100
+亹	yemg	100
+仂	wet	100
+仃	wsh	100
+仄	dwi	100
+仉	wwn	100
+仕	wfg	100
+仝	waf	100
+仞	wvyy	100
+仟	wtfh	100
+仡	wtnn	100
+仨	wdg	100
+仫	wtcy	100
+仳	wxxn	100
+仵	wtfh	100
+伈	wny	100
+伉	wywn	100
+伋	wbyy	100
+伎	wfcy	100
+伛	wary	100
+伢	waht	100
+伣	wmqn	100
+伥	wtay	100
+伧	wwbn	100
+伫	wpgg	100
+伭	wyxy	100
+伲	wnxn	100
+伽	wekg	100
+伾	wdhg	100
+佁	wckg	100
+佐	wdag	100
+佖	wntt	100
+佗	wpxn	100
+佘	wfiu	100
+佚	wtgy	100
+佝	wqkg	100
+佞	wfvg	100
+佟	wtuy	100
+佤	wgny	100
+佥	wgig	100
+佬	wftx	100
+佯	wuh	100
+佰	wdjg	100
+佴	wbg	100
+佶	wfkg	100
+佸	wtdg	100
+佺	wwgg	100
+佻	wqiy	100
+佼	wury	100
+佽	wuqw	100
+佾	wweg	100
+侁	wtfq	100
+侂	wota	100
+侃	wkkn	100
+侉	wdfn	100
+侏	wtfy	100
+侑	wdeg	100
+侔	wctg	100
+侗	wmgk	100
+侘	wpta	100
+侩	wwfc	100
+侪	wyjh	100
+侬	wpey	100
+侴	wgnj	100
+侹	wtfp	100
+俅	wgiy	100
+俍	wyvy	100
+俎	wweg	100
+俑	wceh	100
+俙	wrdh	100
+俚	wjfg	100
+俜	wmgn	100
+俞	wgej	100
+俟	wctd	100
+俣	wkgd	100
+俦	wdtf	100
+俨	wgot	100
+俪	wgmy	100
+俫	wgus	100
+俳	whdd	100
+俵	wgey	100
+俶	whic	100
+俸	wdwg	100
+俾	wrtf	100
+倌	wpng	100
+倏	whtd	100
+倓	wooy	100
+倕	wtfa	100
+倜	wmfk	100
+倞	wyiy	100
+倥	wpwa	100
+倧	wpfi	100
+倨	wndg	100
+倩	wgeg	100
+倪	weqn	100
+倬	whjh	100
+倭	wtvg	100
+倮	wjsy	100
+倴	wdfa	100
+倻	wbbh	100
+偁	wemf	100
+偃	wajv	100
+偈	wjqn	100
+偌	wadk	100
+偓	wngf	100
+偕	wxxr	100
+偡	wdwn	100
+偬	wqrn	100
+偭	wdlf	100
+偰	wdhd	100
+偲	wlny	100
+偻	wovg	100
+偾	wfam	100
+傃	wgxi	100
+傈	wssy	100
+傉	wdff	100
+傒	wexd	100
+傕	wpwy	100
+傣	wdwi	100
+傥	wipq	100
+傧	wprw	100
+傩	wcwy	100
+傺	wwfi	100
+僇	wnwe	100
+僎	wnnw	100
+僔	wusf	100
+僖	wfkk	100
+僦	wyiy	100
+僬	wwyo	100
+僭	waqj	100
+僮	wujf	100
+僰	smsw	100
+僳	wsoy	100
+儆	waqt	100
+儇	wlge	100
+儋	wqdy	100
+儦	woxo	100
+儳	wqky	100
+儴	wyke	100
+兀	gqv	100
+兕	hnhq	100
+兖	ucqb	100
+兮	wgnb	100
+兹	uxxu	100
+冁	ujfe	100
+冉	mfd	100
+冏	mwkd	100
+冔	jkgf	100
+冢	pgey	100
+冥	pjuu	100
+冮	uag	100
+冱	ugxg	100
+冼	utfq	100
+冽	ugqj	100
+凇	uswc	100
+凋	umfk	100
+凓	ussy	100
+凘	udwr	100
+凼	ibk	100
+刈	rjh	100
+刍	qvf	100
+刎	qrjh	100
+刖	ejh	100
+刬	gajh	100
+刭	cajh	100
+刳	dfnj	100
+刿	mqjh	100
+剀	mnjh	100
+剁	wsjh	100
+剅	gkuj	100
+剋	dqjk	100
+剌	skjh	100
+剐	kmwj	100
+剕	hdhj	100
+剜	pqbj	100
+剞	dskj	100
+剟	cccj	100
+剡	oojh	100
+剽	sfij	100
+劁	wyoj	100
+劂	dubj	100
+劄	twgj	100
+劐	awyj	100
+劓	thlj	100
+劢	gqet	100
+劬	qket	100
+劭	vket	100
+劼	fket	100
+劾	ynte	100
+勍	yiet	100
+勐	blet	100
+勔	dlje	100
+勖	jhet	100
+勚	anme	100
+勠	nwee	100
+勰	eeen	100
+匍	qsi	100
+匏	dfnn	100
+匐	qgkl	100
+匜	abv	100
+匝	amhk	100
+匡	agd	100
+匦	alvv	100
+匮	akhm	100
+匼	awgk	100
+卅	gkk	100
+卉	faj	100
+卞	yhu	100
+卟	khy	100
+卣	hlnf	100
+卬	qbh	100
+卮	rgbv	100
+卯	qtbh	100
+卺	bigb	100
+厄	dbv	100
+厍	dlk	100
+厖	ddny	100
+厝	dajd	100
+厣	ddlk	100
+厥	dubw	100
+厩	dvaq	100
+厮	ddwr	100
+厾	nfci	100
+叆	fcec	100
+叇	fcvp	100
+叕	cccc	100
+叚	nhfc	100
+叟	ehcu	100
+叩	kbh	100
+叱	kxn	100
+叵	akd	100
+叻	ket	100
+吒	ktan	100
+吖	kuhh	100
+吡	kxxn	100
+吣	kny	100
+吲	kxhh	100
+吽	ktgh	100
+吾	gkf	100
+呃	kdbn	100
+呇	ikf	100
+呋	kgy	100
+呒	kfqn	100
+呓	kann	100
+呔	kdyy	100
+呖	kdet	100
+呗	kmy	100
+呙	kmwu	100
+呣	kxy	100
+呤	kwyc	100
+呦	kxet	100
+呱	krcy	100
+呲	khxn	100
+呶	kvcy	100
+呷	klh	100
+呸	kdhg	100
+咀	kegg	100
+咂	kamh	100
+咄	kbmh	100
+咇	kntt	100
+咉	kmdy	100
+咋	kthf	100
+咍	kckg	100
+咎	thkf	100
+咔	khhy	100
+咚	ktuy	100
+咛	kpsh	100
+咝	kxxg	100
+咡	kbg	100
+咣	kigq	100
+咤	kpta	100
+咥	kgcf	100
+咦	kgxw	100
+咩	kuh	100
+咫	nykw	100
+咯	ktkg	100
+咴	kdoy	100
+咺	kgjg	100
+咻	kwsy	100
+咿	kwvt	100
+哂	ksg	100
+哃	kmgk	100
+哇	kffg	100
+哉	fakd	100
+哌	krey	100
+哏	kvy	100
+哐	kagg	100
+哒	kdpy	100
+哓	katq	100
+哔	kxxf	100
+哕	kmqy	100
+哙	kwfc	100
+哚	kwsy	100
+哝	kpey	100
+哞	kctg	100
+哢	kgah	100
+哧	kfoy	100
+哱	kfpb	100
+哳	krrh	100
+哽	kgjr	100
+哿	eksk	100
+唏	krdh	100
+唑	kwwf	100
+唔	kgkg	100
+唛	kgty	100
+唝	kamy	100
+唢	kimy	100
+唣	kran	100
+唪	kdwg	100
+唰	knmj	100
+唳	kynd	100
+唵	kdjn	100
+唷	kyce	100
+唼	kuvg	100
+唿	kqrn	100
+啁	kmfk	100
+啉	kssy	100
+啐	kywf	100
+啕	kqtb	100
+啖	kooy	100
+啜	kccc	100
+啧	kgmy	100
+啪	krrg	100
+啫	kftj	100
+啬	fulk	100
+啭	klfy	100
+啮	khwb	100
+啴	kujf	100
+啵	kiby	100
+啶	kpgh	100
+啷	kyvb	100
+啻	yupk	100
+啾	ktoy	100
+喀	kptk	100
+喁	kjmy	100
+喃	kfmf	100
+喆	fkfk	100
+喈	kxxr	100
+喋	kans	100
+喏	kadk	100
+喑	kujg	100
+喙	kxey	100
+喟	kleg	100
+喤	krgg	100
+喱	kdjf	100
+喵	kalg	100
+喹	kdff	100
+喽	kovg	100
+喾	iptk	100
+嗄	kdht	100
+嗉	kgxi	100
+嗌	kuwl	100
+嗍	kube	100
+嗐	kpdk	100
+嗑	kfcl	100
+嗒	kawk	100
+嗔	kfhw	100
+嗖	kehc	100
+嗝	kgkh	100
+嗞	kuxx	100
+嗟	kuag	100
+嗣	kmak	100
+嗥	krdf	100
+嗨	kitx	100
+嗪	kdwt	100
+嗫	kbcc	100
+嗬	kawk	100
+嗯	kldn	100
+嗲	kwrq	100
+嗳	kepc	100
+嗵	kcep	100
+嗷	kgqt	100
+嗾	kytd	100
+嘈	kgmj	100
+嘌	ksfi	100
+嘎	kdha	100
+嘏	dnhc	100
+嘘	khog	100
+嘚	ktjf	100
+嘛	koss	100
+嘞	kafe	100
+嘟	kftb	100
+嘡	kipf	100
+嘣	kmee	100
+嘤	kmmv	100
+嘧	kpnm	100
+嘬	kjbc	100
+嘭	kfke	100
+嘻	kfkk	100
+噀	knnw	100
+噂	kusf	100
+噇	kujf	100
+噌	kulj	100
+噍	kwyo	100
+噎	kfpu	100
+噔	kwgu	100
+噗	koug	100
+噘	kduw	100
+噙	kwyc	100
+噜	kqgj	100
+噢	ktmd	100
+噤	kssi	100
+噫	kujn	100
+噬	ktaw	100
+噱	khge	100
+噶	kajn	100
+噻	kpaf	100
+噼	knku	100
+嚄	kawc	100
+嚅	kfdj	100
+嚆	kayk	100
+嚏	kfph	100
+嚓	kpwi	100
+嚚	kkak	100
+嚭	fkuk	100
+嚯	kfwy	100
+囔	kgke	100
+囟	tlri	100
+囡	lvd	100
+囫	lqre	100
+囵	lwxv	100
+囷	lti	100
+囹	lwyc	100
+囿	lded	100
+圄	lgkd	100
+圉	lfuf	100
+圊	lged	100
+圌	lmdj	100
+圐	llye	100
+圙	lwdf	100
+圜	llge	100
+圢	fsh	100
+圩	fgfh	100
+圪	ftnn	100
+圫	ftan	100
+圬	ffnn	100
+圭	fff	100
+圮	fnn	100
+圯	fnn	100
+圲	ftfh	100
+圳	fkh	100
+圹	fot	100
+圻	frh	100
+坂	frcy	100
+坉	fgbn	100
+坋	fwvt	100
+坌	wvff	100
+坍	fmyg	100
+坒	xxff	100
+坜	fdet	100
+坥	fegg	100
+坨	fpxn	100
+坩	ffg	100
+坫	fhkg	100
+坬	frcy	100
+坭	fnxn	100
+坰	fmkg	100
+坳	fxet	100
+坻	fqay	100
+坼	fryy	100
+坽	fwyc	100
+垆	fhnt	100
+垈	wayf	100
+垌	fmgk	100
+垍	fthg	100
+垎	ftkg	100
+垏	fvgh	100
+垓	fynw	100
+垕	rgkf	100
+垙	figq	100
+垚	ffff	100
+垞	fpta	100
+垟	fuh	100
+垠	fvy	100
+垡	waff	100
+垣	fgjg	100
+垤	fgcf	100
+垧	ftmk	100
+垩	goff	100
+垭	fgog	100
+垯	fdpy	100
+垱	fivg	100
+垲	fmnn	100
+垴	fyrb	100
+垵	fpvg	100
+垸	fpfq	100
+垺	febg	100
+垾	fjfh	100
+垿	foch	100
+埆	fqeh	100
+埇	fceh	100
+埌	fyvy	100
+埏	fthp	100
+埒	fefy	100
+埔	fsy	100
+埕	fkgg	100
+埗	fhht	100
+埘	fjfy	100
+埙	fkmy	100
+埚	fkmw	100
+埝	fwyn	100
+埤	frtf	100
+埪	fpwa	100
+埫	fimk	100
+埭	fviy	100
+埯	fdjn	100
+埴	ffhg	100
+埵	ftfa	100
+埸	fjqr	100
+埼	fdsk	100
+埽	fvph	100
+堃	yyff	100
+堇	akgf	100
+堉	fyce	100
+堋	feeg	100
+堌	fldg	100
+堍	fqky	100
+堎	ffwt	100
+堐	fdff	100
+堑	lrff	100
+堙	fsfg	100
+堞	fans	100
+堠	fwnd	100
+堧	fdmd	100
+堨	fjqn	100
+堲	vbff	100
+堼	ffff	100
+堽	flgh	100
+堾	fdwj	100
+塄	flyt	100
+塅	fthc	100
+塆	fyox	100
+塍	eugf	100
+塝	fyuy	100
+塥	fgkh	100
+塬	fdri	100
+塱	yvef	100
+塾	ybvf	100
+墀	fnig	100
+墁	fjlc	100
+墈	fdwe	100
+墉	fovh	100
+墐	fakg	100
+墒	fyuk	100
+墕	fgho	100
+墘	ffjn	100
+墚	fivs	100
+墟	fhog	100
+墡	fuuk	100
+墣	foug	100
+墦	ftol	100
+墼	lbwf	100
+壅	yxtf	100
+壑	hpgf	100
+壬	tfd	100
+壸	fpgo	100
+夐	qmwt	100
+夔	utht	100
+夙	wgqi	100
+夤	qpgw	100
+夥	jsqq	100
+夬	nwi	100
+夼	dkj	100
+奁	daru	100
+奂	qmdu	100
+奎	dfff	100
+奓	dqqu	100
+奘	ufdu	100
+奚	exdu	100
+奡	dhdj	100
+奭	ddjj	100
+妁	vqyy	100
+妃	vnn	100
+妊	vtfg	100
+妍	vgah	100
+妗	vwyn	100
+妘	vfcy	100
+妞	vnhg	100
+妣	vxxn	100
+妤	vcnh	100
+妧	vfqn	100
+妩	vfqn	100
+妪	vary	100
+妫	vyey	100
+妭	vdcy	100
+妮	vnxn	100
+妯	vmg	100
+妲	vjgg	100
+妾	uvf	100
+姈	vwyc	100
+姒	vnyw	100
+姗	vmmg	100
+姘	vuah	100
+姝	vtfy	100
+姞	vfkg	100
+姣	vury	100
+姤	vrgk	100
+姬	vahh	100
+姮	vgjg	100
+姱	vdfn	100
+姶	vwgk	100
+姹	vpta	100
+姽	vqdb	100
+娀	vadt	100
+娅	vgog	100
+娆	vatq	100
+娈	yovf	100
+娉	vmgn	100
+娌	vjfg	100
+娑	iitv	100
+娓	vnen	100
+娟	vkeg	100
+娠	vdfe	100
+娣	vuxt	100
+娥	vtry	100
+娲	vkmw	100
+娴	vusy	100
+娵	vbcy	100
+娼	vjjg	100
+婀	vbsk	100
+婊	vgey	100
+婌	vhic	100
+婍	vdsk	100
+婕	vgvh	100
+婘	vugb	100
+婞	vfuf	100
+婠	vpng	100
+婢	vrtf	100
+婤	vmfk	100
+婧	vgeg	100
+婪	ssvf	100
+婫	vjxx	100
+婳	vglb	100
+婵	vujf	100
+婷	vyps	100
+婺	cnhv	100
+婻	vfmf	100
+婼	vadk	100
+媂	vyuh	100
+媄	vugd	100
+媆	vdmd	100
+媓	vrgg	100
+媖	vamd	100
+媛	vegc	100
+媞	vjgh	100
+媪	vjlg	100
+媭	edmv	100
+媱	vetb	100
+媲	vtlx	100
+媵	eugv	100
+媸	vbhj	100
+媾	vamf	100
+嫄	vdri	100
+嫒	vepc	100
+嫔	vprw	100
+嫕	vatn	100
+嫖	vsfi	100
+嫘	vlxi	100
+嫚	vjlc	100
+嫜	vujh	100
+嫠	ftdv	100
+嫣	vgho	100
+嫦	viph	100
+嫪	vnwe	100
+嫫	vajd	100
+嫭	vhtf	100
+嫱	vfuk	100
+嫽	vdui	100
+嬖	nkuv	100
+嬗	vylg	100
+嬛	vlge	100
+嬥	vnwy	100
+嬬	vfdj	100
+嬴	yevy	100
+嬷	vosc	100
+嬿	vako	100
+孀	vfsh	100
+孅	vwwg	100
+孑	bnhg	100
+孓	byi	100
+孖	bbg	100
+孚	ebf	100
+孛	fpbf	100
+孜	bty	100
+孢	bqnn	100
+孥	vcbf	100
+孪	yobf	100
+孬	dhvb	100
+孰	ybvy	100
+孱	nbbb	100
+孳	uxxb	100
+孺	bfdj	100
+宄	pvb	100
+宓	pntr	100
+宕	pdf	100
+宥	pdef	100
+宧	pahh	100
+宬	pdnb	100
+宸	pdfe	100
+寁	pgvh	100
+寅	pgmw	100
+寐	pufu	100
+寤	pugk	100
+寮	pdui	100
+寰	plge	100
+尕	biu	100
+尜	idiu	100
+尢	dnv	100
+尥	dnqy	100
+尧	atgq	100
+尨	dney	100
+尪	dngd	100
+尬	dnwj	100
+尴	dnjl	100
+尹	vte	100
+尻	nvv	100
+屃	nmi	100
+屐	ntfc	100
+屙	nbsk	100
+屣	nthh	100
+屦	ntov	100
+屺	mnn	100
+屼	mgqn	100
+屾	mmh	100
+岈	maht	100
+岊	cmj	100
+岌	mbyu	100
+岍	mgah	100
+岐	mfcy	100
+岑	mwyn	100
+岘	mmqn	100
+岙	tdmj	100
+岚	mwru	100
+岜	mcb	100
+岞	mthf	100
+岠	mang	100
+岢	mskf	100
+岣	mqkg	100
+岨	megg	100
+岫	mmg	100
+岬	mlh	100
+岱	waym	100
+岵	mdg	100
+岷	mnan	100
+岽	maiu	100
+岿	mjvf	100
+峁	mqtb	100
+峂	mtuy	100
+峃	ipmj	100
+峄	mcgh	100
+峋	mqjg	100
+峒	mmgk	100
+峗	mqdb	100
+峘	mgjg	100
+峙	mffy	100
+峛	mgqj	100
+峣	matq	100
+峤	mtdj	100
+峥	mqvh	100
+峧	mury	100
+峨	mtry	100
+峪	mwwk	100
+峱	qtnm	100
+峿	mgkg	100
+崀	myvu	100
+崁	mfqw	100
+崂	mape	100
+崃	mgus	100
+崄	mwgg	100
+崆	mpwa	100
+崌	mndg	100
+崒	mywf	100
+崚	mfwt	100
+崛	mnbm	100
+崞	mybg	100
+崟	mqf	100
+崡	mbib	100
+崤	mrde	100
+崦	mdjn	100
+崧	mswc	100
+崮	mldf	100
+崴	mdgv	100
+崶	mfff	100
+崽	mlnu	100
+崾	msvg	100
+崿	mkkn	100
+嵁	mdwn	100
+嵅	mdgk	100
+嵇	tdnm	100
+嵊	mtux	100
+嵋	mnhg	100
+嵎	mjmy	100
+嵖	msjg	100
+嵘	maps	100
+嵚	mqqw	100
+嵛	mwgj	100
+嵝	movg	100
+嵩	mymk	100
+嵫	muxx	100
+嵬	mrqc	100
+嵯	muag	100
+嵲	mths	100
+嵴	miwe	100
+嶂	mujh	100
+嶅	gqtm	100
+嶍	mnrg	100
+嶒	mulj	100
+嶓	mtol	100
+嶙	moqg	100
+嶝	mwgu	100
+嶟	musf	100
+嶦	mqdy	100
+嶲	mwyn	100
+嶷	mxth	100
+巅	mfhm	100
+巇	mhga	100
+巉	mqky	100
+巯	cayk	100
+巳	nngn	100
+巽	nnaw	100
+帏	mhfh	100
+帑	vcmh	100
+帔	mhby	100
+帙	mhtg	100
+帛	rmhj	100
+帡	mhua	100
+帧	mhhm	100
+帨	mhuq	100
+帱	mhdf	100
+帷	mhwy	100
+帻	mhgm	100
+帼	mhly	100
+幂	pjdh	100
+幄	mhnf	100
+幖	mhsi	100
+幛	mhuj	100
+幞	mhog	100
+幡	mhtl	100
+幪	mhae	100
+幺	xxxx	100
+庋	ofci	100
+庑	ofqv	100
+庖	oqnv	100
+庚	ovwi	100
+庠	ouk	100
+庤	offi	100
+庥	owsi	100
+庱	ofwt	100
+庳	ortf	100
+庹	oany	100
+庼	oxdm	100
+庾	oewi	100
+廆	orqc	100
+廋	oehc	100
+廑	oakg	100
+廒	ogqt	100
+廖	onwe	100
+廙	olaw	100
+廛	ojff	100
+廨	oqeg	100
+廪	oyli	100
+廿	aghg	100
+弁	caj	100
+弆	fcaj	100
+弇	wgka	100
+弈	yoaj	100
+弋	ayi	100
+弑	rsay	100
+弗	xjk	100
+弘	xcy	100
+弢	xbhc	100
+弨	xvkg	100
+弩	vcxb	100
+弭	xbg	100
+弶	xyiy	100
+弸	xeeg	100
+弼	xdjx	100
+彀	fpgc	100
+彖	xeu	100
+彗	dhdv	100
+彘	xxtx	100
+彝	xoxa	100
+彟	vfac	100
+彦	utee	100
+彧	akgr	100
+彳	ttth	100
+彷	tyt	100
+徂	tegg	100
+徇	tqjg	100
+徉	tuh	100
+徕	tgus	100
+徛	tdsk	100
+徜	timk	100
+徨	trgg	100
+徭	tetb	100
+徵	tmgt	100
+徼	tryt	100
+忉	nvt	100
+忏	ntfh	100
+忐	hnu	100
+忑	ghnu	100
+忒	anyi	100
+忖	nfy	100
+忝	gdnu	100
+忞	ynu	100
+忡	nkhh	100
+忤	ntfh	100
+忪	nwcy	100
+忭	nyhy	100
+忮	nfcy	100
+忳	ngbn	100
+忸	nnhg	100
+忺	nqwy	100
+忻	nrh	100
+忾	nrn	100
+怂	wwnu	100
+怃	nfqn	100
+怄	nary	100
+怅	ntay	100
+怆	nwbn	100
+怊	nvkg	100
+怍	nthf	100
+怏	nmdy	100
+怙	ndg	100
+怛	njgg	100
+怡	nckg	100
+怦	nguf	100
+怩	nnxn	100
+怫	nxjh	100
+怵	nsyy	100
+怼	cfnu	100
+怿	ncgh	100
+恁	wtfn	100
+恂	nqjg	100
+恓	nsg	100
+恔	nury	100
+恙	ugnu	100
+恚	ffnu	100
+恝	dhvn	100
+恣	uqwn	100
+恧	dmjn	100
+恪	ntkg	100
+恫	nmgk	100
+恸	nfce	100
+恹	nddy	100
+恺	nmnn	100
+恻	nmjh	100
+恽	nplh	100
+恿	cenu	100
+悃	nlsy	100
+悆	wgsn	100
+悈	naah	100
+悌	nuxt	100
+悒	nkcn	100
+悖	nfpb	100
+悚	nskg	100
+悛	ncwt	100
+悝	njfg	100
+悢	nyvy	100
+悫	fpwn	100
+悭	njcf	100
+悰	npfi	100
+悱	nhdd	100
+悸	ntbg	100
+悻	nfuf	100
+惆	nmfk	100
+惇	nybg	100
+惎	dwnu	100
+惔	nooy	100
+惘	nmun	100
+惙	nccc	100
+惚	nqrn	100
+惛	nqaj	100
+惝	nimk	100
+惟	nwyg	100
+惬	nagd	100
+惮	nujf	100
+惴	nmdj	100
+惺	njtg	100
+愀	ntoy	100
+愃	npgg	100
+愆	tign	100
+愍	natn	100
+愎	ntjt	100
+愐	ndlf	100
+愔	nujg	100
+愠	njlg	100
+愣	nlyt	100
+愦	nkhm	100
+愫	ngxi	100
+愭	nftj	100
+慆	neeg	100
+慊	nuvw	100
+慑	nbcc	100
+慝	aadn	100
+慥	ntfp	100
+慬	nakg	100
+慭	gusn	100
+慵	novh	100
+憕	nwgu	100
+憙	fkun	100
+憧	nujf	100
+憩	tdtn	100
+憬	njyi	100
+憭	ndui	100
+憷	nssh	100
+憺	nqdy	100
+懋	scnn	100
+懑	iagn	100
+懔	nyli	100
+懵	nalh	100
+懿	fpgn	100
+戆	ujtn	100
+戊	dgty	100
+戋	gai	100
+戌	dgd	100
+戍	awi	100
+戎	ade	100
+戕	uay	100
+戗	wbay	100
+戛	dhau	100
+戟	fjay	100
+戡	dwna	100
+戢	kbny	100
+戣	wgda	100
+戤	bcla	100
+戥	jtga	100
+戬	goja	100
+戭	pgma	100
+戮	nwea	100
+戽	ynuf	100
+戾	yndi	100
+扂	ynhk	100
+扃	ynmk	100
+扅	ynqq	100
+扆	ynye	100
+扈	ynkc	100
+扉	ynhd	100
+扊	ynoo	100
+扞	rfh	100
+扦	rtfh	100
+扪	run	100
+扺	rqan	100
+扽	rgbn	100
+抃	ryhy	100
+抉	rnwy	100
+抔	rdhy	100
+抟	rfny	100
+抨	rguf	100
+抻	rjhh	100
+抿	rnan	100
+拃	rthf	100
+拈	rhkg	100
+拊	rwfy	100
+拎	rwyc	100
+拤	rhhy	100
+拮	rfkg	100
+拶	rvqy	100
+拽	rjnt	100
+挈	dhvr	100
+挓	rpta	100
+挛	yorj	100
+挝	rfpy	100
+挞	rdpy	100
+挦	rvfy	100
+挲	iitr	100
+挹	rkcn	100
+捃	rvtk	100
+捋	refy	100
+捩	rynd	100
+捭	rrtf	100
+捯	rgcj	100
+捽	rywf	100
+掇	rccc	100
+掊	rukg	100
+掎	rdsk	100
+掞	rooy	100
+掣	tgmr	100
+掬	rqoy	100
+掭	rgdn	100
+掮	ryne	100
+掳	rhet	100
+掴	rlgy	100
+掼	rxmy	100
+掾	rxey	100
+揄	rwgj	100
+揆	rwgd	100
+揕	rdwn	100
+揠	rajv	100
+揳	rdhd	100
+揶	rbbh	100
+揸	rsjg	100
+揿	rqqw	100
+搋	rrhw	100
+搌	rnae	100
+搐	ryxl	100
+搒	ryuy	100
+搛	ruvw	100
+搠	rube	100
+搡	rccs	100
+搦	rxuu	100
+搴	pawr	100
+搽	raws	100
+摁	rldn	100
+摅	rhny	100
+摈	rprw	100
+摏	rdwe	100
+摒	rnua	100
+摛	ryrc	100
+摞	rlxi	100
+摭	roao	100
+摴	rffn	100
+摽	rsfi	100
+撂	rltk	100
+撄	rmmv	100
+撅	rduw	100
+撖	rnbt	100
+撙	rusf	100
+撷	rfkm	100
+撸	rqgj	100
+撺	rpwh	100
+擀	rfjf	100
+擐	rlge	100
+擘	nkur	100
+擞	rovt	100
+擢	rnwy	100
+擤	rthj	100
+擿	ryup	100
+攉	rfwy	100
+攥	rthi	100
+攫	rhhc	100
+攮	rgke	100
+攸	whty	100
+攽	wvty	100
+敉	oty	100
+敔	gkty	100
+敕	skty	100
+敖	gqty	100
+敝	ity	100
+敩	ipbt	100
+敫	ryty	100
+斌	ygay	100
+斐	hdhy	100
+斓	yusl	100
+斛	qeuf	100
+斝	kkpf	100
+斠	amff	100
+斡	fjwf	100
+斫	drh	100
+斶	rlqj	100
+於	ywuy	100
+旃	ytmy	100
+旄	yten	100
+旆	ytgh	100
+旌	yttg	100
+旎	ytnx	100
+旐	ytqi	100
+旒	ytyk	100
+旖	ytdk	100
+旞	ytup	100
+旮	vjf	100
+旯	jvb	100
+旰	jfh	100
+旴	jgfh	100
+旵	jmj	100
+旸	jnrt	100
+旻	jyu	100
+旿	jtfh	100
+昀	jqug	100
+昃	jdwu	100
+昄	jrcy	100
+昇	jtaj	100
+昈	jynt	100
+昉	jyt	100
+昊	jgdu	100
+昒	jqrt	100
+昕	jrh	100
+昝	thjf	100
+昡	jyxy	100
+昣	jwet	100
+昤	jwyc	100
+昪	jcaj	100
+昫	jqkg	100
+昱	juf	100
+昳	jtgy	100
+昴	jqtb	100
+昶	ynij	100
+昺	jgmw	100
+昽	jdxy	100
+晁	jqiu	100
+晅	jgjg	100
+晊	jgcf	100
+晏	jpvf	100
+晐	jynw	100
+晔	jwxf	100
+晖	jplh	100
+晗	jwyk	100
+晙	jcwt	100
+晞	jrdh	100
+晟	jdnb	100
+晡	jsy	100
+晢	rrjf	100
+晪	jmaw	100
+晫	jhjh	100
+晱	jooy	100
+晷	jthk	100
+暄	jpgg	100
+暅	jngg	100
+暌	jwgd	100
+暕	jslg	100
+暝	jpju	100
+暧	jepc	100
+暨	vaqg	100
+暲	jujh	100
+暵	jakg	100
+暶	jyth	100
+暹	jwyp	100
+暾	jybt	100
+暿	jfkk	100
+曈	jujf	100
+曌	jepa	100
+曛	jtgo	100
+曜	jnwy	100
+曝	jjai	100
+曦	jugy	100
+曩	jyke	100
+曰	jhng	100
+曳	jnte	100
+曷	jqwn	100
+朏	ebmh	100
+朐	eqkg	100
+朓	eqiy	100
+朔	ubte	100
+朕	eudy	100
+札	snn	100
+朳	swy	100
+朸	set	100
+杄	stfh	100
+杌	sgqn	100
+杓	sqyy	100
+杕	sdy	100
+杙	sayy	100
+杞	snn	100
+杧	synn	100
+杩	scgg	100
+杪	sitt	100
+杲	jsu	100
+杳	sjf	100
+杵	stfh	100
+杷	scn	100
+杻	snhg	100
+杼	scnh	100
+枅	sgah	100
+枇	sxxn	100
+枋	syt	100
+枍	swgn	100
+枘	smwy	100
+枞	swwy	100
+枥	sdet	100
+枧	smqn	100
+枨	stay	100
+枭	qsu	100
+枰	sguf	100
+枲	cksu	100
+枳	skwy	100
+枵	skgn	100
+枸	sqkg	100
+枹	sqnn	100
+柁	spxn	100
+柃	swyc	100
+柈	sugh	100
+柊	stuy	100
+柖	svkg	100
+柘	sdg	100
+柙	slh	100
+柚	smg	100
+柝	sryy	100
+柞	sthf	100
+柢	sqay	100
+柩	saqy	100
+柯	sskg	100
+柰	sfiu	100
+柷	skqn	100
+柽	scfg	100
+栀	srgb	100
+栉	sabh	100
+栊	sdxy	100
+栌	shnt	100
+栎	stni	100
+栐	syni	100
+栒	sqjg	100
+栝	stdg	100
+栟	suah	100
+栩	sng	100
+栲	sftn	100
+栳	sftx	100
+栴	stmy	100
+栻	saay	100
+栾	yosu	100
+桀	qgsu	100
+桁	stgs	100
+桄	sigq	100
+桉	spvg	100
+桊	ugsu	100
+桎	sgcf	100
+桓	sgjg	100
+桔	sfkg	100
+桕	seg	100
+桠	sgog	100
+桡	satq	100
+桢	shmy	100
+桤	smnn	100
+桧	swfc	100
+桫	siit	100
+桯	skgg	100
+桲	sfpb	100
+桴	sebg	100
+桷	sqeh	100
+桹	syvy	100
+梃	stfp	100
+梌	swgs	100
+梏	stfk	100
+梓	suh	100
+梠	skkg	100
+梣	smwn	100
+梴	sthp	100
+梵	sswy	100
+梼	sdtf	100
+梽	sfny	100
+梾	sgus	100
+梿	slpy	100
+棁	sukq	100
+棂	svoy	100
+棐	hdhs	100
+棓	sukg	100
+棣	sviy	100
+棤	sajg	100
+棨	ynts	100
+棪	sooy	100
+棫	sakg	100
+棬	sugb	100
+棰	stfa	100
+棹	shjh	100
+棻	awvs	100
+棼	sswv	100
+棽	sswn	100
+椀	spqb	100
+椁	sybg	100
+椆	smfk	100
+椋	syiy	100
+椐	sndg	100
+椑	srtf	100
+椓	sgey	100
+椟	sfnd	100
+椠	lrsu	100
+椤	slqy	100
+椪	suog	100
+椴	sthc	100
+椸	sytb	100
+椹	sdwn	100
+椽	sxey	100
+楂	ssjg	100
+楒	slny	100
+楗	svgp	100
+楙	scns	100
+楝	sslg	100
+楠	sfmf	100
+楦	spgg	100
+楩	swgr	100
+楪	sans	100
+楫	skbg	100
+楮	sftj	100
+楯	srfh	100
+楸	stoy	100
+楹	sbcl	100
+榃	sslf	100
+榅	sjlg	100
+榇	susy	100
+榈	sukk	100
+榉	sigg	100
+榍	snie	100
+榑	ssfy	100
+榖	fpgc	100
+榧	sahd	100
+榫	swyf	100
+榭	stmf	100
+榰	sftj	100
+榱	syke	100
+榷	spwy	100
+榻	sjng	100
+槁	symk	100
+槃	tuws	100
+槊	ubts	100
+槌	stnp	100
+槎	suag	100
+槔	srdf	100
+槚	ssmy	100
+槛	sjtl	100
+槜	swyb	100
+槟	sprw	100
+槠	syfj	100
+槭	sdhi	100
+槱	ssgo	100
+槲	sqef	100
+槿	sakg	100
+樗	sffn	100
+樘	sipf	100
+樨	snig	100
+樯	sfuk	100
+樵	swyo	100
+樽	susf	100
+樾	sfhn	100
+橇	seee	100
+橐	gkhs	100
+橑	sdui	100
+橛	sduw	100
+橞	sgjn	100
+橥	qtfs	100
+橦	sujf	100
+橹	sqgj	100
+橼	sxxe	100
+檄	sryt	100
+檎	swyc	100
+檑	sflg	100
+檗	nkus	100
+檞	sqeg	100
+檠	aqks	100
+檫	spwi	100
+櫆	srqf	100
+欂	saif	100
+欤	gngw	100
+欸	ctdw	100
+欹	dskw	100
+欻	ooqw	100
+歃	tfew	100
+歅	sfqw	100
+歆	ujqw	100
+歙	wgkw	100
+殁	gqwc	100
+殂	gqeg	100
+殄	gqwe	100
+殆	gqck	100
+殇	gqtr	100
+殍	gqeb	100
+殒	gqkm	100
+殓	gqwg	100
+殚	gquf	100
+殛	gqbg	100
+殡	gqpw	100
+殣	gqag	100
+殪	gqfu	100
+殳	wcu	100
+毂	fplc	100
+毋	nnde	100
+毌	xnnh	100
+毐	fnnd	100
+毓	txyk	100
+毖	xxnt	100
+毗	lxxn	100
+毪	ectg	100
+毳	eeeb	100
+毵	cdee	100
+毹	wgee	100
+毽	evgp	100
+氅	imke	100
+氆	euoj	100
+氇	eqgj	100
+氍	hhwe	100
+氐	qayi	100
+氕	rte	100
+氖	rbe	100
+氘	rjk	100
+氙	rmk	100
+氚	rkk	100
+氟	rxjk	100
+氡	rtui	100
+氤	rldi	100
+氦	rynw	100
+氩	rgod	100
+氪	rdqv	100
+氰	rged	100
+氲	rjld	100
+氾	ibn	100
+氿	ivn	100
+汀	ish	100
+汆	tyiu	100
+汈	ingg	100
+汊	icyy	100
+汋	iqyy	100
+汐	iqy	100
+汔	itnn	100
+汕	imh	100
+汜	inn	100
+汝	ivg	100
+汧	igah	100
+汨	ijg	100
+汩	ijg	100
+汫	ifjh	100
+汭	imwy	100
+汲	ibyy	100
+汴	iyhy	100
+汶	iyy	100
+汾	iwvt	100
+沁	iny	100
+沂	irh	100
+沄	ifcy	100
+沅	ifqn	100
+沆	iywn	100
+沇	icqn	100
+沌	igbn	100
+沏	iavt	100
+沓	ijf	100
+沔	ighn	100
+沘	ixxn	100
+沚	ihg	100
+沣	idhh	100
+沤	iary	100
+沨	iwry	100
+沩	iyey	100
+沭	isyy	100
+沱	ipxn	100
+沺	ilg	100
+泂	imkg	100
+泃	iqkg	100
+泅	ilwy	100
+泇	iekg	100
+泐	ibet	100
+泓	ixcy	100
+泔	ifg	100
+泖	iqtb	100
+泗	ilg	100
+泙	iguf	100
+泚	ihxn	100
+泜	iqay	100
+泠	iwyc	100
+泫	iyxy	100
+泮	iugh	100
+泯	inan	100
+泱	imdy	100
+泷	idxy	100
+泸	ihnt	100
+泺	itni	100
+泾	icag	100
+洄	ilkg	100
+洇	ildy	100
+洈	iqdb	100
+洌	igqj	100
+洎	ithg	100
+洑	iwdy	100
+洓	ismn	100
+洘	iftn	100
+洙	itfy	100
+洚	itgh	100
+洢	iwvt	100
+洣	ioy	100
+洧	ideg	100
+洨	iury	100
+洫	itlg	100
+洭	iagg	100
+洮	iqiy	100
+洱	ibg	100
+洳	ivkg	100
+洴	iuah	100
+洵	iqjg	100
+洸	iigq	100
+洹	igjg	100
+洺	iqkg	100
+洿	idfn	100
+浃	igud	100
+浈	ihmy	100
+浉	ijgh	100
+浍	iwfc	100
+浏	iyjh	100
+浐	iutt	100
+浒	iytf	100
+浔	ivfy	100
+浕	inyu	100
+浚	icwt	100
+浛	iwyk	100
+浜	irwy	100
+浞	ikhy	100
+浟	iwht	100
+浠	irdh	100
+浡	ifpb	100
+浣	ipfq	100
+浥	ikcn	100
+浬	ijfg	100
+浭	igjr	100
+浯	igkg	100
+浰	itjh	100
+浲	itdh	100
+浼	iqkq	100
+涄	imgn	100
+涅	ijfg	100
+涍	iftb	100
+涐	itry	100
+涑	iskg	100
+涓	ikeg	100
+涔	imwn	100
+涘	ictd	100
+涞	igus	100
+涟	ilpy	100
+涠	ilfh	100
+涢	ikmy	100
+涪	iukg	100
+涫	ipng	100
+涴	ipqb	100
+涸	ildg	100
+涿	igey	100
+淄	ivlg	100
+淅	isrh	100
+淇	idwy	100
+淏	ijgd	100
+淖	ihjh	100
+淙	ipfi	100
+淜	ieeg	100
+淝	iecn	100
+淞	iswc	100
+淟	imaw	100
+淠	ilgj	100
+淦	iqg	100
+淬	iywf	100
+淯	iyce	100
+淴	iqrn	100
+淼	iiiu	100
+渌	iviy	100
+渍	igmy	100
+渎	ifnd	100
+渑	ikjn	100
+渚	iftj	100
+渝	iwgj	100
+渟	iyps	100
+渥	ingf	100
+渫	ians	100
+渭	ileg	100
+渰	iwga	100
+渲	ipgg	100
+渼	iugd	100
+湄	inhg	100
+湉	intd	100
+湍	imdj	100
+湎	idlf	100
+湑	inhe	100
+湓	iwvl	100
+湔	iuej	100
+湛	idwn	100
+湜	ijgh	100
+湝	ixxr	100
+湟	irgg	100
+湣	inaj	100
+湫	itoy	100
+湮	isfg	100
+湲	iegc	100
+湴	iuog	100
+溁	iaps	100
+溆	iwgc	100
+溇	iovg	100
+溍	igoj	100
+溏	iovk	100
+溘	ifcl	100
+溚	iawk	100
+溞	icyj	100
+溟	ipju	100
+溠	iuag	100
+溥	isfy	100
+溦	imgt	100
+溧	issy	100
+溱	idwt	100
+溲	iehc	100
+溴	ithd	100
+溵	irvc	100
+溷	ilge	100
+溹	ifpi	100
+溻	ijng	100
+溽	idff	100
+滁	ibws	100
+滂	iyuy	100
+滃	iwcn	100
+滆	igkh	100
+滇	ifhw	100
+滉	ijiq	100
+滍	ibhj	100
+滏	iwru	100
+滕	eugi	100
+滗	iten	100
+滘	ipwk	100
+滟	idhc	100
+滠	ibcc	100
+滢	iapy	100
+滦	iyos	100
+滧	iurt	100
+滪	icnm	100
+滫	iwhe	100
+滹	ihtf	100
+漈	iwfi	100
+漉	ioxx	100
+漋	ibtg	100
+漕	igmj	100
+漖	iftt	100
+漤	issv	100
+漦	ftdi	100
+漪	iqtk	100
+漭	iada	100
+漯	ilxi	100
+漳	iujh	100
+漴	impi	100
+漶	ikkn	100
+漷	iybb	100
+漹	igho	100
+漻	inwe	100
+漼	imwy	100
+潆	iapi	100
+潇	iavw	100
+潋	iwgt	100
+潍	ixwy	100
+潏	icnk	100
+潖	iggc	100
+潞	ikhk	100
+潟	ieqo	100
+潢	iamw	100
+潩	ilaw	100
+潲	itie	100
+潴	iqtj	100
+潵	iaet	100
+潸	isse	100
+潺	inbb	100
+潼	iujf	100
+潽	iuoj	100
+潾	ioqg	100
+澂	imgt	100
+澉	inbt	100
+澌	idwr	100
+澍	ifkf	100
+澛	iqgj	100
+澥	iqeg	100
+澧	imau	100
+澪	ifwc	100
+澭	iyxy	100
+澴	ilge	100
+澶	iylg	100
+澹	iqdy	100
+澼	inku	100
+澽	ihge	100
+濂	iouw	100
+濉	ihwy	100
+濋	issh	100
+濑	iskm	100
+濞	ithj	100
+濠	iype	100
+濡	ifdj	100
+濩	iawc	100
+濮	iwog	100
+濯	inwy	100
+瀌	ioxo	100
+瀍	iojf	100
+瀔	ifpc	100
+瀚	ifjn	100
+瀛	iyey	100
+瀣	ihqg	100
+瀱	ildj	100
+瀵	iolw	100
+瀹	iwga	100
+瀼	iyke	100
+灈	ihhy	100
+灏	ijym	100
+灞	ifae	100
+炀	onrt	100
+炅	jou	100
+炆	oyy	100
+炌	owjh	100
+炔	onwy	100
+炖	ogbn	100
+炘	orh	100
+炙	qou	100
+炜	ofnh	100
+炝	owbn	100
+炟	ojgg	100
+炣	oskg	100
+炯	omkg	100
+炱	ckou	100
+炳	ogmw	100
+炷	oygg	100
+炻	odg	100
+炽	okwy	100
+烀	otuf	100
+烃	ocag	100
+烊	ouh	100
+烔	omgk	100
+烜	ogjg	100
+烝	bigo	100
+烠	odeg	100
+烨	owxf	100
+烩	owfc	100
+烬	onyu	100
+烯	ordh	100
+烶	otfp	100
+烷	opfq	100
+烺	oyvy	100
+烻	othp	100
+烽	otdh	100
+焆	okeg	100
+焉	ghgo	100
+焌	ocwt	100
+焐	ogkg	100
+焓	owyk	100
+焖	ouny	100
+焗	onnk	100
+焘	dtfo	100
+焜	ojxx	100
+焞	oybg	100
+焯	ohjh	100
+焱	ooou	100
+煁	odwn	100
+煃	odff	100
+煅	othc	100
+煊	opgg	100
+煋	ojtg	100
+煓	omdj	100
+煜	ojug	100
+煟	oleg	100
+煦	jqko	100
+煨	olge	100
+煲	wkso	100
+煳	odeg	100
+煴	ojlg	100
+煸	oyna	100
+煺	ovpy	100
+煽	oynn	100
+熇	oymk	100
+熘	oqyl	100
+熛	osfi	100
+熜	otln	100
+熠	onrg	100
+熥	ocep	100
+熨	nfio	100
+熵	oyuk	100
+熹	fkuo	100
+熻	owgn	100
+燊	ooos	100
+燋	owyo	100
+燏	ocnk	100
+燔	otol	100
+燚	oooo	100
+燠	otmd	100
+燧	ouep	100
+燮	yooc	100
+燹	gego	100
+爇	afwo	100
+爔	ougy	100
+爚	owga	100
+爝	oelf	100
+爟	oaky	100
+爨	emgo	100
+爰	egdc	100
+爻	rru	100
+爿	unht	100
+牁	uskg	100
+牂	uuh	100
+牒	thgs	100
+牖	thgs	100
+牚	ipkt	100
+牝	cxn	100
+牟	ctgj	100
+牤	cynn	100
+牥	cyt	100
+牦	cen	100
+牮	wayg	100
+牯	cdg	100
+牻	cdny	100
+牾	cgkg	100
+牿	ctfk	100
+犄	cdsk	100
+犇	tgcg	100
+犊	cfnd	100
+犋	chwy	100
+犍	cvgp	100
+犏	cyna	100
+犒	cymk	100
+犟	xkjg	100
+犨	wywg	100
+犰	qtvn	100
+犴	qtfh	100
+犷	qtot	100
+犸	qtcg	100
+狁	qtcq	100
+狃	qtng	100
+狄	qtoy	100
+狉	qtdg	100
+狍	qtqn	100
+狎	qtlh	100
+狒	qtxj	100
+狙	qteg	100
+狝	qtqi	100
+狨	qtad	100
+狩	qtpf	100
+狯	qtwc	100
+狲	qtbi	100
+狳	qtws	100
+狴	qtxf	100
+狷	qtke	100
+狺	qtyg	100
+狻	qtct	100
+猁	qttj	100
+猃	qtwg	100
+猄	qtyi	100
+猇	qthw	100
+猊	qteq	100
+猕	qtxi	100
+猗	qtdk	100
+猝	qtyf	100
+猞	qtwk	100
+猡	qtlq	100
+猢	qtde	100
+猥	qtle	100
+猯	qtmj	100
+猰	qtdd	100
+猱	qtcs	100
+猷	usgd	100
+猹	qtsg	100
+猺	qteb	100
+獍	qtuq	100
+獐	qtuj	100
+獒	gqtd	100
+獗	qtdw	100
+獠	qtdi	100
+獬	qtqg	100
+獭	qtsm	100
+獯	qtto	100
+獴	qtae	100
+獾	qtay	100
+玃	qthc	100
+玎	gsh	100
+玑	gwn	100
+玒	gag	100
+玓	gqyy	100
+玕	gfh	100
+玘	gnn	100
+玙	ggng	100
+玚	gnrt	100
+玞	ggy	100
+玟	gyy	100
+玠	gwjh	100
+玡	gaht	100
+玢	gwvt	100
+玤	gdhh	100
+玥	geg	100
+玦	gnwy	100
+玭	gxxn	100
+玮	gfnh	100
+玱	gwbn	100
+玳	gway	100
+玶	gguf	100
+玹	gyxy	100
+玺	qigy	100
+玼	ghxn	100
+玿	gvkg	100
+珀	grg	100
+珂	gskg	100
+珅	gjhh	100
+珇	gegg	100
+珈	gekg	100
+珉	gnan	100
+珋	gqtb	100
+珌	gntt	100
+珏	ggyy	100
+珐	gfcy	100
+珑	gdxy	100
+珒	gvgh	100
+珕	geee	100
+珖	gigq	100
+珙	gawy	100
+珛	gdeg	100
+珝	gng	100
+珞	gtkg	100
+珢	gvy	100
+珣	gqjg	100
+珥	gbg	100
+珦	gtmk	100
+珧	gqiy	100
+珩	gtgs	100
+珪	gffg	100
+珫	gycq	100
+珰	givg	100
+珲	gplh	100
+珵	gkgg	100
+珷	ggay	100
+珸	ggkg	100
+珹	gdnn	100
+珺	gvtk	100
+珽	gtfp	100
+琀	gwyk	100
+琄	gkeg	100
+琇	gtbt	100
+琈	gebg	100
+琊	gahb	100
+琎	gfjp	100
+琏	glpy	100
+琔	gpgh	100
+琚	gndg	100
+琛	gpws	100
+琟	gwyg	100
+琡	ghic	100
+琤	gqvh	100
+琥	ghwn	100
+琦	gdsk	100
+琨	gjxx	100
+琪	gdwy	100
+琫	gdwg	100
+琬	gpqb	100
+琭	gviy	100
+琮	gpfi	100
+琯	gpng	100
+琰	gooy	100
+琲	ghdd	100
+琵	ggxx	100
+琶	ggcb	100
+瑀	gtky	100
+瑁	gjhg	100
+瑂	gnhg	100
+瑃	gdwj	100
+瑄	gpgg	100
+瑅	gjgh	100
+瑆	gjtg	100
+瑑	gxey	100
+瑓	gslg	100
+瑔	griy	100
+瑕	gnhc	100
+瑖	gthc	100
+瑗	gegc	100
+瑙	gvtr	100
+瑚	gdeg	100
+瑛	gamd	100
+瑜	gwgj	100
+瑝	grgg	100
+瑢	gpwk	100
+瑧	gdwt	100
+瑨	ggoj	100
+瑬	iycy	100
+瑭	govk	100
+瑱	gfhw	100
+瑳	guag	100
+瑶	getb	100
+瑷	gepc	100
+瑾	gakg	100
+璀	gmwy	100
+璁	gtln	100
+璆	gnwe	100
+璇	gyth	100
+璈	ggqt	100
+璋	gujh	100
+璎	gmmv	100
+璐	gkhk	100
+璒	gwgu	100
+璘	goqg	100
+璜	gamw	100
+璞	goug	100
+璟	gjyi	100
+璠	gtol	100
+璥	gaqt	100
+璨	ghqo	100
+璩	ghge	100
+璪	gkks	100
+璬	gryt	100
+璮	gylg	100
+璱	gggt	100
+璲	guep	100
+璺	emgy	100
+瓀	gfdj	100
+瓒	gtfm	100
+瓖	gyke	100
+瓘	gaky	100
+瓞	rcyg	100
+瓠	dfny	100
+瓯	argy	100
+瓴	wycy	100
+瓻	rdmy	100
+瓿	ukgy	100
+甄	sfgy	100
+甍	alpy	100
+甏	fkuy	100
+甑	uljy	100
+甓	nkuy	100
+甗	hgky	100
+甡	tgtg	100
+甦	gjrg	100
+甪	tek	100
+甬	cej	100
+甭	dhej	100
+甯	pnej	100
+町	lsh	100
+甾	vlf	100
+畀	lgjj	100
+畈	lrcy	100
+畋	lty	100
+畎	ldy	100
+畖	lrcy	100
+畚	cdlf	100
+畛	lwet	100
+畤	lffy	100
+畬	wgsl	100
+畯	lcwt	100
+畲	wfil	100
+畹	lpqb	100
+畿	xxal	100
+疁	lnwe	100
+疃	lujf	100
+疍	nhjg	100
+疐	fplh	100
+疔	usk	100
+疖	ubk	100
+疝	umk	100
+疠	ugqe	100
+疡	unre	100
+疢	uoi	100
+疣	udny	100
+疥	uwjk	100
+疬	udee	100
+疭	uwwi	100
+疰	uygd	100
+疱	uqnv	100
+疳	ufd	100
+疴	uskd	100
+疵	uhxv	100
+疸	ujgd	100
+疽	uegd	100
+痂	uekd	100
+痃	uyxi	100
+痄	uthf	100
+痈	uek	100
+痉	ucad	100
+痍	ugxw	100
+痓	ugcf	100
+痔	uffi	100
+痞	udhk	100
+痣	ufni	100
+痤	uwwf	100
+痦	ugkd	100
+痧	uiit	100
+痨	uape	100
+痫	uusi	100
+痱	uhdd	100
+痼	uldd	100
+痿	utvd	100
+瘀	uywu	100
+瘁	uywf	100
+瘃	ugey	100
+瘅	uujf	100
+瘆	ucde	100
+瘊	uwnd	100
+瘌	uskj	100
+瘐	uewi	100
+瘕	unhc	100
+瘗	uguf	100
+瘘	uovd	100
+瘙	ucyj	100
+瘛	udhn	100
+瘠	uiwe	100
+瘢	utuc	100
+瘥	uuad	100
+瘭	usfi	100
+瘰	ulxi	100
+瘳	unwe	100
+瘴	uujk	100
+瘵	uwfi	100
+瘼	uajd	100
+瘿	ummv	100
+癀	uamw	100
+癃	ubtg	100
+癍	ugyg	100
+癔	uujn	100
+癖	unku	100
+癗	ufld	100
+癜	unac	100
+癫	ufhm	100
+癯	uhhy	100
+癸	wgdu	100
+癿	rnn	100
+皈	rrcy	100
+皋	rdfj	100
+皎	rury	100
+皑	rmnn	100
+皓	rtfk	100
+皕	djdj	100
+皖	rpfq	100
+皙	srrf	100
+皛	rrrf	100
+皞	rrdf	100
+皤	rtol	100
+皦	rryt	100
+皭	relf	100
+皲	plby	100
+皴	cwtb	100
+盂	gflf	100
+盉	tlf	100
+盍	fclf	100
+盎	mdlf	100
+盥	eilf	100
+盦	wynl	100
+盱	hgfh	100
+盷	hqug	100
+眄	hghn	100
+眇	hitt	100
+眈	hpqn	100
+眊	hen	100
+眍	hary	100
+眙	hckg	100
+眚	tghf	100
+眢	qbhf	100
+眦	hhxn	100
+眩	hyxy	100
+眬	hdxy	100
+眭	hffg	100
+眵	hqqy	100
+眸	hctg	100
+眺	hqiy	100
+睃	hcwt	100
+睄	hieg	100
+睇	huxt	100
+睎	hrdh	100
+睐	hgus	100
+睑	hwgg	100
+睚	hdff	100
+睢	hwyg	100
+睥	hrtf	100
+睨	heqn	100
+睫	hgvh	100
+睽	hwgd	100
+睾	tlff	100
+睿	hpgh	100
+瞀	cnhh	100
+瞅	htoy	100
+瞋	hfhw	100
+瞌	hfcl	100
+瞍	hehc	100
+瞑	hpju	100
+瞟	hsfi	100
+瞠	hipf	100
+瞢	alph	100
+瞥	ithf	100
+瞩	hnty	100
+瞫	hsjh	100
+瞰	hnbt	100
+瞵	hoqg	100
+瞽	fkuh	100
+瞿	hhwy	100
+矍	hhwc	100
+矜	cnhn	100
+矞	cnhk	100
+矣	ctdu	100
+矧	tdxh	100
+矬	tdwf	100
+矰	tduj	100
+矶	dwn	100
+矸	dfh	100
+矻	dtnn	100
+矼	dag	100
+砀	dnrt	100
+砄	dnwy	100
+砆	dgy	100
+砉	dhdf	100
+砑	daht	100
+砒	dxxn	100
+砗	dlh	100
+砘	dgbn	100
+砜	dwry	100
+砝	dfcy	100
+砟	dthf	100
+砠	degg	100
+砣	dpxn	100
+砥	dqay	100
+砧	dhkg	100
+砫	dygg	100
+砬	dug	100
+砭	dtpy	100
+砮	vcdf	100
+砵	dsgg	100
+砷	djhh	100
+砹	dary	100
+砺	ddgq	100
+砻	dxyd	100
+砼	dwag	100
+硁	dcag	100
+硇	dtlr	100
+硊	dqdb	100
+硌	dtkg	100
+硍	dvy	100
+硎	dgaj	100
+硐	dmgk	100
+硒	dsg	100
+硔	dawy	100
+硖	dgud	100
+硗	datq	100
+硙	dmnn	100
+硚	dtdj	100
+硪	dtry	100
+硭	dayn	100
+硿	dpwa	100
+碃	dgeg	100
+碇	dpgh	100
+碈	dqaj	100
+碏	dajg	100
+碓	dwyg	100
+碚	dukg	100
+碛	dgmy	100
+碜	dcde	100
+碡	dgxy	100
+碣	djqn	100
+碥	dyna	100
+碨	dlge	100
+碲	dyuh	100
+碶	ddhd	100
+碹	dpgg	100
+磉	dccs	100
+磊	dddf	100
+磋	duag	100
+磏	duvw	100
+磐	tuwd	100
+磔	dqgs	100
+磙	duce	100
+磜	dwfi	100
+磡	ddwe	100
+磬	fnwd	100
+磲	dias	100
+磴	dwgu	100
+磹	dsjh	100
+磻	dtol	100
+礅	dybt	100
+礌	dflg	100
+礓	dglg	100
+礞	dape	100
+礴	daif	100
+礵	dfsh	100
+祀	pynn	100
+祁	pybh	100
+祃	pycg	100
+祆	pygd	100
+祇	pyqa	100
+祉	pyhg	100
+祊	pyyt	100
+祋	pywc	100
+祎	pyfh	100
+祏	pydg	100
+祐	pydk	100
+祓	pydy	100
+祕	pynt	100
+祗	pyqy	100
+祚	pytf	100
+祛	pyfc	100
+祜	pydg	100
+祢	pyqi	100
+祧	pyqi	100
+祯	pyhm	100
+祲	pyvc	100
+祺	pydw	100
+祼	pyjs	100
+祾	pyft	100
+禄	pyvi	100
+禅	pyuf	100
+禊	pydd	100
+禋	pysf	100
+禒	pyxe	100
+禔	pyjh	100
+禘	pyyh	100
+禚	pyuo	100
+禛	pyfw	100
+禤	pyln	100
+禧	pyfk	100
+禳	pyye	100
+禹	tkmy	100
+禺	jmhy	100
+秣	tgsy	100
+秬	tang	100
+秭	ttnt	100
+秾	tpey	100
+稂	tyvy	100
+稃	tebg	100
+稆	tkkg	100
+稌	twgs	100
+稑	tfwf	100
+稔	twyn	100
+稗	trtf	100
+稙	tfhg	100
+稞	tjsy	100
+稣	qgty	100
+稷	tlwt	100
+稹	tfhw	100
+穄	twfi	100
+穑	tfuk	100
+穙	toug	100
+穜	tujf	100
+穟	tuep	100
+穰	tyke	100
+穸	pwqu	100
+穹	pwxb	100
+窀	pwgn	100
+窅	pwhf	100
+窈	pwxe	100
+窊	pwry	100
+窎	pwqg	100
+窕	pwqi	100
+窠	pwjs	100
+窣	pwyf	100
+窦	pwfd	100
+窨	pwuj	100
+窬	pwwj	100
+窭	pwov	100
+窳	pwry	100
+窸	pwtn	100
+竑	udcy	100
+竘	uqkg	100
+竦	uskg	100
+竫	uqvh	100
+竺	tff	100
+竽	tgfj	100
+笃	tcgf	100
+笄	tgaj	100
+笈	tbyu	100
+笊	trhy	100
+笏	tqrr	100
+笕	tmqb	100
+笞	tckf	100
+笠	tuf	100
+笥	tngk	100
+笪	tjgf	100
+笫	ttnt	100
+笮	tthf	100
+笯	tvcu	100
+笱	tqkf	100
+笳	tekf	100
+笸	takf	100
+笺	tgau	100
+笾	tepu	100
+筀	tfff	100
+筅	ttfq	100
+筇	tabj	100
+筌	twgf	100
+筘	trkf	100
+筚	txxf	100
+筜	tivf	100
+筠	tfqu	100
+筢	trcb	100
+筤	tyvu	100
+筥	tkkf	100
+筦	tpfq	100
+筮	taww	100
+筱	twht	100
+筲	tief	100
+筵	tthp	100
+筶	ttfk	100
+筻	tgjr	100
+筼	tkmu	100
+箅	tlgj	100
+箐	tgef	100
+箓	tviu	100
+箔	tirf	100
+箖	tssu	100
+箜	tpwa	100
+箢	tpqb	100
+箦	tgmu	100
+箧	tagd	100
+箨	trcg	100
+箪	tujf	100
+箬	tadk	100
+箴	tdgk	100
+箸	tftj	100
+篁	trgf	100
+篆	txeu	100
+篌	twnd	100
+篑	tkhm	100
+篚	tahd	100
+篝	tamf	100
+篥	tssu	100
+篦	ttlx	100
+篪	trhw	100
+篯	tqga	100
+篼	trqq	100
+篾	tlaw	100
+簃	ttqq	100
+簉	ttfp	100
+簋	tvlf	100
+簌	tskw	100
+簏	toxx	100
+簕	tafe	100
+簖	tonr	100
+簝	tdui	100
+簟	tsjj	100
+簠	tslf	100
+簧	tamw	100
+簪	taqj	100
+簰	tthf	100
+籀	trql	100
+籁	tskm	100
+籥	twga	100
+籴	tyou	100
+籼	omh	100
+粑	ocn	100
+粕	org	100
+粜	bmou	100
+粝	odgq	100
+粞	osg	100
+粢	uqwo	100
+粲	hqco	100
+粳	ogjr	100
+粼	oqgb	100
+粽	opfi	100
+粿	ojsy	100
+糁	ocde	100
+糅	ocns	100
+糇	ownd	100
+糈	onhe	100
+糌	othj	100
+糍	ouxx	100
+糒	oate	100
+糗	othd	100
+糨	oxkj	100
+糵	atno	100
+絜	dhvi	100
+絷	rvyi	100
+綦	dwxi	100
+綮	ynti	100
+縠	fpgc	100
+縢	eugi	100
+縻	ossi	100
+繄	atdi	100
+繇	etfi	100
+纂	thdi	100
+纛	gxhi	100
+纡	xgfh	100
+纣	xfy	100
+纥	xtnn	100
+纨	xvyy	100
+纩	xot	100
+纭	xfcy	100
+纮	xdcy	100
+纰	xxxn	100
+纴	xtfg	100
+纶	xwxn	100
+纻	xpgg	100
+纼	xxhh	100
+纾	xcnh	100
+绀	xfg	100
+绁	xann	100
+绂	xdcy	100
+绉	xqvg	100
+绋	xxjh	100
+绌	xbmh	100
+绐	xckg	100
+绔	xdfn	100
+绖	xgcf	100
+绗	xtgs	100
+绚	xqjg	100
+绛	xtgh	100
+绠	xgjr	100
+绡	xieg	100
+绤	xwwk	100
+绥	xevg	100
+绦	xtsy	100
+绨	xuxt	100
+绫	xfwt	100
+绮	xdsk	100
+绯	xhdd	100
+绱	ximk	100
+绲	xjxx	100
+绶	xepc	100
+绹	xqtb	100
+绺	xthk	100
+绻	xugb	100
+绾	xpng	100
+缁	xvlg	100
+缂	xafh	100
+缃	xshg	100
+缄	xdgk	100
+缇	xjgh	100
+缈	xhit	100
+缉	xkbg	100
+缊	xjlg	100
+缌	xlny	100
+缐	xriy	100
+缑	xwnd	100
+缒	xtnp	100
+缗	xnaj	100
+缙	xgoj	100
+缛	xdff	100
+缜	xfhw	100
+缞	xyke	100
+缟	xymk	100
+缡	xyrc	100
+缢	xuwl	100
+缣	xuvw	100
+缥	xsfi	100
+缦	xjlc	100
+缧	xlxi	100
+缪	xnwe	100
+缫	xvjs	100
+缬	xfkm	100
+缮	xuuk	100
+缯	xulj	100
+缱	xkhp	100
+缲	xkks	100
+缳	xlge	100
+缵	xtfm	100
+缶	tfbj	100
+罂	mmtb	100
+罄	fnwb	100
+罅	tfbf	100
+罍	lllb	100
+罔	muyn	100
+罘	ldhu	100
+罟	ldf	100
+罡	lghf	100
+罨	ldjn	100
+罱	lfmf	100
+罴	lfco	100
+罶	lqyl	100
+罹	lnwy	100
+罽	ldoj	100
+罾	lulj	100
+羁	lafg	100
+羌	unv	100
+羑	ugqy	100
+羓	ucn	100
+羕	ugyi	100
+羖	uwcy	100
+羚	uwyc	100
+羝	uqay	100
+羟	ucag	100
+羧	ucwt	100
+羯	ujqn	100
+羰	umdo	100
+羱	udri	100
+羲	ugty	100
+羸	yeuy	100
+羼	nuuu	100
+羿	naj	100
+翀	nkhh	100
+翂	nwvt	100
+翃	dcng	100
+翈	lng	100
+翊	ung	100
+翌	nuf	100
+翕	wgkn	100
+翙	mqng	100
+翚	nplj	100
+翛	whtn	100
+翟	nwyf	100
+翡	hdhn	100
+翥	ftjn	100
+翦	uejn	100
+翮	gkmn	100
+翯	nymk	100
+翱	rdfn	100
+翳	atdn	100
+翷	oqgn	100
+翾	lgkn	100
+耄	ftxe	100
+耆	ftxj	100
+耇	ftqk	100
+耋	ftxf	100
+耏	dmje	100
+耑	mdmj	100
+耒	fsi	100
+耔	fsbg	100
+耖	fsit	100
+耜	fsng	100
+耠	fswk	100
+耢	fsae	100
+耤	fsaj	100
+耥	fsik	100
+耦	fsjy	100
+耧	fsov	100
+耨	fsdf	100
+耩	fsaf	100
+耪	fsyy	100
+耰	fsdt	100
+耱	fsod	100
+耵	bsh	100
+耶	bbh	100
+耷	dbf	100
+聃	bmfg	100
+聆	bwyc	100
+聍	bpsh	100
+聒	btdg	100
+聩	bkhm	100
+聱	gqtb	100
+聿	vgk	100
+肇	yntg	100
+肓	ynef	100
+肟	efnn	100
+肫	egbn	100
+肭	emwy	100
+肱	edcy	100
+肷	eqwy	100
+肸	ewfh	100
+肼	efjh	100
+肽	edyy	100
+胂	ejhh	100
+胄	mef	100
+胈	edcy	100
+胍	ercy	100
+胗	ewet	100
+胙	ethf	100
+胛	elh	100
+胝	eqay	100
+胠	efcy	100
+胣	etbn	100
+胤	txen	100
+胥	nhef	100
+胨	eaiy	100
+胩	ehhy	100
+胪	ehnt	100
+胫	ecag	100
+胬	vcmw	100
+胭	eldy	100
+胱	eigq	100
+胲	eynw	100
+胴	emgk	100
+胺	epvg	100
+胼	euah	100
+脍	ewfc	100
+脎	ersy	100
+脒	eoy	100
+脔	yomw	100
+脘	epfq	100
+脞	ewwf	100
+脟	eefy	100
+脩	whte	100
+脬	eebg	100
+脲	eniy	100
+脶	ekmw	100
+脿	egey	100
+腆	emaw	100
+腈	egeg	100
+腑	eowf	100
+腒	endg	100
+腓	ehdd	100
+腘	elgy	100
+腙	epfi	100
+腚	epgh	100
+腠	edwd	100
+腧	ewgj	100
+腨	emdj	100
+腩	efmf	100
+腭	ekkn	100
+腯	erfh	100
+腱	evgp	100
+腴	eewy	100
+腼	edlf	100
+腽	ejlg	100
+膂	ytee	100
+膈	egkh	100
+膑	eprw	100
+膙	exkj	100
+膦	eoqg	100
+膺	owwe	100
+膻	eylg	100
+臃	eyxy	100
+臆	eujn	100
+臌	efkc	100
+臑	efdj	100
+臜	etfm	100
+臧	auah	100
+臬	thsu	100
+臻	gcft	100
+臾	ewi	100
+舁	eaj	100
+舂	dwef	100
+舄	eqou	100
+舐	tdqa	100
+舛	qgh	100
+舜	epqg	100
+舠	tuvt	100
+舢	tumh	100
+舣	tuyr	100
+舥	tucn	100
+舫	tuyt	100
+舭	tuxx	100
+舯	tukh	100
+舲	tuwc	100
+舳	tumg	100
+舴	tutf	100
+舸	tusk	100
+舻	tuhn	100
+舾	tusg	100
+艄	tuie	100
+艅	tuws	100
+艉	tune	100
+艋	tubl	100
+艎	turg	100
+艏	tuuh	100
+艚	tugj	100
+艟	tuuf	100
+艨	tuae	100
+艮	vngy	100
+艴	xjqc	100
+艽	avb	100
+艿	abr	100
+芃	awyu	100
+芄	avyu	100
+芈	hghg	100
+芊	atfj	100
+芎	axb	100
+芏	aff	100
+芑	anb	100
+芗	axtr	100
+芘	axxb	100
+芟	awcu	100
+芠	ayu	100
+芡	aqwu	100
+芣	adhu	100
+芤	abnb	100
+芨	abyu	100
+芩	awyn	100
+芪	aqab	100
+芫	afqb	100
+芮	amwu	100
+芰	afcu	100
+芴	aqrr	100
+芷	ahf	100
+芸	afcu	100
+芼	aeb	100
+芾	agmh	100
+苁	awwu	100
+苄	ayhu	100
+苈	ader	100
+苉	aaqb	100
+苊	adbb	100
+苋	amqb	100
+苌	atay	100
+苎	apgf	100
+苑	aqbb	100
+苒	amff	100
+苓	awyc	100
+苕	avkf	100
+苘	amkf	100
+苜	ahf	100
+苠	anab	100
+苡	anyw	100
+苣	aanf	100
+苤	adhg	100
+苧	apsj	100
+苯	asgf	100
+苴	aegf	100
+苷	aff	100
+苻	awfu	100
+苾	antr	100
+茀	axjj	100
+茆	aqtb	100
+茈	ahxb	100
+茋	aqay	100
+茌	awff	100
+茏	adxy	100
+茑	aqgf	100
+茓	apwu	100
+茔	apff	100
+茕	apnf	100
+茗	aqkf	100
+茚	aqgb	100
+茛	avu	100
+茜	asf	100
+茝	aahh	100
+茨	auqw	100
+茭	auru	100
+茯	awdu	100
+茱	atfu	100
+茳	aiaf	100
+茹	avkf	100
+茺	aycq	100
+茼	amgk	100
+茽	awkh	100
+荀	aqjf	100
+荁	agjg	100
+荃	awgf	100
+荄	aynw	100
+荇	atgs	100
+荏	awtf	100
+荑	agxw	100
+荓	auaj	100
+荖	aftx	100
+荙	adpu	100
+荛	aatq	100
+荜	axxf	100
+荟	awfc	100
+荥	apiu	100
+荦	aptg	100
+荨	avfu	100
+荩	anyu	100
+荪	abiu	100
+荫	abef	100
+荬	anud	100
+荭	axaf	100
+荮	axfu	100
+荻	aqto	100
+荼	awgs	100
+荽	aevf	100
+莅	awuf	100
+莆	asu	100
+莎	aiit	100
+莒	akkf	100
+莓	atxu	100
+莘	auj	100
+莙	avtk	100
+莛	atfp	100
+莜	awht	100
+莝	awwf	100
+莞	apfq	100
+莠	atbr	100
+莨	ayvu	100
+莩	aebf	100
+莪	atry	100
+莰	afqw	100
+莳	ajfu	100
+莴	akmw	100
+莶	awgg	100
+莸	aqty	100
+莼	axgn	100
+莿	asmj	100
+菀	apqb	100
+菁	agef	100
+菂	arqy	100
+菅	apnf	100
+菉	aviu	100
+菍	awyn	100
+菏	aisk	100
+菔	aebc	100
+菖	ajjf	100
+菘	aswc	100
+菝	ardy	100
+菟	aqky	100
+菡	abib	100
+菥	asrj	100
+菪	apdf	100
+菰	abry	100
+菹	aieg	100
+菼	aoou	100
+菽	ahic	100
+萁	adwu	100
+萃	aywf	100
+萆	artf	100
+萋	agvv	100
+萏	aqef	100
+萑	awyf	100
+萘	adfi	100
+萚	arcg	100
+萜	amhk	100
+萣	apgh	100
+萦	apxi	100
+萩	atou	100
+萱	apgg	100
+萳	afmf	100
+萸	aewu	100
+萹	ayna	100
+萼	akkn	100
+葆	awks	100
+葎	atvg	100
+葑	afff	100
+葖	apwd	100
+葙	ashf	100
+葚	adwn	100
+葜	adhd	100
+葩	arcb	100
+葭	anhc	100
+葰	awct	100
+葳	adgv	100
+葴	adgk	100
+葶	ayps	100
+葸	alnu	100
+葺	akbf	100
+蒄	apff	100
+蒇	admu	100
+蒈	axxr	100
+蒉	akhm	100
+蒌	aovf	100
+蒎	aire	100
+蒐	arqc	100
+蒗	aiyv	100
+蒟	auqk	100
+蒡	ayuy	100
+蒨	awge	100
+蒯	aeej	100
+蒱	arsu	100
+蒴	aube	100
+蒹	auvw	100
+蒺	autd	100
+蒻	axuu	100
+蒽	aldn	100
+蓁	adwt	100
+蓂	apju	100
+蓇	amef	100
+蓊	awcn	100
+蓍	aftj	100
+蓏	arcy	100
+蓐	adff	100
+蓑	ayke	100
+蓓	awuk	100
+蓟	aqgj	100
+蓠	ayrc	100
+蓢	ayve	100
+蓣	acnm	100
+蓥	apqf	100
+蓦	ajdg	100
+蓰	athh	100
+蓼	anwe	100
+蓿	apwj	100
+蔀	aukb	100
+蔃	axkj	100
+蔈	asfi	100
+蔊	aojf	100
+蔌	askw	100
+蔟	aytd	100
+蔡	awfi	100
+蔷	afuk	100
+蔸	arqq	100
+蔹	awgt	100
+蔺	auwy	100
+蔻	apfc	100
+蕃	atol	100
+蕈	asjj	100
+蕖	aias	100
+蕗	akhk	100
+蕙	agjn	100
+蕞	ajbc	100
+蕤	ageg	100
+蕨	aduw	100
+蕰	aijl	100
+蕲	aujr	100
+蕹	ayxy	100
+蕺	akby	100
+蕻	adaw	100
+薁	atmd	100
+薅	avdf	100
+薏	aujn	100
+薜	anku	100
+薢	aqeg	100
+薤	agqg	100
+薨	alpx	100
+薮	aovt	100
+薰	atgo	100
+薳	afkp	100
+薷	afdj	100
+薸	aisi	100
+薹	afkf	100
+薿	axth	100
+藁	ayms	100
+藉	afsj	100
+藓	aqgu	100
+藜	atqi	100
+藟	alll	100
+藠	arrr	100
+藦	aosr	100
+藨	aoxo	100
+藩	aitl	100
+藿	afwy	100
+蘅	atqs	100
+蘖	atns	100
+蘘	ayke	100
+蘧	ahgp	100
+蘩	atxi	100
+蘼	aosd	100
+虒	rhwv	100
+虓	vhwn	100
+虔	hyi	100
+虞	hkgd	100
+虢	efhw	100
+虤	hwhw	100
+虬	jnn	100
+虮	jwn	100
+虷	jfh	100
+虸	jbg	100
+虺	gqji	100
+虻	jynn	100
+虼	jtnn	100
+虿	gqju	100
+蚄	jyt	100
+蚆	jcn	100
+蚋	jmwy	100
+蚍	jxxn	100
+蚝	jen	100
+蚧	jwjh	100
+蚨	jgy	100
+蚩	bhgj	100
+蚬	jmqn	100
+蚰	jmg	100
+蚱	jthf	100
+蚲	jguf	100
+蚴	jxet	100
+蚶	jfg	100
+蚺	jmfg	100
+蛃	jgmw	100
+蛄	jdg	100
+蛊	jlf	100
+蛎	jdgq	100
+蛏	jcfg	100
+蛐	jmag	100
+蛑	jctg	100
+蛘	juh	100
+蛞	jtdg	100
+蛟	jury	100
+蛩	awyj	100
+蛭	jgcf	100
+蛰	rvyj	100
+蛱	jgud	100
+蛲	jatq	100
+蛳	jjgh	100
+蛴	jyjh	100
+蛸	jieg	100
+蜃	dfej	100
+蜇	rrju	100
+蜉	jebg	100
+蜊	jtjh	100
+蜍	jwgs	100
+蜎	jkeg	100
+蜐	jfce	100
+蜚	hdhj	100
+蜞	jdwy	100
+蜢	jblg	100
+蜣	junn	100
+蜥	jsrh	100
+蜩	jmfk	100
+蜮	jakg	100
+蜱	jrtf	100
+蜴	jjqr	100
+蜷	jugb	100
+蜾	jjsy	100
+蜿	jpqb	100
+蝈	jlgy	100
+蝓	jwgj	100
+蝘	jajv	100
+蝣	jytb	100
+蝤	jusg	100
+蝥	cnhj	100
+蝮	jtjt	100
+蝰	jdff	100
+蝲	jskj	100
+蝻	jfmf	100
+蝼	jovg	100
+蝽	jdwj	100
+蝾	japs	100
+螂	jyvb	100
+螅	jthn	100
+螈	jdri	100
+螋	jehc	100
+螗	jovk	100
+螠	juwl	100
+螣	eugj	100
+螨	jagw	100
+螫	fotj	100
+螬	jgmj	100
+螭	jyrc	100
+螯	gqtj	100
+螱	nfij	100
+螳	jipf	100
+螵	jsfi	100
+螽	tujj	100
+蟊	cnhj	100
+蟏	javw	100
+蟑	jujh	100
+蟒	jada	100
+蟛	jfke	100
+蟠	jtol	100
+蟥	jamw	100
+蟪	jgjn	100
+蟫	jsjh	100
+蟮	juuk	100
+蟾	jqdy	100
+蠃	yejy	100
+蠊	jouw	100
+蠋	jlqj	100
+蠓	jape	100
+蠖	jawc	100
+蠡	xejj	100
+蠲	uwlj	100
+蠹	gkhj	100
+蠼	jhhc	100
+衃	tldh	100
+衄	tlng	100
+衎	tfgs	100
+衒	tyxs	100
+衠	tfhs	100
+衢	thhs	100
+衮	uceu	100
+衲	pumw	100
+衽	putf	100
+衾	wyne	100
+衿	puwn	100
+袂	punw	100
+袅	qyeu	100
+袆	pufh	100
+袈	ekye	100
+袗	puwe	100
+袢	puug	100
+袤	ycne	100
+袪	pufc	100
+袯	puny	100
+袷	puwk	100
+袼	putk	100
+裈	pupl	100
+裉	puvy	100
+裎	pukg	100
+裒	yeeu	100
+裔	yemk	100
+裘	giye	100
+裛	yceu	100
+裟	iite	100
+裢	pulp	100
+裣	puwg	100
+裥	puuj	100
+裨	purf	100
+裰	pucc	100
+裱	puge	100
+裴	hdhe	100
+裼	pujr	100
+裾	pund	100
+褊	puya	100
+褓	puws	100
+褕	puwj	100
+褙	puue	100
+褚	pufj	100
+褛	puov	100
+褟	pujn	100
+褡	puak	100
+褫	purw	100
+褯	puoh	100
+褰	pawe	100
+褴	pujl	100
+褶	punr	100
+襁	puxj	100
+襄	ykke	100
+襕	puul	100
+襚	puup	100
+襜	puqy	100
+襞	nkue	100
+襦	pufj	100
+襫	pudj	100
+襻	pusr	100
+覃	sjj	100
+觃	mqbd	100
+觇	hkmq	100
+觊	mnmq	100
+觋	awwq	100
+觌	fnuq	100
+觎	wgeq	100
+觏	amfq	100
+觐	akgq	100
+觑	homq	100
+觖	qenw	100
+觚	qery	100
+觜	hxqe	100
+觞	qetr	100
+觟	qeff	100
+觥	qeiq	100
+觫	qesk	100
+觭	qedk	100
+觯	qeuf	100
+觱	dgke	100
+觳	fpgc	100
+觿	qemk	100
+訄	vyd	100
+訇	qyd	100
+訚	uyd	100
+訾	hxyf	100
+詈	lyf	100
+詟	dxyy	100
+詹	qdwy	100
+謇	pawy	100
+讣	yhy	100
+讦	yfh	100
+讧	yag	100
+讪	ymh	100
+讫	ytnn	100
+讱	yvyy	100
+讴	yary	100
+讵	yang	100
+讷	ymwy	100
+讻	yrbh	100
+诂	ydg	100
+诃	yskg	100
+诇	ymkg	100
+诋	yqay	100
+诌	yqvg	100
+诎	ybmh	100
+诏	yvkg	100
+诐	yby	100
+诒	yckg	100
+诓	yagg	100
+诔	yfsy	100
+诖	yffg	100
+诘	yfkg	100
+诙	ydoy	100
+诛	ytfy	100
+诜	ytfq	100
+诟	yrgk	100
+诠	ywgg	100
+诣	yxjg	100
+诤	yqvh	100
+诧	ypta	100
+诨	yplh	100
+诩	yng	100
+诮	yieg	100
+诰	ytfk	100
+诳	yqtg	100
+诹	ybcy	100
+诼	ygey	100
+诿	ytvg	100
+谀	yewy	100
+谂	ywyn	100
+谄	yqeg	100
+谇	yywf	100
+谌	ydwn	100
+谏	yslg	100
+谑	yhag	100
+谔	ykkn	100
+谕	ywgj	100
+谖	yegc	100
+谗	yqku	100
+谙	yujg	100
+谛	yyuh	100
+谝	yyna	100
+谞	ynhe	100
+谟	yajd	100
+谠	yipq	100
+谡	ylwt	100
+谥	yuwl	100
+谧	yntl	100
+谩	yjlc	100
+谪	yyud	100
+谫	yuev	100
+谮	yaqj	100
+谯	ywyo	100
+谰	yusl	100
+谲	ycnk	100
+谳	yfmd	100
+谵	yqdy	100
+谶	ywwg	100
+谼	wwkw	100
+谿	exdk	100
+豇	gkua	100
+豉	gkuc	100
+豕	gei	100
+豚	egey	100
+豢	ugge	100
+豨	gerh	100
+豮	gefm	100
+豳	mgee	100
+豸	etyt	100
+貂	evkg	100
+貅	ewsy	100
+貆	egjg	100
+貉	etkg	100
+貊	edjg	100
+貔	etlx	100
+貘	eajd	100
+贲	famu	100
+贳	anmu	100
+贶	mkqn	100
+贻	mckg	100
+贽	rvym	100
+赀	hxmu	100
+赅	mynw	100
+赆	mnyu	100
+赇	mgiy	100
+赈	mdfe	100
+赉	gusm	100
+赍	fwwm	100
+赑	mmmu	100
+赒	mmfk	100
+赓	ovwm	100
+赕	mooy	100
+赗	mjhg	100
+赙	msfy	100
+赜	ahkm	100
+赝	dwwm	100
+赟	ygam	100
+赣	ujtm	100
+赧	fobc	100
+赪	fohm	100
+赭	fofj	100
+赳	fhnh	100
+趄	fheg	100
+趑	fhuw	100
+趔	fhgj	100
+趯	fhny	100
+趱	fhtm	100
+趵	khqy	100
+趸	gqkh	100
+趺	khgy	100
+趼	khga	100
+趿	khby	100
+跂	khfc	100
+跄	khwb	100
+跆	khck	100
+跎	khpx	100
+跏	khek	100
+跐	khhx	100
+跖	khdg	100
+跗	khwf	100
+跚	khmg	100
+跞	khti	100
+跣	khtq	100
+跤	khur	100
+跬	khff	100
+跱	khff	100
+跶	khdp	100
+跸	khxf	100
+跹	khtp	100
+跻	khyj	100
+跽	khnn	100
+踅	rrkh	100
+踉	khyv	100
+踌	khdf	100
+踒	khtv	100
+踔	khhj	100
+踝	khjs	100
+踞	khnd	100
+踟	khtk	100
+踣	khuk	100
+踦	khdk	100
+踬	khrm	100
+踮	khok	100
+踯	khub	100
+踵	khtf	100
+踶	khjh	100
+踹	khmj	100
+踺	khvp	100
+踽	khty	100
+蹀	khas	100
+蹁	khya	100
+蹅	khsg	100
+蹇	pawh	100
+蹉	khua	100
+蹊	khed	100
+蹐	khie	100
+蹑	khbc	100
+蹒	khaw	100
+蹙	dhih	100
+蹚	khif	100
+蹜	khpj	100
+蹢	khyd	100
+蹩	itkh	100
+蹯	khtl	100
+蹰	khdf	100
+蹴	khyy	100
+蹶	khdw	100
+蹼	khog	100
+蹽	khdi	100
+蹾	khyt	100
+蹿	khph	100
+躅	khlj	100
+躇	khaj	100
+躐	khvn	100
+躔	khof	100
+躜	khtm	100
+躞	khyc	100
+轪	ldy	100
+轫	lvyy	100
+轭	ldbn	100
+轱	ldg	100
+轲	lskg	100
+轳	lhnt	100
+轵	lkwy	100
+轶	ltgy	100
+轷	ltuf	100
+轸	lwet	100
+轹	ltni	100
+轺	lvkg	100
+轼	laay	100
+轾	lgcf	100
+辀	ltuy	100
+辁	lwgg	100
+辂	ltkg	100
+辄	lbnn	100
+辇	gglj	100
+辊	ljxx	100
+辋	lmun	100
+辌	lyiy	100
+辍	lccc	100
+辎	lvlg	100
+辏	ldwd	100
+辒	ljlg	100
+辔	xlxk	100
+辗	lnae	100
+辘	loxx	100
+辚	loqg	100
+辿	mpk	100
+迓	ahtp	100
+迕	tfpk	100
+迢	vkpd	100
+迤	tbpv	100
+迥	mkpd	100
+迦	ekpd	100
+迨	ckpd	100
+迩	qipi	100
+迪	mpd	100
+迭	tgpi	100
+迮	thfp	100
+迳	capd	100
+迸	uapk	100
+迺	spd	100
+逄	tgpk	100
+逅	rgkp	100
+逋	spi	100
+逍	iepd	100
+逑	giyp	100
+逖	qtop	100
+逡	cwtp	100
+逦	gmyp	100
+逭	pnpd	100
+逯	vipi	100
+逴	hjpk	100
+逵	fwfp	100
+逶	tvpd	100
+遁	rfhp	100
+遄	mdmp	100
+遆	yupp	100
+遐	nhfp	100
+遑	rgpd	100
+遒	usgp	100
+遘	amfp	100
+遛	qyvp	100
+遢	jnpd	100
+遨	gqtp	100
+遴	oqgp	100
+遹	cnhp	100
+遽	hgep	100
+邂	qevp	100
+邃	pwup	100
+邈	erqp	100
+邋	vlrp	100
+邕	vkcb	100
+邗	fbh	100
+邘	gfbh	100
+邙	ynbh	100
+邛	abh	100
+邝	obh	100
+邠	wvbh	100
+邡	ybh	100
+邨	gbnb	100
+邬	tnnb	100
+邯	fbh	100
+邰	ckbh	100
+邱	rbh	100
+邲	ntbh	100
+邳	dhgb	100
+邴	gmwb	100
+邵	vkbh	100
+邶	uxbh	100
+邸	qayb	100
+邹	qvbh	100
+邺	obh	100
+邽	ffbh	100
+邾	tfbh	100
+邿	ffbh	100
+郃	wgkb	100
+郄	rdcb	100
+郅	gcfb	100
+郇	qjbh	100
+郈	rgkb	100
+郏	gudb	100
+郐	wfcb	100
+郓	plbh	100
+郗	rdmb	100
+郚	gkbh	100
+郛	ebbh	100
+郜	tfkb	100
+郝	fobh	100
+郡	vtkb	100
+郢	kgbh	100
+郤	wwkb	100
+郦	gmyb	100
+郧	kmbh	100
+郪	gvhb	100
+郫	rtfb	100
+郯	oobh	100
+郴	ssbh	100
+郸	ujfb	100
+郾	ajvb	100
+郿	nhbh	100
+鄀	adkb	100
+鄂	kkfb	100
+鄃	wgeb	100
+鄄	sfbh	100
+鄅	tkmb	100
+鄌	ovhb	100
+鄑	gojb	100
+鄗	ymkb	100
+鄘	oveb	100
+鄚	ajdb	100
+鄜	oxxb	100
+鄞	akgb	100
+鄠	ffnb	100
+鄢	ghgb	100
+鄣	ujbh	100
+鄫	uljb	100
+鄯	uukb	100
+鄱	tolb	100
+鄹	bcib	100
+酂	tfqb	100
+酃	fkkb	100
+酅	mwyb	100
+酆	mdhb	100
+酉	sgd	100
+酊	sgsh	100
+酋	usgf	100
+酎	sgfy	100
+酏	sgbn	100
+酐	sgfh	100
+酚	sgwv	100
+酞	sgdy	100
+酡	sgpx	100
+酢	sgtf	100
+酤	sgdg	100
+酦	sgny	100
+酩	sgqk	100
+酮	sgmk	100
+酯	sgxj	100
+酰	sgtq	100
+酲	sgkg	100
+酴	sgws	100
+酶	sgtx	100
+酹	sgef	100
+酺	sgsy	100
+酽	sggt	100
+酾	sggy	100
+醅	sguk	100
+醌	sgjx	100
+醍	sgjh	100
+醐	sgde	100
+醑	sgne	100
+醚	sgop	100
+醛	sgag	100
+醢	sgdl	100
+醨	sgyc	100
+醪	sgne	100
+醭	sgog	100
+醮	sgwo	100
+醯	sgyl	100
+醴	sgmu	100
+醵	sghe	100
+醺	sgto	100
+醾	sgoo	100
+釉	tomg	100
+釐	ftdf	100
+釜	wrfu	100
+銎	awyq	100
+銮	yoqf	100
+鋆	fquq	100
+鋈	itdq	100
+錾	lrqf	100
+鍪	cnhq	100
+鎏	iycq	100
+鏊	gqtq	100
+鏖	oxxq	100
+鐾	nkuq	100
+鑫	qqqf	100
+钆	qnn	100
+钇	qnn	100
+钊	qjh	100
+钋	qhy	100
+钌	qbh	100
+钍	qfg	100
+钎	qtfh	100
+钏	qkh	100
+钐	qet	100
+钒	qwyy	100
+钔	qun	100
+钕	qvg	100
+钖	qnrt	100
+钗	qcyy	100
+钘	qgah	100
+钚	qdhy	100
+钛	qdyy	100
+钜	qang	100
+钡	qmy	100
+钣	qrcy	100
+钤	qwyn	100
+钨	qtng	100
+钪	qywn	100
+钫	qyt	100
+钬	qoy	100
+钭	qufh	100
+钯	qcn	100
+钰	qgyy	100
+钲	qghg	100
+钴	qdg	100
+钵	qsgg	100
+钷	qakg	100
+钹	qdcy	100
+钺	qann	100
+钼	qhg	100
+钽	qjgg	100
+钿	qlg	100
+铀	qmg	100
+铂	qrg	100
+铄	qtni	100
+铈	qymh	100
+铉	qyxy	100
+铊	qpxn	100
+铋	qntt	100
+铌	qnxn	100
+铍	qby	100
+铎	qcgh	100
+铏	qgaj	100
+铑	qftx	100
+铒	qbg	100
+铕	qdeg	100
+铖	qdnn	100
+铗	qgud	100
+铘	qahb	100
+铙	qatq	100
+铚	qgcf	100
+铞	qkmh	100
+铟	qldy	100
+铠	qmnn	100
+铢	qtfy	100
+铤	qtfp	100
+铥	qtfc	100
+铧	qwxf	100
+铨	qwgg	100
+铩	qrsy	100
+铪	qwgk	100
+铫	qqiy	100
+铬	qtkg	100
+铮	qqvh	100
+铯	qqcn	100
+铰	qury	100
+铱	qyey	100
+铳	qycq	100
+铴	qinr	100
+铵	qpvg	100
+铷	qvkg	100
+铹	qape	100
+铻	qgkg	100
+铼	qgus	100
+铽	qany	100
+铿	qjcf	100
+锂	qjfg	100
+锃	qkgg	100
+锆	qtfk	100
+锇	qtry	100
+锊	qefy	100
+锍	qyck	100
+锎	quga	100
+锏	qujg	100
+锑	quxt	100
+锒	qyvy	100
+锓	qvpc	100
+锔	qnnk	100
+锕	qbsk	100
+锖	qgeg	100
+锗	qftj	100
+锘	qadk	100
+锛	qdfa	100
+锜	qdsk	100
+锝	qjgf	100
+锞	qjsy	100
+锟	qjxx	100
+锢	qldg	100
+锧	qrfm	100
+锩	qugb	100
+锪	qqrn	100
+锫	qukg	100
+锬	qooy	100
+锱	qvlg	100
+锲	qdhd	100
+锳	qamd	100
+锴	qxxr	100
+锵	quqf	100
+锶	qlny	100
+锷	qkkn	100
+锸	qtfe	100
+锺	qtgf	100
+锼	qehc	100
+锽	qrgg	100
+锾	qegc	100
+锿	qyey	100
+镁	qugd	100
+镂	qovg	100
+镃	quxx	100
+镄	qxjm	100
+镅	qnhg	100
+镆	qajd	100
+镈	qsfy	100
+镉	qgkh	100
+镋	qipq	100
+镌	qwyb	100
+镍	qths	100
+镎	qwgr	100
+镏	qqyl	100
+镑	qyuy	100
+镒	quwl	100
+镓	qpge	100
+镔	qprw	100
+镕	qpwk	100
+镖	qsfi	100
+镗	qipf	100
+镘	qjlc	100
+镚	qmee	100
+镛	qovh	100
+镝	qyud	100
+镞	qytd	100
+镠	qnwe	100
+镡	qsjh	100
+镢	qduw	100
+镤	qoug	100
+镥	qqgj	100
+镦	qybt	100
+镧	qusl	100
+镨	quoj	100
+镩	qpwh	100
+镪	qxkj	100
+镫	qwgu	100
+镬	qawc	100
+镭	qflg	100
+镮	qlge	100
+镯	qlqj	100
+镱	qujn	100
+镲	qpwi	100
+镳	qoxo	100
+镴	qvln	100
+镵	qqky	100
+闩	ugd	100
+闫	udd	100
+闱	ufnh	100
+闳	udci	100
+闵	uyi	100
+闶	uywv	100
+闼	udpi	100
+闾	ukkd	100
+闿	umnv	100
+阂	uynw	100
+阃	ulsi	100
+阄	uqjn	100
+阆	uyvi	100
+阇	uftj	100
+阈	uakg	100
+阉	udjn	100
+阊	ujjd	100
+阋	ueqv	100
+阌	uepc	100
+阍	uqaj	100
+阏	uywu	100
+阑	usld	100
+阒	uhdi	100
+阕	uwgd	100
+阖	ufcl	100
+阗	ufhw	100
+阘	ujnd	100
+阙	uubw	100
+阚	unbt	100
+阜	tnfj	100
+阡	btfh	100
+阪	brcy	100
+阮	bfqn	100
+阼	bthf	100
+阽	bhkg	100
+陀	bpxn	100
+陂	bby	100
+陇	bdxy	100
+陉	bcag	100
+陎	btfy	100
+陑	bdmj	100
+陔	bynw	100
+陛	bxxf	100
+陞	btaf	100
+陟	bhht	100
+陧	bjfg	100
+陬	bbcy	100
+陲	btfa	100
+陴	brtf	100
+隃	bwgj	100
+隈	blge	100
+隋	bdae	100
+隍	brgg	100
+隗	brqc	100
+隩	btmd	100
+隰	bjxo	100
+隳	bdan	100
+隹	wyg	100
+隺	pwyd	100
+隼	wyfj	100
+隽	wybr	100
+雉	tdwy	100
+雊	qkwy	100
+雍	yxty	100
+雎	egwy	100
+雒	tkwy	100
+雠	wyyy	100
+雩	ffnb	100
+雯	fyu	100
+雱	fyr	100
+霁	fyjj	100
+霄	fief	100
+霅	fyf	100
+霆	ftfp	100
+霈	figh	100
+霏	fhdd	100
+霓	feqb	100
+霖	fssu	100
+霨	fnff	100
+霪	fief	100
+霭	fyjn	100
+霰	faet	100
+霾	fejf	100
+靓	gemq	100
+靛	geph	100
+靥	dddf	100
+靬	affh	100
+靰	afgq	100
+靳	afrh	100
+靸	afby	100
+靺	afgs	100
+靼	afjg	100
+靽	afug	100
+靿	afxe	100
+鞁	afby	100
+鞅	afmd	100
+鞑	afdp	100
+鞒	aftj	100
+鞔	afqq	100
+鞘	afie	100
+鞡	afru	100
+鞣	afcs	100
+鞧	afug	100
+鞨	afjn	100
+鞫	afqy	100
+鞬	afvp	100
+鞮	afjh	100
+鞯	afab	100
+鞲	afaf	100
+鞳	afak	100
+鞴	afae	100
+韂	afqy	100
+韦	fnhk	100
+韨	fnhy	100
+韪	jghh	100
+韫	fnhl	100
+韬	fnhe	100
+韶	ujvk	100
+顸	fdmy	100
+顼	gdmy	100
+颀	rdmy	100
+颃	ywdm	100
+颉	fkdm	100
+颋	tfpm	100
+颌	wgkm	100
+颍	xidm	100
+颎	xodm	100
+颏	yntm	100
+颐	ahkm	100
+颔	wynm	100
+颙	jmhm	100
+颚	kkfm	100
+颛	mdmm	100
+颞	bccm	100
+颟	agmm	100
+颡	cccm	100
+颢	jyim	100
+颥	fdmm	100
+颦	hhdf	100
+颧	akkm	100
+飏	wrnr	100
+飐	wrhk	100
+飑	wrqn	100
+飓	wrhw	100
+飔	wrln	100
+飕	wrec	100
+飗	wrql	100
+飙	dddr	100
+飧	qwyv	100
+飨	xtwv	100
+餍	ddwv	100
+餮	gqwv	100
+饔	yxtv	100
+饕	kgnv	100
+饧	qnnr	100
+饨	qngn	100
+饩	qnrn	100
+饪	qntf	100
+饫	qntd	100
+饬	qnte	100
+饯	qnga	100
+饳	qnbm	100
+饴	qnck	100
+饷	qntk	100
+饸	qnwk	100
+饹	qntk	100
+饻	qnye	100
+饽	qnfb	100
+馃	qnjs	100
+馄	qnjx	100
+馇	qnsg	100
+馈	qnkm	100
+馉	qnme	100
+馊	qnec	100
+馌	qnfl	100
+馐	qnug	100
+馑	qnag	100
+馓	qnat	100
+馔	qnnw	100
+馕	qnge	100
+馗	vuth	100
+馘	uthg	100
+馝	tjnt	100
+馞	tjfb	100
+馥	tjtt	100
+馧	tjjl	100
+馨	fnwj	100
+驭	cgcy	100
+驲	cgjg	100
+驵	cgeg	100
+驷	cglg	100
+驸	cgwf	100
+驺	cgqv	100
+驽	vccg	100
+驿	cgcg	100
+骀	cgck	100
+骁	cgaq	100
+骃	cgld	100
+骅	cgwf	100
+骈	cgua	100
+骉	cgcg	100
+骊	cggy	100
+骋	cgmn	100
+骍	cguh	100
+骎	cgvc	100
+骐	cgdw	100
+骒	cgjs	100
+骓	cgwy	100
+骕	cgvw	100
+骖	cgce	100
+骘	bhhg	100
+骙	cgwd	100
+骛	cnhg	100
+骜	gqtg	100
+骝	cgql	100
+骞	pawg	100
+骟	cgyn	100
+骠	cgsi	100
+骢	cgtn	100
+骣	cgnb	100
+骥	cguw	100
+骦	cgfh	100
+骧	cgye	100
+骰	mewc	100
+骱	mewj	100
+骶	meqy	100
+骷	medg	100
+骸	meyw	100
+骺	merk	100
+骼	metk	100
+髀	merf	100
+髁	mejs	100
+髂	mepk	100
+髃	mejy	100
+髅	meov	100
+髋	mepq	100
+髌	mepw	100
+髎	mene	100
+髑	melj	100
+髡	degq	100
+髢	debb	100
+髦	deeb	100
+髫	devk	100
+髭	dehx	100
+髯	demf	100
+髹	dews	100
+髻	defk	100
+髽	dewf	100
+鬃	depi	100
+鬈	deub	100
+鬏	deto	100
+鬒	defw	100
+鬘	dejc	100
+鬟	dele	100
+鬣	devn	100
+鬯	obxb	100
+鬲	gkmh	100
+鬶	gmqh	100
+鬷	gkmt	100
+鬻	xoxh	100
+魃	rqcy	100
+魅	rqcf	100
+魆	rqcn	100
+魇	ddrc	100
+魈	rqce	100
+魉	rqcw	100
+魋	rqcy	100
+魍	rqcn	100
+魑	rqcc	100
+鱽	qgvt	100
+鱾	qgnn	100
+鱿	qgdy	100
+鲀	qggn	100
+鲂	qgyt	100
+鲃	qgcn	100
+鲅	qgdy	100
+鲆	qggf	100
+鲇	qghk	100
+鲈	qghn	100
+鲉	qgmg	100
+鲊	qgtf	100
+鲋	qgwf	100
+鲌	qgrg	100
+鲍	qgqn	100
+鲎	ipqg	100
+鲏	qgby	100
+鲐	qgck	100
+鲑	qgff	100
+鲒	qgfk	100
+鲔	qgde	100
+鲕	qgdj	100
+鲖	qgmk	100
+鲗	qgmj	100
+鲘	qgrk	100
+鲙	qgwc	100
+鲚	qgyj	100
+鲛	qgur	100
+鲝	uqgf	100
+鲞	ugqg	100
+鲟	qgvf	100
+鲠	qggr	100
+鲡	qggy	100
+鲢	qglp	100
+鲣	qgjf	100
+鲥	qgjf	100
+鲦	qgts	100
+鲧	qgti	100
+鲨	iitg	100
+鲩	qgpq	100
+鲪	qgvk	100
+鲬	qgce	100
+鲭	qgge	100
+鲮	qgft	100
+鲯	qgdw	100
+鲰	qgbc	100
+鲱	qghd	100
+鲲	qgjx	100
+鲳	qgjj	100
+鲴	qgld	100
+鲵	qgeq	100
+鲷	qgmk	100
+鲹	qgce	100
+鲺	qgnj	100
+鲻	qgvl	100
+鲼	qgfm	100
+鲽	qgas	100
+鲾	qggl	100
+鲿	qgic	100
+鳀	qgjh	100
+鳁	qgjl	100
+鳂	qgle	100
+鳃	qgln	100
+鳅	qgto	100
+鳇	qgrg	100
+鳈	qgri	100
+鳉	qguf	100
+鳊	qgya	100
+鳌	gqtg	100
+鳎	qgjn	100
+鳏	qgli	100
+鳐	qgeb	100
+鳑	qgyy	100
+鳒	qguw	100
+鳓	qgae	100
+鳔	qgsi	100
+鳕	qgfv	100
+鳗	qgjc	100
+鳘	txtg	100
+鳙	qgoh	100
+鳚	qgnf	100
+鳛	qgnr	100
+鳜	qgdw	100
+鳝	qguk	100
+鳟	qguf	100
+鳠	qgac	100
+鳡	qgdn	100
+鳢	qgmu	100
+鳣	qgyg	100
+鳤	qgtn	100
+鸢	ayqg	100
+鸤	nqgg	100
+鸧	wbqg	100
+鸨	xfqg	100
+鸩	pqqg	100
+鸪	dqgg	100
+鸫	aiqg	100
+鸬	hnqg	100
+鸮	kgng	100
+鸰	wycg	100
+鸱	qayg	100
+鸲	qkqg	100
+鸶	xxgg	100
+鸷	rvyg	100
+鸸	dmjg	100
+鸹	tdqg	100
+鸺	wsqg	100
+鸻	tgsg	100
+鸼	tuqg	100
+鸾	yoqg	100
+鹀	awwg	100
+鹁	fpbg	100
+鹂	gmyg	100
+鹄	tfkg	100
+鹆	wwkg	100
+鹇	usqg	100
+鹈	uxhg	100
+鹋	alqg	100
+鹌	djng	100
+鹍	jxxg	100
+鹎	rtfg	100
+鹐	qeqg	100
+鹑	ybqg	100
+鹒	ovwg	100
+鹔	vhjg	100
+鹕	deqg	100
+鹖	jqwg	100
+鹗	kkfg	100
+鹘	meqg	100
+鹙	toqg	100
+鹚	uxxg	100
+鹛	nhqg	100
+鹜	cnhg	100
+鹝	gkmg	100
+鹞	etfg	100
+鹟	wcng	100
+鹠	qyvg	100
+鹡	iweg	100
+鹢	uwlg	100
+鹣	uvjg	100
+鹧	oaog	100
+鹨	nweg	100
+鹩	dujg	100
+鹪	wyog	100
+鹫	yidg	100
+鹬	cnhg	100
+鹭	khtg	100
+鹮	lgkg	100
+鹯	ylkg	100
+鹱	qgac	100
+鹲	apfg	100
+鹳	akkg	100
+鹴	fshg	100
+鹾	hlra	100
+麀	oxxx	100
+麂	oxxw	100
+麇	oxxt	100
+麈	oxxg	100
+麋	oxxo	100
+麑	oxxq	100
+麒	oxxw	100
+麓	ssox	100
+麖	oxxi	100
+麝	oxxf	100
+麟	oxxg	100
+麹	gqqo	100
+麽	ossc	100
+麾	osse	100
+黇	amwk	100
+黉	ipaw	100
+黏	twik	100
+黛	wayo	100
+黜	lfom	100
+黝	lfoe	100
+黟	lfoq	100
+黠	lfok	100
+黡	ddlo	100
+黢	lfot	100
+黥	lfoi	100
+黧	tqto	100
+黩	lfod	100
+黪	lfoe	100
+黯	lfoj	100
+黹	oiu	100
+黻	oidy	100
+黼	oisy	100
+黾	kjnb	100
+鼋	fqkn	100
+鼍	kkln	100
+鼐	bhnn	100
+鼒	fthn	100
+鼗	qifc	100
+鼙	fkuf	100
+鼢	enuv	100
+鼩	enuk	100
+鼫	enud	100
+鼬	enum	100
+鼯	enuk	100
+鼱	enue	100
+鼷	enud	100
+鼹	enuv	100
+鼽	thlv	100
+鼾	thlf	100
+齁	thlk	100
+齇	thlg	100
+齉	thle	100
+齑	yjhg	100
+龀	hwbx	100
+龁	hwbn	100
+龂	hwbr	100
+龃	hwbg	100
+龅	hwbn	100
+龆	hwbk	100
+龇	hwbx	100
+龈	hwbv	100
+龉	hwbk	100
+龊	hwbh	100
+龋	hwby	100
+龌	hwbf	100
+龚	dxyw	100
+龛	wgky	100
+龠	wgka	100
+龢	wgkt	100
+鿍	ftgh	100
+鿎	ddpy	100
+鿏	qgty	100

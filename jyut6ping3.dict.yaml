@@ -1,0 +1,10 @@
+# Rime dictionary
+# encoding: utf-8
+---
+name: jyut6ping3
+version: "1.0"
+sort: by_weight
+import_tables:
+  - jyut6ping3_chars
+  - jyut6ping3_words
+...
